@@ -2375,8 +2375,8 @@
             "map_locations": [
               {
                 "map": "map_olympus_mount_olympus_p2",
-                "x": 512,
-                "y": 158
+                "x": 154,
+                "y": 287
               }
             ]
           },
@@ -2391,8 +2391,8 @@
             "map_locations": [
               {
                 "map": "map_olympus_mount_olympus_p2",
-                "x": 154,
-                "y": 287
+                "x": 512,
+                "y": 158
               }
             ]
           },
@@ -4139,8 +4139,8 @@
             "map_locations": [
               {
                 "map": "map_monstropolis_monsters_inc",
-                "x": 570,
-                "y": 522
+                "x": 513,
+                "y": 422
               }
             ]
           },
@@ -4251,8 +4251,8 @@
             "map_locations": [
               {
                 "map": "map_monstropolis_factory",
-                "x": 620,
-                "y": 380
+                "x": 583,
+                "y": 399
               }
             ]
           },
@@ -4283,7 +4283,7 @@
             "map_locations": [
               {
                 "map": "map_monstropolis_factory",
-                "x": 192,
+                "x": 181,
                 "y": 315
               }
             ]
@@ -4379,8 +4379,8 @@
             "map_locations": [
               {
                 "map": "map_monstropolis_door_vault",
-                "x": 487,
-                "y": 453
+                "x": 445,
+                "y": 469
               }
             ]
           },
@@ -4395,8 +4395,8 @@
             "map_locations": [
               {
                 "map": "map_monstropolis_door_vault",
-                "x": 445,
-                "y": 469
+                "x": 487,
+                "y": 453
               }
             ]
           },
@@ -4458,9 +4458,9 @@
             ],
             "map_locations": [
               {
-                "map": "map_monstropolis_monsters_inc",
-                "x": 451,
-                "y": 263
+                "map": "map_monstropolis_door_vault",
+                "x": 189,
+                "y": 53
               }
             ]
           },
@@ -6611,8 +6611,8 @@
             "map_locations": [
               {
                 "map": "map_keyblade_graveyard",
-                "x": 312,
-                "y": 530
+                "x": 294,
+                "y": 537
               }
             ]
           },
@@ -6984,7 +6984,13 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_re_mind",
+                "x": 170,
+                "y": 436
+              }
+            ]
           },
           {
             "name": "Re Mind - Large Chest 2",
@@ -6994,7 +7000,13 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_re_mind",
+                "x": 672,
+                "y": 417
+              }
+            ]
           },
           {
             "name": "Re Mind - Small Chest 1",
@@ -7004,7 +7016,13 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_re_mind",
+                "x": 697,
+                "y": 362
+              }
+            ]
           },
           {
             "name": "Re Mind - Small Chest 2",
@@ -7014,7 +7032,13 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_re_mind",
+                "x": 499,
+                "y": 382
+              }
+            ]
           },
           {
             "name": "Re Mind - Small Chest 3",
@@ -7024,7 +7048,13 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_re_mind",
+                "x": 496,
+                "y": 359
+              }
+            ]
           },
           {
             "name": "Re Mind - Small Chest 4",
@@ -7034,7 +7064,13 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_re_mind",
+                "x": 51,
+                "y": 280
+              }
+            ]
           },
           {
             "name": "Re Mind - Small Chest 5",
@@ -7044,7 +7080,13 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_re_mind",
+                "x": 393,
+                "y": 255
+              }
+            ]
           },
           {
             "name": "Re Mind - Small Chest 6",
@@ -7054,7 +7096,13 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_re_mind",
+                "x": 577,
+                "y": 168
+              }
+            ]
           },
           {
             "name": "Re Mind - Small Chest 7",
@@ -7064,7 +7112,13 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_re_mind",
+                "x": 525,
+                "y": 24
+              }
+            ]
           }
         ]
       }
