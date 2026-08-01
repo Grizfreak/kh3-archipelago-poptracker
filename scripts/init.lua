@@ -4,6 +4,9 @@ print("-- KH3 Archipelago Tracker --")
 -- Items
 Tracker:AddItems("items/items.json")
 
+-- Logic functions (must load before locations reference them)
+ScriptHost:LoadScript("scripts/logic.lua")
+
 -- Maps
 Tracker:AddMaps("maps/maps.json")
 

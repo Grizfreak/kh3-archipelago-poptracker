@@ -1,7 +1,13 @@
 [
 {
+    "package_version": "0.2.0",
+    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.2.0/kh3-archipelago-poptracker-v0.2.0.zip",
+    "sha256": "",
+    "changelog": ["Added Logic."]
+  },
+  {
     "package_version": "0.1.9",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.8/kh3-archipelago-poptracker-v0.1.9.zip",
+    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.9/kh3-archipelago-poptracker-v0.1.9.zip",
     "sha256": "",
     "changelog": ["Added Re-Mind DLC and fixed some chests."]
   },

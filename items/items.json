@@ -551,5 +551,155 @@
     "codes": "active_radiant_garden",
     "img": "images/items/slot.png",
     "img_mods": "none"
+  },
+  {
+    "name": "Ability: Superjump",
+    "type": "toggle",
+    "codes": "ability_superjump",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Ability: Wall Kick",
+    "type": "toggle",
+    "codes": "ability_wall_kick",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Ability: Pole Spin",
+    "type": "toggle",
+    "codes": "ability_pole_spin",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Ability: Block",
+    "type": "toggle",
+    "codes": "ability_block",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Ability: Dodge Roll",
+    "type": "toggle",
+    "codes": "ability_dodge_roll",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Ability: Counter Slash",
+    "type": "toggle",
+    "codes": "ability_counter_slash",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Ability: Counter Kick",
+    "type": "toggle",
+    "codes": "ability_counter_kick",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Ability: Combo Master",
+    "type": "toggle",
+    "codes": "ability_combo_master",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Unlock: Wall Run",
+    "type": "toggle",
+    "codes": "unlock_wall_run",
+    "img": "images/items/slot.png"
+  },
+  {
+    "name": "Unlock: Magic",
+    "type": "toggle",
+    "codes": "unlock_magic",
+    "img": "images/items/slot.png"
+  },
+  {
+    "name": "Unlock: Attraction Flow",
+    "type": "toggle",
+    "codes": "unlock_attraction_flow",
+    "img": "images/items/slot.png"
+  },
+  {
+    "name": "Unlock: Airstep",
+    "type": "toggle",
+    "codes": "unlock_airstep",
+    "img": "images/items/slot.png"
+  },
+  {
+    "name": "Kingdom Key",
+    "type": "toggle",
+    "codes": "kingdom_key",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Unlock: Style Change",
+    "type": "toggle",
+    "codes": "unlock_style_change",
+    "img": "images/items/slot.png"
+  },
+  {
+    "name": "Classic Tone",
+    "type": "toggle",
+    "codes": "kb_classic_tone",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Hero's Origin",
+    "type": "toggle",
+    "codes": "kb_heros_origin",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Wheel of Fate",
+    "type": "toggle",
+    "codes": "kb_wheel_of_fate",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Crystal Snow",
+    "type": "toggle",
+    "codes": "kb_crystal_snow",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Ever After",
+    "type": "toggle",
+    "codes": "kb_ever_after",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Oblivion",
+    "type": "toggle",
+    "codes": "kb_oblivion",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Oathkeeper",
+    "type": "toggle",
+    "codes": "kb_oathkeeper",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Nano Gear",
+    "type": "toggle",
+    "codes": "kb_nano_gear",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Happy Gear",
+    "type": "toggle",
+    "codes": "kb_happy_gear",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Favorite Deputy",
+    "type": "toggle",
+    "codes": "kb_favorite_deputy",
+    "img": "images/items/ability.png"
+  },
+  {
+    "name": "Shooting Star",
+    "type": "toggle",
+    "codes": "kb_shooting_star",
+    "img": "images/items/ability.png"
   }
 ]

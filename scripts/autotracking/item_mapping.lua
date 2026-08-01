@@ -186,4 +186,23 @@ ITEM_MAPPING_BY_NAME = {
     ["Secret Report 11"] = { code = "secret_report", type = "consumable" },
     ["Secret Report 12"] = { code = "secret_report", type = "consumable" },
     ["Secret Report 13"] = { code = "secret_report", type = "consumable" },
+
+    -- Logic items (portal keyblades, unlocks, movement abilities)
+    ["Hero's Origin"] = { code = "kb_heros_origin", type = "toggle" },
+    ["Favorite Deputy"] = { code = "kb_favorite_deputy", type = "toggle" },
+    ["Happy Gear"] = { code = "kb_happy_gear", type = "toggle" },
+    ["Ever After"] = { code = "kb_ever_after", type = "toggle" },
+    ["Wheel of Fate"] = { code = "kb_wheel_of_fate", type = "toggle" },
+    ["Crystal Snow"] = { code = "kb_crystal_snow", type = "toggle" },
+    ["Nano Gear"] = { code = "kb_nano_gear", type = "toggle" },
+    ["Shooting Star"] = { code = "kb_shooting_star", type = "toggle" },
+    ["Kingdom Key"] = { code = "kingdom_key", type = "toggle" },
+    ["Classic Tone"] = { code = "kb_classic_tone", type = "toggle" },
+    ["Oblivion"] = { code = "kb_oblivion", type = "toggle" },
+    ["Oathkeeper"] = { code = "kb_oathkeeper", type = "toggle" },
+    ["Unlock: Wall Run"] = { code = "unlock_wall_run", type = "toggle" },
+    ["Unlock: Magic"] = { code = "unlock_magic", type = "toggle" },
+    ["Unlock: Attraction Flow"] = { code = "unlock_attraction_flow", type = "toggle" },
+    ["Unlock: Airstep"] = { code = "unlock_airstep", type = "toggle" },
+    ["Unlock: Style Change"] = { code = "unlock_style_change", type = "toggle" },
 }

@@ -618,6 +618,16 @@ function autoFill(slot_data)
         if obj then obj.Active = active end
     end
 
+    -- Controller unlock items (from slot_data.controller_unlocks)
+    local cu = slot_data["controller_unlocks"] or {}
+    setToggle("unlock_wall_run",        cu["wall_run"]        == true)
+    setToggle("unlock_magic",           cu["magic"]           == true)
+    setToggle("unlock_attraction_flow", cu["attraction_flow"] == true)
+    setToggle("unlock_style_change",    cu["style_change"]    == true)
+    -- Airstep=true means Air Slide works via controller (always available)
+    -- Activate unlock_airstep; ability_air_slide tracks the actual item
+    setToggle("unlock_airstep",         cu["airstep"]         == true)
+
     -- include_* world flags (1 = enabled, 0 = disabled)
     setToggle("active_battlegates",        (slot_data["include_battlegates"]        or 0) == 1)
     setToggle("active_remind",             (slot_data["include_remind"]             or 0) == 1)
