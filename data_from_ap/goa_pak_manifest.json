@@ -1,0 +1,651 @@
+{
+  "schema": "kh3.goa_pak_manifest.v1",
+  "description": "Assets that should always be cooked and overlaid when rebuilding the KH3 Garden of Assemblage mod pak.",
+  "engine_root": "D:/Projects/UnrealEngine-CEEnd-KHEngineBuilt",
+  "project_root": "D:/Projects/UnrealEngine-CEEnd-KHEngineBuilt/Projects/TresGame",
+  "installed_pak_path": "D:/Steam/steamapps/common/KINGDOM HEARTS III/KINGDOM HEARTS III/Content/Paks/~mods/pakchunk99-GardenOfAssemblageRandomizer_99_P.pak",
+  "mount_point": "../../../KINGDOM HEARTS III/",
+  "raw_overlay_source_root": "C:/Users/shado/Downloads/RandoKey/RandoKey/KINGDOM HEARTS III/Content",
+  "bundled_overlay_source_root": "worlds/kh3/data/goa_pak_overlay/Content",
+  "recent_edit_ignore_before": "2026-06-10T11:00:00",
+  "remove_from_base_pak": [
+    {
+      "path": "/Game/Blueprints/GoA/Data/GoaSeedOptions_DT",
+      "kind": "asset",
+      "reason": "Seed-specific DataTable is supplied by the generated seed pak so per-seed values win."
+    },
+    {
+      "path": "/Game/Load/Tres/TresItemData",
+      "kind": "asset",
+      "reason": "Seed-specific item rows and AP display names are supplied by the generated seed pak so Lucky Mark AP popup names can resolve."
+    },
+    {
+      "path": "/Game/Blueprints/Gimmick/g_TreasureBoxParent",
+      "kind": "asset",
+      "reason": "Do not ship the static small chest blueprint repair overlay; the known-good GoA backup did not include it and current builds can spawn small chests already looted."
+    },
+    {
+      "path": "/Game/Blueprints/Gimmick/g_TreasureBox",
+      "kind": "asset",
+      "reason": "Do not ship the static small chest blueprint repair overlay; the known-good GoA backup did not include it and current builds can spawn small chests already looted."
+    },
+    {
+      "path": "Config/Windows/WindowsEngine.ini",
+      "kind": "pak_file",
+      "reason": "Do not override Steam's OnlineSubsystem config; forcing EOS_Tres makes KH3 derive a volatile save-validation identity on boot."
+    },
+    {
+      "path": "/Game/Blueprints/Gimmick/ex/g_ex_SavePoint",
+      "kind": "asset",
+      "reason": "Global save point blueprint override breaks normal-world save points; resolve the vanilla asset from the base game instead."
+    },
+    {
+      "path": "/Game/Blueprints/Gimmick/ex/save_point_goa",
+      "kind": "asset",
+      "reason": "Stale GoA-local save point subclass was an incomplete replacement; GoA_01 should reference the base-game g_ex_SavePoint instead."
+    },
+    {
+      "path": "/Game/Levels/he/he_01/he_01",
+      "kind": "map",
+      "reason": "Do not ship a static Olympus he_01 override; use the base game map so runtime save point handling can own Olympus behavior."
+    },
+    {
+      "path": "/Game/Levels/rg_DLC/rg_03/rg_03",
+      "kind": "map",
+      "reason": "Allow Re:Mind rg_03 to resolve from the base game instead of any stale static GoA override."
+    },
+    {
+      "path": "/Game/Levels/rg_DLC/rg_03/umap/rg_03_SpecialSpawn",
+      "kind": "map",
+      "reason": "Remove GoA's rg_03 special-spawn overlay so the vanilla Re:Mind map stack owns portal/reactor placement."
+    },
+    {
+      "path": "/Game/Levels/rg_DLC/rg_03/umap/rg_03_SpecialSpawn_Original",
+      "kind": "map",
+      "reason": "Remove the stale GoA rg_03 special-spawn backup copy along with the active overlay."
+    },
+    {
+      "path": "/Game/Maps/rg_DLC/umap/rg_03/rg_03_areaA",
+      "kind": "map",
+      "reason": "Do not let static GoA ship rg_03 sublevels; use the base game's Re:Mind assets instead."
+    },
+    {
+      "path": "/Game/Maps/rg_DLC/umap/rg_03/rg_03_ENV",
+      "kind": "map",
+      "reason": "Do not let static GoA ship rg_03 sublevels; use the base game's Re:Mind assets instead."
+    },
+    {
+      "path": "/Game/Maps/rg_DLC/umap/rg_03/rg_03_ENV_ALL",
+      "kind": "map",
+      "reason": "Do not let static GoA ship rg_03 sublevels; use the base game's Re:Mind assets instead."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_02/Portal02",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_03/Portal03",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_04/Portal04",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_05/Portal05",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_06/Portal06",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_07/Portal07",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_08/Portal08",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_09/Portal09",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_10/Portal010",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_11/Portal011",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_12/Portal012",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_13/Portal013",
+      "kind": "asset",
+      "reason": "Portals 02-013 were removed from the static GoA mod."
+    }
+  ],
+  "raw_overlay_directories": [
+    {
+      "path": "/Game/Character/wep/w_so120",
+      "category": "pandoras_power_keyblade"
+    },
+    {
+      "path": "/Game/Effects/wep/w_so120",
+      "category": "pandoras_power_keyblade"
+    },
+    {
+      "path": "/Game/UI/Icon/Keyblade",
+      "category": "pandoras_power_keyblade"
+    }
+  ],
+  "raw_overlay_files": [
+    {
+      "path": "/Game/Localization/Game/en/kh3_randomizer.locres",
+      "category": "goa_ui_localization"
+    },
+    {
+      "path": "/Game/Localization/Game/en/pandoras_power_form.locres",
+      "category": "pandoras_power_keyblade"
+    },
+    {
+      "path": "/Game/Localization/Game/en/pandoras_power_name.locres",
+      "category": "pandoras_power_keyblade"
+    },
+    {
+      "path": "/Game/UI/Icon/Item/weapon017.uasset",
+      "category": "pandoras_power_keyblade"
+    },
+    {
+      "path": "/Game/UI/Icon/Item/weapon017.uexp",
+      "category": "pandoras_power_keyblade"
+    }
+  ],
+  "bundled_overlay_assets": [
+    {
+      "path": "/Game/UI/Scaleform/11_title/TitleLogo",
+      "category": "title_branding"
+    }
+  ],
+  "assets": [
+    {
+      "path": "/Game/Blueprints/GoA/Data/KH3AreaSelectData_DT",
+      "kind": "asset",
+      "category": "goa_save_point_ui"
+    },
+    {
+      "path": "/Game/UI/Data/AreaSelectData",
+      "kind": "asset",
+      "category": "goa_save_point_ui"
+    },
+    {
+      "path": "/Game/UI/Data/SaveMenuRestrictionData",
+      "kind": "asset",
+      "category": "goa_save_point_ui"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/UI/BP_KH3AreaSelectLibrary",
+      "kind": "asset",
+      "category": "goa_save_point_ui"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/UI/W_ProofUI",
+      "kind": "asset",
+      "category": "core_ui"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/UI/soras_heart",
+      "kind": "asset",
+      "category": "core_ui"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/SaveData/GoAFlagData",
+      "kind": "asset",
+      "category": "core_save"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/SaveData/GoAPlayerStartData",
+      "kind": "asset",
+      "category": "core_save"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/SaveData/GoASavePointData",
+      "kind": "asset",
+      "category": "core_save"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/SaveData/StationPathway",
+      "kind": "asset",
+      "category": "core_save"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/Data/GoASeedOptions_Unlocks",
+      "kind": "asset",
+      "category": "seed_options"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/Actors/A_GoA_SavePoint_Logic",
+      "kind": "asset",
+      "category": "core_actors"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/Actors/A_GoA_PartyReplacement",
+      "kind": "asset",
+      "category": "core_actors"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/Actors/DeathMirror/A_GoA_DeathMirror",
+      "kind": "asset",
+      "category": "death_mirror"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/Actors/DeathMirror/M_GoA_DeathMirrorSurface",
+      "kind": "asset",
+      "category": "death_mirror"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/Actors/DeathMirror/M_GoA_DeathMirrorFrame",
+      "kind": "asset",
+      "category": "death_mirror"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/umap/StationOfAwakening",
+      "kind": "map",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/uasset/Actor/Mirror/Warrior/Mirror_Warrior",
+      "kind": "asset",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/uasset/Actor/Mirror/Mystic/Mirror_Mystic",
+      "kind": "asset",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/uasset/Actor/Mirror/Guardian/Mirror_Guardian",
+      "kind": "asset",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/uasset/Actor/Mirror/NoCodes/Mirror_No",
+      "kind": "asset",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/uasset/Actor/Mirror/EzCodes/Mirror_EZ",
+      "kind": "asset",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/uasset/Actor/Mirror/ProCodes/Mirror_Pro",
+      "kind": "asset",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/uasset/Actor/Mirror/Balance/Mirror_Balance",
+      "kind": "asset",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/uasset/Actor/Mirror/Vitality/Mirror_Vitality",
+      "kind": "asset",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Maps/StationOfAwakening/uasset/Actor/Mirror/Wisdom/Mirror_Wisdom",
+      "kind": "asset",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Cutscene/Localization/ja/bt/cutscene_bt50_bt051",
+      "kind": "map",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Cutscene/Localization/ja/gm/cutscene_gm50_gm431",
+      "kind": "map",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Cutscene/Localization/ja/rg/cutscene_rg50_rg331",
+      "kind": "map",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Cutscene/Localization/ja/yt/cutscene_yt50_yt021",
+      "kind": "map",
+      "category": "controller_unlocks"
+    },
+    {
+      "path": "/Game/Levels/rg_DLC/rg_03/rg_redirector",
+      "kind": "map",
+      "category": "data_battle_return"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/umap/GoA_01",
+      "kind": "map",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/umap/GoA_02",
+      "kind": "map",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/umap/GoA_gimmick",
+      "kind": "map",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/umap/GoASecret_Gimmick",
+      "kind": "map",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Blueprints/Collision/DestinationVolume_BP",
+      "kind": "asset",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/umap/GoA_in_engine_reference",
+      "kind": "map",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Blueprints/Gimmick/rg_DLC/g_rg_symbol/g_rg_symbolBase",
+      "kind": "asset",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Textures/Portals/Portal_Base",
+      "kind": "asset",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Textures/Portals/BX_Portal",
+      "kind": "asset",
+      "category": "goa_world_return_portal"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/UI/Materials/M_GoA_AreaSelectPanel",
+      "kind": "asset",
+      "category": "goa_save_point_ui"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/UI/Materials/M_GoA_AreaSelectPanel_Inst",
+      "kind": "asset",
+      "category": "goa_save_point_ui"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/UI/Materials/M_GoA_AreaSelectSlot",
+      "kind": "asset",
+      "category": "goa_save_point_ui"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/UI/W_SaveChoiceUI",
+      "kind": "asset",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Blueprints/GoA/UI/W_SaveImage",
+      "kind": "asset",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_computer_01/g_rg_Computer_01",
+      "kind": "asset",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_01/Portal01",
+      "kind": "asset",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_02/Mesh/g_rg_symbol_02",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_02/Mesh/MI_rg_TeleportPortal02",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_03/Mesh/g_rg_symbol_03",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_03/Mesh/MI_rg_TeleportPortal03",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_04/Mesh/g_rg_symbol_04",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_04/Mesh/MI_rg_TeleportPortal04",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_05/Mesh/g_rg_symbol_05",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_05/Mesh/MI_rg_TeleportPortal05",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_06/Mesh/g_rg_symbol_06",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_06/Mesh/MI_rg_TeleportPortal06",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_07/Mesh/g_rg_symbol_07",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_07/Mesh/MI_rg_TeleportPortal07",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_08/Mesh/g_rg_symbol_08",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_08/Mesh/MI_rg_TeleportPortal08",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_09/Mesh/g_rg_symbol_09",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_09/Mesh/MI_rg_TeleportPortal09",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_10/Mesh/g_rg_symbol_10",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_10/Mesh/MI_rg_TeleportPortal10",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_11/Mesh/g_rg_symbol_11",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_11/Mesh/MI_rg_TeleportPortal11",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_12/Mesh/g_rg_symbol_12",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_12/Mesh/MI_rg_TeleportPortal12",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_13/Mesh/g_rg_symbol_13",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_13/Mesh/MI_rg_TeleportPortal13",
+      "kind": "asset",
+      "category": "goa_hub_portal_mesh_dependency"
+    },
+    {
+      "path": "/Game/Maps/GardenOfAssemblage/uasset/Actors/g_rg_symbol_14/Portal014",
+      "kind": "asset",
+      "category": "goa_hub"
+    },
+    {
+      "path": "/Game/Levels/tt/tt_01/tt_99",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/tt/tt_01/umap/tt_01_wind",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/fz/fz_03/umap/fz_03_gimmick_Avalanche",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/gm/gm_01/gm_01",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/gm/gm_02/gm_02",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/gm/gm_03/gm_03",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/kg/kg_02/kg_99",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/rg/rg_50/umap/rg_50_wind",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/rg/rg_51/umap/rg_51_wind",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Maps/ew/umap/ew_01/ew_01_ENV_WaterWorld",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/he/he_02/umap/he_02_wind",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/he/he_03/umap/he_03_wind",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Levels/he/he_50/umap/he_50_wind",
+      "kind": "map",
+      "category": "world_entry_reset"
+    },
+    {
+      "path": "/Game/Mods/KH3Randomizer/LevelUpActor",
+      "kind": "asset",
+      "category": "randomizer_base"
+    },
+    {
+      "path": "/Game/Mods/KH3Randomizer/BaseAbilities",
+      "kind": "asset",
+      "category": "randomizer_base"
+    },
+    {
+      "path": "/Game/Mods/KH3Randomizer/BaseAbilityActor",
+      "kind": "asset",
+      "category": "randomizer_base"
+    },
+    {
+      "path": "/Game/Mods/KH3Randomizer/EventActor",
+      "kind": "asset",
+      "category": "randomizer_base"
+    },
+    {
+      "path": "/Game/Mods/KH3Randomizer/TreasureLogicActor",
+      "kind": "asset",
+      "category": "randomizer_base"
+    }
+  ],
+  "recent_edit_ignored_prefixes": [
+    "/Game/EditorCmn/",
+    "/Game/Developers/",
+    "/Game/StarterContent/",
+    "/Game/ThirdPerson/",
+    "/Game/Mannequin/",
+    "/Game/UI/Icon/",
+    "/Game/Splash/",
+    "/Game/Maps/Common/",
+    "/Game/Maps/Example_Map",
+    "/Game/Maps/TresGameTitle",
+    "/Game/Mods/ExampleLogicMod/",
+    "/Game/LogicMods"
+  ]
+}

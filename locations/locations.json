@@ -269,49 +269,49 @@
                 ]
               },
               {
-                "name": "Olympus - EVENT_001 - RandomizedItem",
+                "name": "Forge Knight's Shield+ for Goofy",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Olympus - EVENT_002 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Alleyway, In Building",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Olympus - EVENT_003 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Olympus - EVENT_004 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Garden, In Building",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Olympus - EVENT_005 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Olympus - EVENT_006 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Agora, Near Save Point",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Olympus - EVENT_007 - RandomizedItem",
+                "name": "Return All Golden Herc Figures",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -325,11 +325,11 @@
                 ]
               },
               {
-                "name": "Olympus - Victory Bonus 001",
+                "name": "Olympus - Mount Olympus: Cliff Ascent Heartless",
                 "item_count": 1
               },
               {
-                "name": "Olympus - Victory Bonus 002",
+                "name": "Olympus - Thebes: Agora Flame Cores",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -338,11 +338,7 @@
                 ]
               },
               {
-                "name": "Olympus - Victory Bonus 004",
-                "item_count": 1
-              },
-              {
-                "name": "Olympus - Victory Bonus 005",
+                "name": "Olympus - Thebes: Overlook Flame Cores",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -351,7 +347,7 @@
                 ]
               },
               {
-                "name": "Olympus - Victory Bonus 006",
+                "name": "Olympus - Thebes: Gardens Flame Cores",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -360,7 +356,7 @@
                 ]
               },
               {
-                "name": "Olympus - Victory Bonus 007",
+                "name": "Olympus - Thebes: Alleyway Heartless",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -369,7 +365,7 @@
                 ]
               },
               {
-                "name": "Olympus - Victory Bonus 008",
+                "name": "Defeat Rock Troll in Olympus - Thebes: Agora",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -378,28 +374,28 @@
                 ]
               },
               {
-                "name": "Olympus - Victory Bonus 010",
+                "name": "Defeat Rock Titan in Olympus: Mount Olympus - Summit",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Olympus - Victory Bonus 011",
+                "name": "Olympus - Realm of the Gods: Courtyard Satyrs",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Olympus - Victory Bonus 013",
+                "name": "Defeat Tornado Titan in Olympus: Realm of the Gods",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Olympus - Victory Bonus 082",
+                "name": "Olympus - Defeat Darkside (Final World)",
                 "item_count": 1
               }
             ],
@@ -467,10 +463,6 @@
                 ]
               },
               {
-                "name": "Twilight Town - EVENT_KEYBLADE_010 - RandomizedItem",
-                "item_count": 1
-              },
-              {
                 "name": "Twilight Town - EVENT_CKGAME_001 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
@@ -480,15 +472,15 @@
                 ]
               },
               {
-                "name": "Twilight Town - Victory Bonus 014",
+                "name": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
                 "item_count": 1
               },
               {
-                "name": "Twilight Town - Victory Bonus 015",
+                "name": "Twilight Town - The Woods Powerwilds",
                 "item_count": 1
               },
               {
-                "name": "Twilight Town - Victory Bonus 016",
+                "name": "Twilight Town - The Old Mansion Heartless & Nobodies",
                 "item_count": 1
               }
             ],
@@ -716,19 +708,19 @@
                 ]
               },
               {
-                "name": "Toy Box - Victory Bonus 017",
+                "name": "Toy Box - Andy's House Heartless",
                 "item_count": 1
               },
               {
-                "name": "Toy Box - Victory Bonus 018",
+                "name": "Toy Box - Galaxy Toys: Main Floor: 1F Gigas",
                 "item_count": 1
               },
               {
-                "name": "Toy Box - Victory Bonus 019",
+                "name": "Toy Box - Galaxy Toys: Action Figures Supreme Smashers",
                 "item_count": 1
               },
               {
-                "name": "Toy Box - Victory Bonus 020",
+                "name": "Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -736,7 +728,7 @@
                 ]
               },
               {
-                "name": "Toy Box - Victory Bonus 021",
+                "name": "After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -744,7 +736,7 @@
                 ]
               },
               {
-                "name": "Toy Box - Victory Bonus 022",
+                "name": "Complete Verum Rex: Beat of Lead during the Story",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -752,7 +744,7 @@
                 ]
               },
               {
-                "name": "Toy Box - Victory Bonus 023",
+                "name": "Defeat King of Toys in Toy Box: Galaxy Toys",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -947,40 +939,40 @@
                 ]
               },
               {
-                "name": "Kingdom of Corona - Victory Bonus 024",
+                "name": "Kingdom of Corona - The Forest: Hills Heartless",
                 "item_count": 1
               },
               {
-                "name": "Kingdom of Corona - Victory Bonus 025",
+                "name": "Kingdom of Corona - The Forest: Hills Chief Puffs & Puffballs",
                 "item_count": 1
               },
               {
-                "name": "Kingdom of Corona - Victory Bonus 026",
+                "name": "Kingdom of Corona - The Forest: Hills Reapers",
                 "item_count": 1
               },
               {
-                "name": "Kingdom of Corona - Victory Bonus 027",
+                "name": "Defeat Chaos Carriage in Kingdom of Corona",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Kingdom of Corona - Victory Bonus 028",
+                "name": "Kingdom of Corona - The Kingdom: Wharf Nobodies",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Kingdom of Corona - Victory Bonus 029",
+                "name": "Kingdom of Corona - The Forest: Tower Heartless",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Kingdom of Corona - Victory Bonus 030",
+                "name": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_air_slide,ability_block"
@@ -1142,31 +1134,31 @@
                 ]
               },
               {
-                "name": "Monstropolis - Victory Bonus 032",
+                "name": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed",
                 "item_count": 1
               },
               {
-                "name": "Monstropolis - Victory Bonus 033",
+                "name": "Monstropolis - Monsters Inc.: Laugh Floor Unversed",
                 "item_count": 1
               },
               {
-                "name": "Monstropolis - Victory Bonus 034",
+                "name": "Monstropolis - The Door Vault: Upper Level Heartless",
                 "item_count": 1
               },
               {
-                "name": "Monstropolis - Victory Bonus 035",
+                "name": "Monstropolis - The Factory: Second Floor Heartless & Unversed",
                 "item_count": 1
               },
               {
-                "name": "Monstropolis - Victory Bonus 036",
+                "name": "Monstropolis - The Factory: Second Floor Unversed",
                 "item_count": 1
               },
               {
-                "name": "Monstropolis - Victory Bonus 037",
+                "name": "Monstropolis - The Power Plant: Accessway Heartless & Unversed",
                 "item_count": 1
               },
               {
-                "name": "Monstropolis - Victory Bonus 038",
+                "name": "Monstropolis  - The Power Plant: Tank Yard Heartless",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -1174,7 +1166,7 @@
                 ]
               },
               {
-                "name": "Monstropolis - Victory Bonus 039",
+                "name": "Monstropolis - The Power Plant: Tank Yard Unversed",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -1182,7 +1174,7 @@
                 ]
               },
               {
-                "name": "Monstropolis - Victory Bonus 040",
+                "name": "Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_air_slide,ability_block,unlock_magic,$has_any|dream_heartbinder|ocean_heartbinder|ohana_heartbinder|pixel_heartbinder|pride_heartbinder",
@@ -1391,63 +1383,63 @@
                 ]
               },
               {
-                "name": "Arendelle - Victory Bonus 041",
+                "name": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Arendelle - Victory Bonus 042",
+                "name": "The Labyrinth of Ice: Middle Tier Ninjas I",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
                 ]
               },
               {
-                "name": "Arendelle - Victory Bonus 043",
+                "name": "The Labyrinth of Ice: Lower Tier Ninjas II",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
                 ]
               },
               {
-                "name": "Arendelle - Victory Bonus 044",
+                "name": "The Labyrinth of Ice: Middle Tier Ninjas III",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
                 ]
               },
               {
-                "name": "Arendelle - Victory Bonus 045",
+                "name": "The Labyrinth of Ice: Middle Tier Ninjas IV",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
                 ]
               },
               {
-                "name": "Arendelle - Victory Bonus 047",
+                "name": "Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
                 ]
               },
               {
-                "name": "Arendelle - Victory Bonus 048",
+                "name": "Frozen Slider Frost Serpents",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
                 ]
               },
               {
-                "name": "Arendelle - Victory Bonus 049",
+                "name": "Arendelle - The North Mountain: The Valley of Ice Heartless",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
                 ]
               },
               {
-                "name": "Arendelle - Victory Bonus 050",
+                "name": "Defeat Skoll in Arendelle",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
@@ -1787,39 +1779,39 @@
                 "item_count": 1
               },
               {
-                "name": "The Caribbean - Victory Bonus 058",
+                "name": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker",
                 "item_count": 1
               },
               {
-                "name": "The Caribbean - Victory Bonus 059",
+                "name": "1st Ship Battle in The Caribbean - Over the Edge",
                 "item_count": 1
               },
               {
-                "name": "The Caribbean - Victory Bonus 060",
+                "name": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters",
                 "item_count": 1
               },
               {
-                "name": "The Caribbean - Victory Bonus 061",
+                "name": "Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern",
                 "item_count": 1
               },
               {
-                "name": "The Caribbean - Victory Bonus 062",
+                "name": "Race Luxord to Port Royal in The Caribbean",
                 "item_count": 1
               },
               {
-                "name": "The Caribbean - Victory Bonus 063",
+                "name": "2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters",
                 "item_count": 1
               },
               {
-                "name": "The Caribbean - Victory Bonus 064",
+                "name": "3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle",
                 "item_count": 1
               },
               {
-                "name": "The Caribbean - Victory Bonus 065",
+                "name": "Defeat Kraken in The Caribbean - Shipwreck Cove",
                 "item_count": 1
               },
               {
-                "name": "The Caribbean - Victory Bonus 066",
+                "name": "Defeat Davy Jones in The Caribbean - Shipwreck Cove",
                 "item_count": 1
               }
             ],
@@ -2004,37 +1996,37 @@
                 "item_count": 1
               },
               {
-                "name": "San Fransokyo - Victory Bonus 051",
+                "name": "Defeat Metal Troll in San Fransokyo: The Bridge",
                 "item_count": 1
               },
               {
-                "name": "San Fransokyo - Victory Bonus 052",
+                "name": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage",
                 "item_count": 1
               },
               {
-                "name": "San Fransokyo - Victory Bonus 053",
+                "name": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)",
                 "item_count": 1
               },
               {
-                "name": "San Fransokyo - Victory Bonus 054",
+                "name": "Defeat Catastrochorus in San Fransokyo - The City (Day)",
                 "item_count": 1
               },
               {
-                "name": "San Fransokyo - Victory Bonus 055",
+                "name": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
                 ]
               },
               {
-                "name": "San Fransokyo - Victory Bonus 056",
+                "name": "Defeat Darkubes in San Fransokyo - The City (Night)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
                 ]
               },
               {
-                "name": "San Fransokyo - Victory Bonus 057",
+                "name": "Defeat Dark Baymax in San Fransokyo - The City (Day)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
@@ -2066,28 +2058,28 @@
                 "name": "Keyblade Graveyard - Large Chest 2",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
                 "name": "Keyblade Graveyard - Small Chest 1",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
                 "name": "Keyblade Graveyard - Small Chest 2",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
                 "name": "Keyblade Graveyard - Small Chest 3",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
@@ -2112,77 +2104,77 @@
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 068",
+                "name": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 069",
+                "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 070",
+                "name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 071",
+                "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 072",
+                "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 073",
+                "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 074",
+                "name": "Defeat Saïx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 075",
+                "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 076",
+                "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 083",
+                "name": "After collecting 222 Soras in The Final World",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_attraction_flow"
                 ]
               },
               {
-                "name": "Keyblade Graveyard - Victory Bonus 084",
+                "name": "After collecting 333 Soras in The Final World",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_attraction_flow"
@@ -2204,7 +2196,7 @@
             "name": "Dark World - All Checks",
             "sections": [
               {
-                "name": "Dark World - Victory Bonus 067",
+                "name": "Defeat Anti-Aqua in The Dark World - The Realm of Darkness",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -2226,70 +2218,70 @@
             "name": "Re Mind - All Checks",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 1",
+                "name": "Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
                 ]
               },
               {
-                "name": "Re Mind - Victory Bonus DLC 2",
+                "name": "Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
                 ]
               },
               {
-                "name": "Re Mind - Victory Bonus DLC 3",
+                "name": "Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
                 ]
               },
               {
-                "name": "Re Mind - Victory Bonus DLC 4",
+                "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
                 ]
               },
               {
-                "name": "Re Mind - Victory Bonus DLC 5",
+                "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
                 ]
               },
               {
-                "name": "Re Mind - Victory Bonus DLC 6",
+                "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
                 ]
               },
               {
-                "name": "Re Mind - Victory Bonus DLC 7",
+                "name": "After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
                 ]
               },
               {
-                "name": "Re Mind - Victory Bonus DLC 8",
+                "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
                 ]
               },
               {
-                "name": "Re Mind - Victory Bonus DLC 10",
+                "name": "Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
                 ]
               },
               {
-                "name": "Re Mind - Victory Bonus DLC 15",
+                "name": "Defeat Armored Xehanort in Re:Mind",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -3771,10 +3763,10 @@
         "name": "Events",
         "children": [
           {
-            "name": "Olympus - EVENT_001 - RandomizedItem",
+            "name": "Forge Knight's Shield+ for Goofy",
             "sections": [
               {
-                "name": "Olympus - EVENT_001 - RandomizedItem",
+                "name": "Forge Knight's Shield+ for Goofy",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -3784,10 +3776,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - EVENT_002 - RandomizedItem",
+            "name": "Find Golden Herc Figure in Thebes: Alleyway, In Building",
             "sections": [
               {
-                "name": "Olympus - EVENT_002 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Alleyway, In Building",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -3797,10 +3789,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - EVENT_003 - RandomizedItem",
+            "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
             "sections": [
               {
-                "name": "Olympus - EVENT_003 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -3810,10 +3802,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - EVENT_004 - RandomizedItem",
+            "name": "Find Golden Herc Figure in Thebes: Garden, In Building",
             "sections": [
               {
-                "name": "Olympus - EVENT_004 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Garden, In Building",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -3823,10 +3815,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - EVENT_005 - RandomizedItem",
+            "name": "Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield",
             "sections": [
               {
-                "name": "Olympus - EVENT_005 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -3836,10 +3828,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - EVENT_006 - RandomizedItem",
+            "name": "Find Golden Herc Figure in Thebes: Agora, Near Save Point",
             "sections": [
               {
-                "name": "Olympus - EVENT_006 - RandomizedItem",
+                "name": "Find Golden Herc Figure in Thebes: Agora, Near Save Point",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -3849,10 +3841,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - EVENT_007 - RandomizedItem",
+            "name": "Return All Golden Herc Figures",
             "sections": [
               {
-                "name": "Olympus - EVENT_007 - RandomizedItem",
+                "name": "Return All Golden Herc Figures",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -3875,20 +3867,20 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 001",
+            "name": "Olympus - Mount Olympus: Cliff Ascent Heartless",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 001",
+                "name": "Olympus - Mount Olympus: Cliff Ascent Heartless",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 002",
+            "name": "Olympus - Thebes: Agora Flame Cores",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 002",
+                "name": "Olympus - Thebes: Agora Flame Cores",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -3910,10 +3902,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 005",
+            "name": "Olympus - Thebes: Overlook Flame Cores",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 005",
+                "name": "Olympus - Thebes: Overlook Flame Cores",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -3925,10 +3917,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 006",
+            "name": "Olympus - Thebes: Gardens Flame Cores",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 006",
+                "name": "Olympus - Thebes: Gardens Flame Cores",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -3940,10 +3932,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 007",
+            "name": "Olympus - Thebes: Alleyway Heartless",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 007",
+                "name": "Olympus - Thebes: Alleyway Heartless",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -3955,10 +3947,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 008",
+            "name": "Defeat Rock Troll in Olympus - Thebes: Agora",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 008",
+                "name": "Defeat Rock Troll in Olympus - Thebes: Agora",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -3970,10 +3962,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 010",
+            "name": "Defeat Rock Titan in Olympus: Mount Olympus - Summit",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 010",
+                "name": "Defeat Rock Titan in Olympus: Mount Olympus - Summit",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -3983,10 +3975,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 011",
+            "name": "Olympus - Realm of the Gods: Courtyard Satyrs",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 011",
+                "name": "Olympus - Realm of the Gods: Courtyard Satyrs",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -3996,10 +3988,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 013",
+            "name": "Defeat Tornado Titan in Olympus: Realm of the Gods",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 013",
+                "name": "Defeat Tornado Titan in Olympus: Realm of the Gods",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -4009,10 +4001,10 @@
             "map_locations": []
           },
           {
-            "name": "Olympus - Victory Bonus 082",
+            "name": "Olympus - Defeat Darkside (Final World)",
             "sections": [
               {
-                "name": "Olympus - Victory Bonus 082",
+                "name": "Olympus - Defeat Darkside (Final World)",
                 "item_count": 1
               }
             ],
@@ -4237,30 +4229,30 @@
             "map_locations": []
           },
           {
-            "name": "Twilight Town - Victory Bonus 014",
+            "name": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
             "sections": [
               {
-                "name": "Twilight Town - Victory Bonus 014",
+                "name": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Twilight Town - Victory Bonus 015",
+            "name": "Twilight Town - The Woods Powerwilds",
             "sections": [
               {
-                "name": "Twilight Town - Victory Bonus 015",
+                "name": "Twilight Town - The Woods Powerwilds",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Twilight Town - Victory Bonus 016",
+            "name": "Twilight Town - The Old Mansion Heartless & Nobodies",
             "sections": [
               {
-                "name": "Twilight Town - Victory Bonus 016",
+                "name": "Twilight Town - The Old Mansion Heartless & Nobodies",
                 "item_count": 1
               }
             ],
@@ -4854,40 +4846,40 @@
             "map_locations": []
           },
           {
-            "name": "Toy Box - Victory Bonus 017",
+            "name": "Toy Box - Andy's House Heartless",
             "sections": [
               {
-                "name": "Toy Box - Victory Bonus 017",
+                "name": "Toy Box - Andy's House Heartless",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Toy Box - Victory Bonus 018",
+            "name": "Toy Box - Galaxy Toys: Main Floor: 1F Gigas",
             "sections": [
               {
-                "name": "Toy Box - Victory Bonus 018",
+                "name": "Toy Box - Galaxy Toys: Main Floor: 1F Gigas",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Toy Box - Victory Bonus 019",
+            "name": "Toy Box - Galaxy Toys: Action Figures Supreme Smashers",
             "sections": [
               {
-                "name": "Toy Box - Victory Bonus 019",
+                "name": "Toy Box - Galaxy Toys: Action Figures Supreme Smashers",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Toy Box - Victory Bonus 020",
+            "name": "Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls",
             "sections": [
               {
-                "name": "Toy Box - Victory Bonus 020",
+                "name": "Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -4898,10 +4890,10 @@
             "map_locations": []
           },
           {
-            "name": "Toy Box - Victory Bonus 021",
+            "name": "After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors",
             "sections": [
               {
-                "name": "Toy Box - Victory Bonus 021",
+                "name": "After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -4912,10 +4904,10 @@
             "map_locations": []
           },
           {
-            "name": "Toy Box - Victory Bonus 022",
+            "name": "Complete Verum Rex: Beat of Lead during the Story",
             "sections": [
               {
-                "name": "Toy Box - Victory Bonus 022",
+                "name": "Complete Verum Rex: Beat of Lead during the Story",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -4926,10 +4918,10 @@
             "map_locations": []
           },
           {
-            "name": "Toy Box - Victory Bonus 023",
+            "name": "Defeat King of Toys in Toy Box: Galaxy Toys",
             "sections": [
               {
-                "name": "Toy Box - Victory Bonus 023",
+                "name": "Defeat King of Toys in Toy Box: Galaxy Toys",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -5472,40 +5464,40 @@
             "map_locations": []
           },
           {
-            "name": "Kingdom of Corona - Victory Bonus 024",
+            "name": "Kingdom of Corona - The Forest: Hills Heartless",
             "sections": [
               {
-                "name": "Kingdom of Corona - Victory Bonus 024",
+                "name": "Kingdom of Corona - The Forest: Hills Heartless",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Kingdom of Corona - Victory Bonus 025",
+            "name": "Kingdom of Corona - The Forest: Hills Chief Puffs & Puffballs",
             "sections": [
               {
-                "name": "Kingdom of Corona - Victory Bonus 025",
+                "name": "Kingdom of Corona - The Forest: Hills Chief Puffs & Puffballs",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Kingdom of Corona - Victory Bonus 026",
+            "name": "Kingdom of Corona - The Forest: Hills Reapers",
             "sections": [
               {
-                "name": "Kingdom of Corona - Victory Bonus 026",
+                "name": "Kingdom of Corona - The Forest: Hills Reapers",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Kingdom of Corona - Victory Bonus 027",
+            "name": "Defeat Chaos Carriage in Kingdom of Corona",
             "sections": [
               {
-                "name": "Kingdom of Corona - Victory Bonus 027",
+                "name": "Defeat Chaos Carriage in Kingdom of Corona",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -5515,10 +5507,10 @@
             "map_locations": []
           },
           {
-            "name": "Kingdom of Corona - Victory Bonus 028",
+            "name": "Kingdom of Corona - The Kingdom: Wharf Nobodies",
             "sections": [
               {
-                "name": "Kingdom of Corona - Victory Bonus 028",
+                "name": "Kingdom of Corona - The Kingdom: Wharf Nobodies",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -5528,10 +5520,10 @@
             "map_locations": []
           },
           {
-            "name": "Kingdom of Corona - Victory Bonus 029",
+            "name": "Kingdom of Corona - The Forest: Tower Heartless",
             "sections": [
               {
-                "name": "Kingdom of Corona - Victory Bonus 029",
+                "name": "Kingdom of Corona - The Forest: Tower Heartless",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -5541,10 +5533,10 @@
             "map_locations": []
           },
           {
-            "name": "Kingdom of Corona - Victory Bonus 030",
+            "name": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower",
             "sections": [
               {
-                "name": "Kingdom of Corona - Victory Bonus 030",
+                "name": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_air_slide,ability_block"
@@ -5994,70 +5986,70 @@
             "map_locations": []
           },
           {
-            "name": "Monstropolis - Victory Bonus 032",
+            "name": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed",
             "sections": [
               {
-                "name": "Monstropolis - Victory Bonus 032",
+                "name": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Monstropolis - Victory Bonus 033",
+            "name": "Monstropolis - Monsters Inc.: Laugh Floor Unversed",
             "sections": [
               {
-                "name": "Monstropolis - Victory Bonus 033",
+                "name": "Monstropolis - Monsters Inc.: Laugh Floor Unversed",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Monstropolis - Victory Bonus 034",
+            "name": "Monstropolis - The Door Vault: Upper Level Heartless",
             "sections": [
               {
-                "name": "Monstropolis - Victory Bonus 034",
+                "name": "Monstropolis - The Door Vault: Upper Level Heartless",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Monstropolis - Victory Bonus 035",
+            "name": "Monstropolis - The Factory: Second Floor Heartless & Unversed",
             "sections": [
               {
-                "name": "Monstropolis - Victory Bonus 035",
+                "name": "Monstropolis - The Factory: Second Floor Heartless & Unversed",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Monstropolis - Victory Bonus 036",
+            "name": "Monstropolis - The Factory: Second Floor Unversed",
             "sections": [
               {
-                "name": "Monstropolis - Victory Bonus 036",
+                "name": "Monstropolis - The Factory: Second Floor Unversed",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Monstropolis - Victory Bonus 037",
+            "name": "Monstropolis - The Power Plant: Accessway Heartless & Unversed",
             "sections": [
               {
-                "name": "Monstropolis - Victory Bonus 037",
+                "name": "Monstropolis - The Power Plant: Accessway Heartless & Unversed",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "Monstropolis - Victory Bonus 038",
+            "name": "Monstropolis  - The Power Plant: Tank Yard Heartless",
             "sections": [
               {
-                "name": "Monstropolis - Victory Bonus 038",
+                "name": "Monstropolis  - The Power Plant: Tank Yard Heartless",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -6068,10 +6060,10 @@
             "map_locations": []
           },
           {
-            "name": "Monstropolis - Victory Bonus 039",
+            "name": "Monstropolis - The Power Plant: Tank Yard Unversed",
             "sections": [
               {
-                "name": "Monstropolis - Victory Bonus 039",
+                "name": "Monstropolis - The Power Plant: Tank Yard Unversed",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run",
@@ -6082,10 +6074,10 @@
             "map_locations": []
           },
           {
-            "name": "Monstropolis - Victory Bonus 040",
+            "name": "Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area",
             "sections": [
               {
-                "name": "Monstropolis - Victory Bonus 040",
+                "name": "Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_air_slide,ability_block,unlock_magic,$has_any|dream_heartbinder|ocean_heartbinder|ohana_heartbinder|pixel_heartbinder|pride_heartbinder",
@@ -6606,10 +6598,10 @@
             "map_locations": []
           },
           {
-            "name": "Arendelle - Victory Bonus 041",
+            "name": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge",
             "sections": [
               {
-                "name": "Arendelle - Victory Bonus 041",
+                "name": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -6619,10 +6611,10 @@
             "map_locations": []
           },
           {
-            "name": "Arendelle - Victory Bonus 042",
+            "name": "The Labyrinth of Ice: Middle Tier Ninjas I",
             "sections": [
               {
-                "name": "Arendelle - Victory Bonus 042",
+                "name": "The Labyrinth of Ice: Middle Tier Ninjas I",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run"
@@ -6632,10 +6624,10 @@
             "map_locations": []
           },
           {
-            "name": "Arendelle - Victory Bonus 043",
+            "name": "The Labyrinth of Ice: Lower Tier Ninjas II",
             "sections": [
               {
-                "name": "Arendelle - Victory Bonus 043",
+                "name": "The Labyrinth of Ice: Lower Tier Ninjas II",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
@@ -6645,10 +6637,10 @@
             "map_locations": []
           },
           {
-            "name": "Arendelle - Victory Bonus 044",
+            "name": "The Labyrinth of Ice: Middle Tier Ninjas III",
             "sections": [
               {
-                "name": "Arendelle - Victory Bonus 044",
+                "name": "The Labyrinth of Ice: Middle Tier Ninjas III",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
@@ -6658,10 +6650,10 @@
             "map_locations": []
           },
           {
-            "name": "Arendelle - Victory Bonus 045",
+            "name": "The Labyrinth of Ice: Middle Tier Ninjas IV",
             "sections": [
               {
-                "name": "Arendelle - Victory Bonus 045",
+                "name": "The Labyrinth of Ice: Middle Tier Ninjas IV",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
@@ -6671,10 +6663,10 @@
             "map_locations": []
           },
           {
-            "name": "Arendelle - Victory Bonus 047",
+            "name": "Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge",
             "sections": [
               {
-                "name": "Arendelle - Victory Bonus 047",
+                "name": "Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
@@ -6684,10 +6676,10 @@
             "map_locations": []
           },
           {
-            "name": "Arendelle - Victory Bonus 048",
+            "name": "Frozen Slider Frost Serpents",
             "sections": [
               {
-                "name": "Arendelle - Victory Bonus 048",
+                "name": "Frozen Slider Frost Serpents",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
@@ -6697,10 +6689,10 @@
             "map_locations": []
           },
           {
-            "name": "Arendelle - Victory Bonus 049",
+            "name": "Arendelle - The North Mountain: The Valley of Ice Heartless",
             "sections": [
               {
-                "name": "Arendelle - Victory Bonus 049",
+                "name": "Arendelle - The North Mountain: The Valley of Ice Heartless",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
@@ -6710,10 +6702,10 @@
             "map_locations": []
           },
           {
-            "name": "Arendelle - Victory Bonus 050",
+            "name": "Defeat Skoll in Arendelle",
             "sections": [
               {
-                "name": "Arendelle - Victory Bonus 050",
+                "name": "Defeat Skoll in Arendelle",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,ability_air_slide,unlock_wall_run"
@@ -7509,90 +7501,90 @@
             "map_locations": []
           },
           {
-            "name": "The Caribbean - Victory Bonus 058",
+            "name": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker",
             "sections": [
               {
-                "name": "The Caribbean - Victory Bonus 058",
+                "name": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "The Caribbean - Victory Bonus 059",
+            "name": "1st Ship Battle in The Caribbean - Over the Edge",
             "sections": [
               {
-                "name": "The Caribbean - Victory Bonus 059",
+                "name": "1st Ship Battle in The Caribbean - Over the Edge",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "The Caribbean - Victory Bonus 060",
+            "name": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters",
             "sections": [
               {
-                "name": "The Caribbean - Victory Bonus 060",
+                "name": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "The Caribbean - Victory Bonus 061",
+            "name": "Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern",
             "sections": [
               {
-                "name": "The Caribbean - Victory Bonus 061",
+                "name": "Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "The Caribbean - Victory Bonus 062",
+            "name": "Race Luxord to Port Royal in The Caribbean",
             "sections": [
               {
-                "name": "The Caribbean - Victory Bonus 062",
+                "name": "Race Luxord to Port Royal in The Caribbean",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "The Caribbean - Victory Bonus 063",
+            "name": "2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters",
             "sections": [
               {
-                "name": "The Caribbean - Victory Bonus 063",
+                "name": "2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "The Caribbean - Victory Bonus 064",
+            "name": "3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle",
             "sections": [
               {
-                "name": "The Caribbean - Victory Bonus 064",
+                "name": "3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "The Caribbean - Victory Bonus 065",
+            "name": "Defeat Kraken in The Caribbean - Shipwreck Cove",
             "sections": [
               {
-                "name": "The Caribbean - Victory Bonus 065",
+                "name": "Defeat Kraken in The Caribbean - Shipwreck Cove",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "The Caribbean - Victory Bonus 066",
+            "name": "Defeat Davy Jones in The Caribbean - Shipwreck Cove",
             "sections": [
               {
-                "name": "The Caribbean - Victory Bonus 066",
+                "name": "Defeat Davy Jones in The Caribbean - Shipwreck Cove",
                 "item_count": 1
               }
             ],
@@ -8203,50 +8195,50 @@
             "map_locations": []
           },
           {
-            "name": "San Fransokyo - Victory Bonus 051",
+            "name": "Defeat Metal Troll in San Fransokyo: The Bridge",
             "sections": [
               {
-                "name": "San Fransokyo - Victory Bonus 051",
+                "name": "Defeat Metal Troll in San Fransokyo: The Bridge",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "San Fransokyo - Victory Bonus 052",
+            "name": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage",
             "sections": [
               {
-                "name": "San Fransokyo - Victory Bonus 052",
+                "name": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "San Fransokyo - Victory Bonus 053",
+            "name": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)",
             "sections": [
               {
-                "name": "San Fransokyo - Victory Bonus 053",
+                "name": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "San Fransokyo - Victory Bonus 054",
+            "name": "Defeat Catastrochorus in San Fransokyo - The City (Day)",
             "sections": [
               {
-                "name": "San Fransokyo - Victory Bonus 054",
+                "name": "Defeat Catastrochorus in San Fransokyo - The City (Day)",
                 "item_count": 1
               }
             ],
             "map_locations": []
           },
           {
-            "name": "San Fransokyo - Victory Bonus 055",
+            "name": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)",
             "sections": [
               {
-                "name": "San Fransokyo - Victory Bonus 055",
+                "name": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
@@ -8256,10 +8248,10 @@
             "map_locations": []
           },
           {
-            "name": "San Fransokyo - Victory Bonus 056",
+            "name": "Defeat Darkubes in San Fransokyo - The City (Night)",
             "sections": [
               {
-                "name": "San Fransokyo - Victory Bonus 056",
+                "name": "Defeat Darkubes in San Fransokyo - The City (Night)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
@@ -8269,10 +8261,10 @@
             "map_locations": []
           },
           {
-            "name": "San Fransokyo - Victory Bonus 057",
+            "name": "Defeat Dark Baymax in San Fransokyo - The City (Day)",
             "sections": [
               {
-                "name": "San Fransokyo - Victory Bonus 057",
+                "name": "Defeat Dark Baymax in San Fransokyo - The City (Day)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
@@ -8320,7 +8312,7 @@
                 "name": "Keyblade Graveyard - Large Chest 2",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               }
             ],
@@ -8339,7 +8331,7 @@
                 "name": "Keyblade Graveyard - Small Chest 1",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               }
             ],
@@ -8358,7 +8350,7 @@
                 "name": "Keyblade Graveyard - Small Chest 2",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               }
             ],
@@ -8377,7 +8369,7 @@
                 "name": "Keyblade Graveyard - Small Chest 3",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
                 ]
               }
             ],
@@ -8446,10 +8438,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 068",
+            "name": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 068",
+                "name": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
@@ -8459,10 +8451,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 069",
+            "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 069",
+                "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
@@ -8472,10 +8464,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 070",
+            "name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 070",
+                "name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
@@ -8485,10 +8477,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 071",
+            "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 071",
+                "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
@@ -8498,10 +8490,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 072",
+            "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 072",
+                "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
@@ -8511,10 +8503,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 073",
+            "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 073",
+                "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
@@ -8524,10 +8516,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 074",
+            "name": "Defeat Saïx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 074",
+                "name": "Defeat Saïx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
@@ -8537,10 +8529,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 075",
+            "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 075",
+                "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
@@ -8550,10 +8542,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 076",
+            "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 076",
+                "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
@@ -8563,10 +8555,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 083",
+            "name": "After collecting 222 Soras in The Final World",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 083",
+                "name": "After collecting 222 Soras in The Final World",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_attraction_flow"
@@ -8576,10 +8568,10 @@
             "map_locations": []
           },
           {
-            "name": "Keyblade Graveyard - Victory Bonus 084",
+            "name": "After collecting 333 Soras in The Final World",
             "sections": [
               {
-                "name": "Keyblade Graveyard - Victory Bonus 084",
+                "name": "After collecting 333 Soras in The Final World",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_attraction_flow"
@@ -8623,10 +8615,10 @@
         "name": "Events",
         "children": [
           {
-            "name": "Dark World - Victory Bonus 067",
+            "name": "Defeat Anti-Aqua in The Dark World - The Realm of Darkness",
             "sections": [
               {
-                "name": "Dark World - Victory Bonus 067",
+                "name": "Defeat Anti-Aqua in The Dark World - The Realm of Darkness",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8649,10 +8641,10 @@
         "name": "Checks",
         "children": [
           {
-            "name": "Re Mind - Victory Bonus DLC 1",
+            "name": "Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 1",
+                "name": "Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8662,10 +8654,10 @@
             "map_locations": []
           },
           {
-            "name": "Re Mind - Victory Bonus DLC 2",
+            "name": "Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 2",
+                "name": "Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8675,10 +8667,10 @@
             "map_locations": []
           },
           {
-            "name": "Re Mind - Victory Bonus DLC 3",
+            "name": "Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 3",
+                "name": "Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8688,10 +8680,10 @@
             "map_locations": []
           },
           {
-            "name": "Re Mind - Victory Bonus DLC 4",
+            "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 4",
+                "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8701,10 +8693,10 @@
             "map_locations": []
           },
           {
-            "name": "Re Mind - Victory Bonus DLC 5",
+            "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 5",
+                "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8714,10 +8706,10 @@
             "map_locations": []
           },
           {
-            "name": "Re Mind - Victory Bonus DLC 6",
+            "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 6",
+                "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8727,10 +8719,10 @@
             "map_locations": []
           },
           {
-            "name": "Re Mind - Victory Bonus DLC 7",
+            "name": "After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 7",
+                "name": "After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
                   "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8740,10 +8732,10 @@
             "map_locations": []
           },
           {
-            "name": "Re Mind - Victory Bonus DLC 8",
+            "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 8",
+                "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8753,10 +8745,10 @@
             "map_locations": []
           },
           {
-            "name": "Re Mind - Victory Bonus DLC 10",
+            "name": "Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 10",
+                "name": "Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
@@ -8766,10 +8758,10 @@
             "map_locations": []
           },
           {
-            "name": "Re Mind - Victory Bonus DLC 15",
+            "name": "Defeat Armored Xehanort in Re:Mind",
             "sections": [
               {
-                "name": "Re Mind - Victory Bonus DLC 15",
+                "name": "Defeat Armored Xehanort in Re:Mind",
                 "item_count": 1,
                 "access_rules": [
                   "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
