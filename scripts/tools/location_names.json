@@ -1,0 +1,56 @@
+{
+  "overrides": {
+    "1263023184": "Olympus - Defeat Darkside (Final World)"
+  },
+  "groups": {
+    "Huddled Isles - Chests 1+21+22": {
+      "1263023014": "The Caribbean - Small Chest 10",
+      "1263023025": "The Caribbean - Small Chest 21",
+      "1263023026": "The Caribbean - Small Chest 22"
+    },
+    "Isla Mastiles - Chests 5+23+24": {
+      "1263023017": "The Caribbean - Small Chest 13",
+      "1263023027": "The Caribbean - Small Chest 23",
+      "1263023028": "The Caribbean - Small Chest 24"
+    },
+    "Ship's End - Chests 7+8": {
+      "1263023018": "The Caribbean - Small Chest 14",
+      "1263023019": "The Caribbean - Small Chest 15"
+    },
+    "Horseshoe Island - Chest Cluster": {
+      "1263023024": "The Caribbean - Small Chest 20",
+      "1263023046": "The Caribbean - Small Chest 42",
+      "1263023047": "The Caribbean - Small Chest 43",
+      "1263023048": "The Caribbean - Small Chest 44",
+      "1263023049": "The Caribbean - Small Chest 45"
+    },
+    "Sandbar Isle - Chests 28+29+30": {
+      "1263023033": "The Caribbean - Small Chest 29",
+      "1263023034": "The Caribbean - Small Chest 30",
+      "1263023035": "The Caribbean - Small Chest 31"
+    },
+    "Sandbar Isle - Chests 31+32": {
+      "1263023036": "The Caribbean - Small Chest 32",
+      "1263023037": "The Caribbean - Small Chest 33"
+    },
+    "Sandbar Isle - x8 Cluster": {
+      "1263023038": "The Caribbean - Small Chest 34",
+      "1263023039": "The Caribbean - Small Chest 35",
+      "1263023040": "The Caribbean - Small Chest 36",
+      "1263023041": "The Caribbean - Small Chest 37",
+      "1263023042": "The Caribbean - Small Chest 38",
+      "1263023043": "The Caribbean - Small Chest 39",
+      "1263023044": "The Caribbean - Small Chest 40",
+      "1263023045": "The Caribbean - Small Chest 41"
+    },
+    "SF - Chests 1+30": {
+      "1263023054": "San Fransokyo - Small Chest 1",
+      "1263023082": "San Fransokyo - Small Chest 29"
+    },
+    "SF - Chests 10+11+17": {
+      "1263023063": "San Fransokyo - Small Chest 10",
+      "1263023064": "San Fransokyo - Small Chest 11",
+      "1263023070": "San Fransokyo - Small Chest 17"
+    }
+  }
+}

@@ -1,0 +1,2148 @@
+[
+  {
+    "name": "Overworld",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "World Progress",
+        "children": [
+          {
+            "name": "Olympus - All Checks",
+            "sections": [
+              {
+                "name": "Olympus - Large Chest 1",
+                "ref": "Olympus - Chests/Olympus - Large Chest 1/Olympus - Large Chest 1"
+              },
+              {
+                "name": "Olympus - Large Chest 2",
+                "ref": "Olympus - Chests/Olympus - Large Chest 2/Olympus - Large Chest 2"
+              },
+              {
+                "name": "Olympus - Large Chest 3",
+                "ref": "Olympus - Chests/Olympus - Large Chest 3/Olympus - Large Chest 3"
+              },
+              {
+                "name": "Olympus - Large Chest 4",
+                "ref": "Olympus - Chests/Olympus - Large Chest 4/Olympus - Large Chest 4"
+              },
+              {
+                "name": "Olympus - Small Chest 1",
+                "ref": "Olympus - Chests/Olympus - Small Chest 1/Olympus - Small Chest 1"
+              },
+              {
+                "name": "Olympus - Small Chest 2",
+                "ref": "Olympus - Chests/Olympus - Small Chest 2/Olympus - Small Chest 2"
+              },
+              {
+                "name": "Olympus - Small Chest 3",
+                "ref": "Olympus - Chests/Olympus - Small Chest 3/Olympus - Small Chest 3"
+              },
+              {
+                "name": "Olympus - Small Chest 4",
+                "ref": "Olympus - Chests/Olympus - Small Chest 4/Olympus - Small Chest 4"
+              },
+              {
+                "name": "Olympus - Small Chest 6",
+                "ref": "Olympus - Chests/Olympus - Small Chest 6/Olympus - Small Chest 6"
+              },
+              {
+                "name": "Olympus - Small Chest 8",
+                "ref": "Olympus - Chests/Olympus - Small Chest 8/Olympus - Small Chest 8"
+              },
+              {
+                "name": "Olympus - Small Chest 9",
+                "ref": "Olympus - Chests/Olympus - Small Chest 9/Olympus - Small Chest 9"
+              },
+              {
+                "name": "Olympus - Small Chest 10",
+                "ref": "Olympus - Chests/Olympus - Small Chest 10/Olympus - Small Chest 10"
+              },
+              {
+                "name": "Olympus - Small Chest 11",
+                "ref": "Olympus - Chests/Olympus - Small Chest 11/Olympus - Small Chest 11"
+              },
+              {
+                "name": "Olympus - Small Chest 12",
+                "ref": "Olympus - Chests/Olympus - Small Chest 12/Olympus - Small Chest 12"
+              },
+              {
+                "name": "Olympus - Small Chest 13",
+                "ref": "Olympus - Chests/Olympus - Small Chest 13/Olympus - Small Chest 13"
+              },
+              {
+                "name": "Olympus - Small Chest 14",
+                "ref": "Olympus - Chests/Olympus - Small Chest 14/Olympus - Small Chest 14"
+              },
+              {
+                "name": "Olympus - Small Chest 15",
+                "ref": "Olympus - Chests/Olympus - Small Chest 15/Olympus - Small Chest 15"
+              },
+              {
+                "name": "Olympus - Small Chest 16",
+                "ref": "Olympus - Chests/Olympus - Small Chest 16/Olympus - Small Chest 16"
+              },
+              {
+                "name": "Olympus - Small Chest 17",
+                "ref": "Olympus - Chests/Olympus - Small Chest 17/Olympus - Small Chest 17"
+              },
+              {
+                "name": "Olympus - Small Chest 20",
+                "ref": "Olympus - Chests/Olympus - Small Chest 20/Olympus - Small Chest 20"
+              },
+              {
+                "name": "Olympus - Small Chest 21",
+                "ref": "Olympus - Chests/Olympus - Small Chest 21/Olympus - Small Chest 21"
+              },
+              {
+                "name": "Olympus - Small Chest 22",
+                "ref": "Olympus - Chests/Olympus - Small Chest 22/Olympus - Small Chest 22"
+              },
+              {
+                "name": "Olympus - Small Chest 23",
+                "ref": "Olympus - Chests/Olympus - Small Chest 23/Olympus - Small Chest 23"
+              },
+              {
+                "name": "Olympus - Small Chest 24",
+                "ref": "Olympus - Chests/Olympus - Small Chest 24/Olympus - Small Chest 24"
+              },
+              {
+                "name": "Olympus - Small Chest 25",
+                "ref": "Olympus - Chests/Olympus - Small Chest 25/Olympus - Small Chest 25"
+              },
+              {
+                "name": "Olympus - Small Chest 26",
+                "ref": "Olympus - Chests/Olympus - Small Chest 26/Olympus - Small Chest 26"
+              },
+              {
+                "name": "Olympus - Small Chest 27",
+                "ref": "Olympus - Chests/Olympus - Small Chest 27/Olympus - Small Chest 27"
+              },
+              {
+                "name": "Olympus - Small Chest 28",
+                "ref": "Olympus - Chests/Olympus - Small Chest 28/Olympus - Small Chest 28"
+              },
+              {
+                "name": "Olympus - Small Chest 29",
+                "ref": "Olympus - Chests/Olympus - Small Chest 29/Olympus - Small Chest 29"
+              },
+              {
+                "name": "Olympus - Small Chest 30",
+                "ref": "Olympus - Chests/Olympus - Small Chest 30/Olympus - Small Chest 30"
+              },
+              {
+                "name": "Olympus - Small Chest 31",
+                "ref": "Olympus - Chests/Olympus - Small Chest 31/Olympus - Small Chest 31"
+              },
+              {
+                "name": "Olympus - Small Chest 33",
+                "ref": "Olympus - Chests/Olympus - Small Chest 33/Olympus - Small Chest 33"
+              },
+              {
+                "name": "Forge Knight's Shield+ for Goofy",
+                "ref": "Olympus - Events/Forge Knight's Shield+ for Goofy/Forge Knight's Shield+ for Goofy"
+              },
+              {
+                "name": "Find Golden Herc Figure in Thebes: Alleyway, In Building",
+                "ref": "Olympus - Events/Find Golden Herc Figure in Thebes: Alleyway, In Building/Find Golden Herc Figure in Thebes: Alleyway, In Building"
+              },
+              {
+                "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
+                "ref": "Olympus - Events/Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit/Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit"
+              },
+              {
+                "name": "Find Golden Herc Figure in Thebes: Garden, In Building",
+                "ref": "Olympus - Events/Find Golden Herc Figure in Thebes: Garden, In Building/Find Golden Herc Figure in Thebes: Garden, In Building"
+              },
+              {
+                "name": "Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield",
+                "ref": "Olympus - Events/Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield/Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield"
+              },
+              {
+                "name": "Find Golden Herc Figure in Thebes: Agora, Near Save Point",
+                "ref": "Olympus - Events/Find Golden Herc Figure in Thebes: Agora, Near Save Point/Find Golden Herc Figure in Thebes: Agora, Near Save Point"
+              },
+              {
+                "name": "Return All Golden Herc Figures",
+                "ref": "Olympus - Events/Return All Golden Herc Figures/Return All Golden Herc Figures"
+              },
+              {
+                "name": "Olympus - EVENT_KEYBLADE_001 - RandomizedItem",
+                "ref": "Olympus - Events/Olympus - EVENT_KEYBLADE_001 - RandomizedItem/Olympus - EVENT_KEYBLADE_001 - RandomizedItem"
+              },
+              {
+                "name": "Olympus - Mount Olympus: Cliff Ascent Heartless",
+                "ref": "Olympus - Events/Olympus - Mount Olympus: Cliff Ascent Heartless/Olympus - Mount Olympus: Cliff Ascent Heartless"
+              },
+              {
+                "name": "Olympus - Thebes: Agora Flame Cores",
+                "ref": "Olympus - Events/Olympus - Thebes: Agora Flame Cores/Olympus - Thebes: Agora Flame Cores"
+              },
+              {
+                "name": "Olympus - Thebes: Overlook Flame Cores",
+                "ref": "Olympus - Events/Olympus - Thebes: Overlook Flame Cores/Olympus - Thebes: Overlook Flame Cores"
+              },
+              {
+                "name": "Olympus - Thebes: Gardens Flame Cores",
+                "ref": "Olympus - Events/Olympus - Thebes: Gardens Flame Cores/Olympus - Thebes: Gardens Flame Cores"
+              },
+              {
+                "name": "Olympus - Thebes: Alleyway Heartless",
+                "ref": "Olympus - Events/Olympus - Thebes: Alleyway Heartless/Olympus - Thebes: Alleyway Heartless"
+              },
+              {
+                "name": "Defeat Rock Troll in Olympus - Thebes: Agora",
+                "ref": "Olympus - Events/Defeat Rock Troll in Olympus - Thebes: Agora/Defeat Rock Troll in Olympus - Thebes: Agora"
+              },
+              {
+                "name": "Defeat Rock Titan in Olympus: Mount Olympus - Summit",
+                "ref": "Olympus - Events/Defeat Rock Titan in Olympus: Mount Olympus - Summit/Defeat Rock Titan in Olympus: Mount Olympus - Summit"
+              },
+              {
+                "name": "Olympus - Realm of the Gods: Courtyard Satyrs",
+                "ref": "Olympus - Events/Olympus - Realm of the Gods: Courtyard Satyrs/Olympus - Realm of the Gods: Courtyard Satyrs"
+              },
+              {
+                "name": "Defeat Tornado Titan in Olympus: Realm of the Gods",
+                "ref": "Olympus - Events/Defeat Tornado Titan in Olympus: Realm of the Gods/Defeat Tornado Titan in Olympus: Realm of the Gods"
+              },
+              {
+                "name": "Olympus - Defeat Darkside (Final World)",
+                "ref": "Olympus - Events/Olympus - Defeat Darkside (Final World)/Olympus - Defeat Darkside (Final World)"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 114,
+                "y": 190
+              }
+            ],
+            "access_rules": [
+              "kb_heros_origin"
+            ]
+          },
+          {
+            "name": "Twilight Town - All Checks",
+            "sections": [
+              {
+                "name": "Twilight Town - Large Chest 1",
+                "ref": "Twilight Town - Chests/Twilight Town - Large Chest 1/Twilight Town - Large Chest 1"
+              },
+              {
+                "name": "Twilight Town - Small Chest 1",
+                "ref": "Twilight Town - Chests/Twilight Town - Small Chest 1/Twilight Town - Small Chest 1"
+              },
+              {
+                "name": "Twilight Town - Small Chest 2",
+                "ref": "Twilight Town - Chests/Twilight Town - Small Chest 2/Twilight Town - Small Chest 2"
+              },
+              {
+                "name": "Twilight Town - Small Chest 3",
+                "ref": "Twilight Town - Chests/Twilight Town - Small Chest 3/Twilight Town - Small Chest 3"
+              },
+              {
+                "name": "Twilight Town - Small Chest 4",
+                "ref": "Twilight Town - Chests/Twilight Town - Small Chest 4/Twilight Town - Small Chest 4"
+              },
+              {
+                "name": "Twilight Town - Small Chest 5",
+                "ref": "Twilight Town - Chests/Twilight Town - Small Chest 5/Twilight Town - Small Chest 5"
+              },
+              {
+                "name": "Twilight Town - Small Chest 6",
+                "ref": "Twilight Town - Chests/Twilight Town - Small Chest 6/Twilight Town - Small Chest 6"
+              },
+              {
+                "name": "Twilight Town - Small Chest 7",
+                "ref": "Twilight Town - Chests/Twilight Town - Small Chest 7/Twilight Town - Small Chest 7"
+              },
+              {
+                "name": "Twilight Town - Small Chest 8",
+                "ref": "Twilight Town - Chests/Twilight Town - Small Chest 8/Twilight Town - Small Chest 8"
+              },
+              {
+                "name": "Twilight Town - Small Chest 9",
+                "ref": "Twilight Town - Chests/Twilight Town - Small Chest 9/Twilight Town - Small Chest 9"
+              },
+              {
+                "name": "Twilight Town - EVENT_KEYBLADE_002 - RandomizedItem",
+                "ref": "Twilight Town - Events/Twilight Town - EVENT_KEYBLADE_002 - RandomizedItem/Twilight Town - EVENT_KEYBLADE_002 - RandomizedItem"
+              },
+              {
+                "name": "Twilight Town - EVENT_CKGAME_001 - RandomizedItem",
+                "ref": "Twilight Town - Events/Twilight Town - EVENT_CKGAME_001 - RandomizedItem/Twilight Town - EVENT_CKGAME_001 - RandomizedItem"
+              },
+              {
+                "name": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
+                "ref": "Twilight Town - Events/Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common/Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common"
+              },
+              {
+                "name": "Twilight Town - The Woods Powerwilds",
+                "ref": "Twilight Town - Events/Twilight Town - The Woods Powerwilds/Twilight Town - The Woods Powerwilds"
+              },
+              {
+                "name": "Twilight Town - The Old Mansion Heartless & Nobodies",
+                "ref": "Twilight Town - Events/Twilight Town - The Old Mansion Heartless & Nobodies/Twilight Town - The Old Mansion Heartless & Nobodies"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 430,
+                "y": 460
+              }
+            ],
+            "access_rules": [
+              "kb_shooting_star,$has_tier_one_keyblades,$has_twilight_town_combat"
+            ]
+          },
+          {
+            "name": "Toy Box - All Checks",
+            "sections": [
+              {
+                "name": "Toy Box - Large Chest 1",
+                "ref": "Toy Box - Chests/Toy Box - Large Chest 1/Toy Box - Large Chest 1"
+              },
+              {
+                "name": "Toy Box - Large Chest 2",
+                "ref": "Toy Box - Chests/Toy Box - Large Chest 2/Toy Box - Large Chest 2"
+              },
+              {
+                "name": "Toy Box - Large Chest 3",
+                "ref": "Toy Box - Chests/Toy Box - Large Chest 3/Toy Box - Large Chest 3"
+              },
+              {
+                "name": "Toy Box - Large Chest 4",
+                "ref": "Toy Box - Chests/Toy Box - Large Chest 4/Toy Box - Large Chest 4"
+              },
+              {
+                "name": "Toy Box - Large Chest 5",
+                "ref": "Toy Box - Chests/Toy Box - Large Chest 5/Toy Box - Large Chest 5"
+              },
+              {
+                "name": "Toy Box - Large Chest 6",
+                "ref": "Toy Box - Chests/Toy Box - Large Chest 6/Toy Box - Large Chest 6"
+              },
+              {
+                "name": "Toy Box - Small Chest 1",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 1/Toy Box - Small Chest 1"
+              },
+              {
+                "name": "Toy Box - Small Chest 2",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 2/Toy Box - Small Chest 2"
+              },
+              {
+                "name": "Toy Box - Small Chest 3",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 3/Toy Box - Small Chest 3"
+              },
+              {
+                "name": "Toy Box - Small Chest 4",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 4/Toy Box - Small Chest 4"
+              },
+              {
+                "name": "Toy Box - Small Chest 5",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 5/Toy Box - Small Chest 5"
+              },
+              {
+                "name": "Toy Box - Small Chest 6",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 6/Toy Box - Small Chest 6"
+              },
+              {
+                "name": "Toy Box - Small Chest 7",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 7/Toy Box - Small Chest 7"
+              },
+              {
+                "name": "Toy Box - Small Chest 8",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 8/Toy Box - Small Chest 8"
+              },
+              {
+                "name": "Toy Box - Small Chest 9",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 9/Toy Box - Small Chest 9"
+              },
+              {
+                "name": "Toy Box - Small Chest 11",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 11/Toy Box - Small Chest 11"
+              },
+              {
+                "name": "Toy Box - Small Chest 12",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 12/Toy Box - Small Chest 12"
+              },
+              {
+                "name": "Toy Box - Small Chest 13",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 13/Toy Box - Small Chest 13"
+              },
+              {
+                "name": "Toy Box - Small Chest 14",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 14/Toy Box - Small Chest 14"
+              },
+              {
+                "name": "Toy Box - Small Chest 15",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 15/Toy Box - Small Chest 15"
+              },
+              {
+                "name": "Toy Box - Small Chest 16",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 16/Toy Box - Small Chest 16"
+              },
+              {
+                "name": "Toy Box - Small Chest 17",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 17/Toy Box - Small Chest 17"
+              },
+              {
+                "name": "Toy Box - Small Chest 18",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 18/Toy Box - Small Chest 18"
+              },
+              {
+                "name": "Toy Box - Small Chest 19",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 19/Toy Box - Small Chest 19"
+              },
+              {
+                "name": "Toy Box - Small Chest 20",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 20/Toy Box - Small Chest 20"
+              },
+              {
+                "name": "Toy Box - Small Chest 22",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 22/Toy Box - Small Chest 22"
+              },
+              {
+                "name": "Toy Box - Small Chest 23",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 23/Toy Box - Small Chest 23"
+              },
+              {
+                "name": "Toy Box - Small Chest 24",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 24/Toy Box - Small Chest 24"
+              },
+              {
+                "name": "Toy Box - Small Chest 25",
+                "ref": "Toy Box - Chests/Toy Box - Small Chest 25/Toy Box - Small Chest 25"
+              },
+              {
+                "name": "Toy Box - EVENT_KEYBLADE_003 - RandomizedItem",
+                "ref": "Toy Box - Events/Toy Box - EVENT_KEYBLADE_003 - RandomizedItem/Toy Box - EVENT_KEYBLADE_003 - RandomizedItem"
+              },
+              {
+                "name": "Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem",
+                "ref": "Toy Box - Events/Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem/Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem"
+              },
+              {
+                "name": "Toy Box - Andy's House Heartless",
+                "ref": "Toy Box - Events/Toy Box - Andy's House Heartless/Toy Box - Andy's House Heartless"
+              },
+              {
+                "name": "Toy Box - Galaxy Toys: Main Floor: 1F Gigas",
+                "ref": "Toy Box - Events/Toy Box - Galaxy Toys: Main Floor: 1F Gigas/Toy Box - Galaxy Toys: Main Floor: 1F Gigas"
+              },
+              {
+                "name": "Toy Box - Galaxy Toys: Action Figures Supreme Smashers",
+                "ref": "Toy Box - Events/Toy Box - Galaxy Toys: Action Figures Supreme Smashers/Toy Box - Galaxy Toys: Action Figures Supreme Smashers"
+              },
+              {
+                "name": "Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls",
+                "ref": "Toy Box - Events/Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls/Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls"
+              },
+              {
+                "name": "After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors",
+                "ref": "Toy Box - Events/After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors/After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors"
+              },
+              {
+                "name": "Complete Verum Rex: Beat of Lead during the Story",
+                "ref": "Toy Box - Events/Complete Verum Rex: Beat of Lead during the Story/Complete Verum Rex: Beat of Lead during the Story"
+              },
+              {
+                "name": "Defeat King of Toys in Toy Box: Galaxy Toys",
+                "ref": "Toy Box - Events/Defeat King of Toys in Toy Box: Galaxy Toys/Defeat King of Toys in Toy Box: Galaxy Toys"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 187,
+                "y": 467
+              }
+            ],
+            "access_rules": [
+              "kb_favorite_deputy"
+            ]
+          },
+          {
+            "name": "Kingdom of Corona - All Checks",
+            "sections": [
+              {
+                "name": "Kingdom of Corona - Large Chest 1",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Large Chest 1/Kingdom of Corona - Large Chest 1"
+              },
+              {
+                "name": "Kingdom of Corona - Large Chest 2",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Large Chest 2/Kingdom of Corona - Large Chest 2"
+              },
+              {
+                "name": "Kingdom of Corona - Large Chest 3",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Large Chest 3/Kingdom of Corona - Large Chest 3"
+              },
+              {
+                "name": "Kingdom of Corona - Large Chest 4",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Large Chest 4/Kingdom of Corona - Large Chest 4"
+              },
+              {
+                "name": "Kingdom of Corona - Large Chest 5",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Large Chest 5/Kingdom of Corona - Large Chest 5"
+              },
+              {
+                "name": "Kingdom of Corona - Large Chest 6",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Large Chest 6/Kingdom of Corona - Large Chest 6"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 1",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 1/Kingdom of Corona - Small Chest 1"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 2",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 2/Kingdom of Corona - Small Chest 2"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 3",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 3/Kingdom of Corona - Small Chest 3"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 4",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 4/Kingdom of Corona - Small Chest 4"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 5",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 5/Kingdom of Corona - Small Chest 5"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 6",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 6/Kingdom of Corona - Small Chest 6"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 7",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 7/Kingdom of Corona - Small Chest 7"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 8",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 8/Kingdom of Corona - Small Chest 8"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 9",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 9/Kingdom of Corona - Small Chest 9"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 10",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 10/Kingdom of Corona - Small Chest 10"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 11",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 11/Kingdom of Corona - Small Chest 11"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 12",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 12/Kingdom of Corona - Small Chest 12"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 13",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 13/Kingdom of Corona - Small Chest 13"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 14",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 14/Kingdom of Corona - Small Chest 14"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 15",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 15/Kingdom of Corona - Small Chest 15"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 16",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 16/Kingdom of Corona - Small Chest 16"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 17",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 17/Kingdom of Corona - Small Chest 17"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 18",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 18/Kingdom of Corona - Small Chest 18"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 19",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 19/Kingdom of Corona - Small Chest 19"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 20",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 20/Kingdom of Corona - Small Chest 20"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 21",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 21/Kingdom of Corona - Small Chest 21"
+              },
+              {
+                "name": "Kingdom of Corona - Small Chest 22",
+                "ref": "Kingdom of Corona - Chests/Kingdom of Corona - Small Chest 22/Kingdom of Corona - Small Chest 22"
+              },
+              {
+                "name": "Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem",
+                "ref": "Kingdom of Corona - Events/Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem/Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem"
+              },
+              {
+                "name": "Kingdom of Corona - The Forest: Hills Heartless",
+                "ref": "Kingdom of Corona - Events/Kingdom of Corona - The Forest: Hills Heartless/Kingdom of Corona - The Forest: Hills Heartless"
+              },
+              {
+                "name": "Kingdom of Corona - The Forest: Hills Chief Puffs & Puffballs",
+                "ref": "Kingdom of Corona - Events/Kingdom of Corona - The Forest: Hills Chief Puffs & Puffballs/Kingdom of Corona - The Forest: Hills Chief Puffs & Puffballs"
+              },
+              {
+                "name": "Kingdom of Corona - The Forest: Hills Reapers",
+                "ref": "Kingdom of Corona - Events/Kingdom of Corona - The Forest: Hills Reapers/Kingdom of Corona - The Forest: Hills Reapers"
+              },
+              {
+                "name": "Defeat Chaos Carriage in Kingdom of Corona",
+                "ref": "Kingdom of Corona - Events/Defeat Chaos Carriage in Kingdom of Corona/Defeat Chaos Carriage in Kingdom of Corona"
+              },
+              {
+                "name": "Kingdom of Corona - The Kingdom: Wharf Nobodies",
+                "ref": "Kingdom of Corona - Events/Kingdom of Corona - The Kingdom: Wharf Nobodies/Kingdom of Corona - The Kingdom: Wharf Nobodies"
+              },
+              {
+                "name": "Kingdom of Corona - The Forest: Tower Heartless",
+                "ref": "Kingdom of Corona - Events/Kingdom of Corona - The Forest: Tower Heartless/Kingdom of Corona - The Forest: Tower Heartless"
+              },
+              {
+                "name": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower",
+                "ref": "Kingdom of Corona - Events/Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower/Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 528,
+                "y": 261
+              }
+            ],
+            "access_rules": [
+              "kb_ever_after"
+            ]
+          },
+          {
+            "name": "Monstropolis - All Checks",
+            "sections": [
+              {
+                "name": "Monstropolis - Large Chest 1",
+                "ref": "Monstropolis - Chests/Monstropolis - Large Chest 1/Monstropolis - Large Chest 1"
+              },
+              {
+                "name": "Monstropolis - Large Chest 2",
+                "ref": "Monstropolis - Chests/Monstropolis - Large Chest 2/Monstropolis - Large Chest 2"
+              },
+              {
+                "name": "Monstropolis - Large Chest 3",
+                "ref": "Monstropolis - Chests/Monstropolis - Large Chest 3/Monstropolis - Large Chest 3"
+              },
+              {
+                "name": "Monstropolis - Large Chest 4",
+                "ref": "Monstropolis - Chests/Monstropolis - Large Chest 4/Monstropolis - Large Chest 4"
+              },
+              {
+                "name": "Monstropolis - Small Chest 1",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 1/Monstropolis - Small Chest 1"
+              },
+              {
+                "name": "Monstropolis - Small Chest 2",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 2/Monstropolis - Small Chest 2"
+              },
+              {
+                "name": "Monstropolis - Small Chest 3",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 3/Monstropolis - Small Chest 3"
+              },
+              {
+                "name": "Monstropolis - Small Chest 5",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 5/Monstropolis - Small Chest 5"
+              },
+              {
+                "name": "Monstropolis - Small Chest 6",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 6/Monstropolis - Small Chest 6"
+              },
+              {
+                "name": "Monstropolis - Small Chest 7",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 7/Monstropolis - Small Chest 7"
+              },
+              {
+                "name": "Monstropolis - Small Chest 8",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 8/Monstropolis - Small Chest 8"
+              },
+              {
+                "name": "Monstropolis - Small Chest 9",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 9/Monstropolis - Small Chest 9"
+              },
+              {
+                "name": "Monstropolis - Small Chest 10",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 10/Monstropolis - Small Chest 10"
+              },
+              {
+                "name": "Monstropolis - Small Chest 11",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 11/Monstropolis - Small Chest 11"
+              },
+              {
+                "name": "Monstropolis - Small Chest 12",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 12/Monstropolis - Small Chest 12"
+              },
+              {
+                "name": "Monstropolis - Small Chest 13",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 13/Monstropolis - Small Chest 13"
+              },
+              {
+                "name": "Monstropolis - Small Chest 14",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 14/Monstropolis - Small Chest 14"
+              },
+              {
+                "name": "Monstropolis - Small Chest 15",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 15/Monstropolis - Small Chest 15"
+              },
+              {
+                "name": "Monstropolis - Small Chest 16",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 16/Monstropolis - Small Chest 16"
+              },
+              {
+                "name": "Monstropolis - Small Chest 17",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 17/Monstropolis - Small Chest 17"
+              },
+              {
+                "name": "Monstropolis - Small Chest 18",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 18/Monstropolis - Small Chest 18"
+              },
+              {
+                "name": "Monstropolis - Small Chest 19",
+                "ref": "Monstropolis - Chests/Monstropolis - Small Chest 19/Monstropolis - Small Chest 19"
+              },
+              {
+                "name": "Monstropolis - EVENT_008 - RandomizedItem",
+                "ref": "Monstropolis - Events/Monstropolis - EVENT_008 - RandomizedItem/Monstropolis - EVENT_008 - RandomizedItem"
+              },
+              {
+                "name": "Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem",
+                "ref": "Monstropolis - Events/Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem/Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem"
+              },
+              {
+                "name": "Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem",
+                "ref": "Monstropolis - Events/Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem/Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem"
+              },
+              {
+                "name": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed",
+                "ref": "Monstropolis - Events/Monstropolis - Monsters Inc.: Lobby & Offices Unversed/Monstropolis - Monsters Inc.: Lobby & Offices Unversed"
+              },
+              {
+                "name": "Monstropolis - Monsters Inc.: Laugh Floor Unversed",
+                "ref": "Monstropolis - Events/Monstropolis - Monsters Inc.: Laugh Floor Unversed/Monstropolis - Monsters Inc.: Laugh Floor Unversed"
+              },
+              {
+                "name": "Monstropolis - The Door Vault: Upper Level Heartless",
+                "ref": "Monstropolis - Events/Monstropolis - The Door Vault: Upper Level Heartless/Monstropolis - The Door Vault: Upper Level Heartless"
+              },
+              {
+                "name": "Monstropolis - The Factory: Second Floor Heartless & Unversed",
+                "ref": "Monstropolis - Events/Monstropolis - The Factory: Second Floor Heartless & Unversed/Monstropolis - The Factory: Second Floor Heartless & Unversed"
+              },
+              {
+                "name": "Monstropolis - The Factory: Second Floor Unversed",
+                "ref": "Monstropolis - Events/Monstropolis - The Factory: Second Floor Unversed/Monstropolis - The Factory: Second Floor Unversed"
+              },
+              {
+                "name": "Monstropolis - The Power Plant: Accessway Heartless & Unversed",
+                "ref": "Monstropolis - Events/Monstropolis - The Power Plant: Accessway Heartless & Unversed/Monstropolis - The Power Plant: Accessway Heartless & Unversed"
+              },
+              {
+                "name": "Monstropolis  - The Power Plant: Tank Yard Heartless",
+                "ref": "Monstropolis - Events/Monstropolis  - The Power Plant: Tank Yard Heartless/Monstropolis  - The Power Plant: Tank Yard Heartless"
+              },
+              {
+                "name": "Monstropolis - The Power Plant: Tank Yard Unversed",
+                "ref": "Monstropolis - Events/Monstropolis - The Power Plant: Tank Yard Unversed/Monstropolis - The Power Plant: Tank Yard Unversed"
+              },
+              {
+                "name": "Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area",
+                "ref": "Monstropolis - Events/Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area/Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 502,
+                "y": 408
+              }
+            ],
+            "access_rules": [
+              "kb_happy_gear"
+            ]
+          },
+          {
+            "name": "Arendelle - All Checks",
+            "sections": [
+              {
+                "name": "Arendelle - Large Chest 1",
+                "ref": "Arendelle - Chests/Arendelle - Large Chest 1/Arendelle - Large Chest 1"
+              },
+              {
+                "name": "Arendelle - Large Chest 2",
+                "ref": "Arendelle - Chests/Arendelle - Large Chest 2/Arendelle - Large Chest 2"
+              },
+              {
+                "name": "Arendelle - Large Chest 3",
+                "ref": "Arendelle - Chests/Arendelle - Large Chest 3/Arendelle - Large Chest 3"
+              },
+              {
+                "name": "Arendelle - Large Chest 4",
+                "ref": "Arendelle - Chests/Arendelle - Large Chest 4/Arendelle - Large Chest 4"
+              },
+              {
+                "name": "Arendelle - Large Chest 5",
+                "ref": "Arendelle - Chests/Arendelle - Large Chest 5/Arendelle - Large Chest 5"
+              },
+              {
+                "name": "Arendelle - Large Chest 6",
+                "ref": "Arendelle - Chests/Arendelle - Large Chest 6/Arendelle - Large Chest 6"
+              },
+              {
+                "name": "Arendelle - Small Chest 1",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 1/Arendelle - Small Chest 1"
+              },
+              {
+                "name": "Arendelle - Small Chest 2",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 2/Arendelle - Small Chest 2"
+              },
+              {
+                "name": "Arendelle - Small Chest 4",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 4/Arendelle - Small Chest 4"
+              },
+              {
+                "name": "Arendelle - Small Chest 5",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 5/Arendelle - Small Chest 5"
+              },
+              {
+                "name": "Arendelle - Small Chest 7",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 7/Arendelle - Small Chest 7"
+              },
+              {
+                "name": "Arendelle - Small Chest 11",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 11/Arendelle - Small Chest 11"
+              },
+              {
+                "name": "Arendelle - Small Chest 12",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 12/Arendelle - Small Chest 12"
+              },
+              {
+                "name": "Arendelle - Small Chest 13",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 13/Arendelle - Small Chest 13"
+              },
+              {
+                "name": "Arendelle - Small Chest 15",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 15/Arendelle - Small Chest 15"
+              },
+              {
+                "name": "Arendelle - Small Chest 16",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 16/Arendelle - Small Chest 16"
+              },
+              {
+                "name": "Arendelle - Small Chest 17",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 17/Arendelle - Small Chest 17"
+              },
+              {
+                "name": "Arendelle - Small Chest 19",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 19/Arendelle - Small Chest 19"
+              },
+              {
+                "name": "Arendelle - Small Chest 20",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 20/Arendelle - Small Chest 20"
+              },
+              {
+                "name": "Arendelle - Small Chest 22",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 22/Arendelle - Small Chest 22"
+              },
+              {
+                "name": "Arendelle - Small Chest 23",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 23/Arendelle - Small Chest 23"
+              },
+              {
+                "name": "Arendelle - Small Chest 24",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 24/Arendelle - Small Chest 24"
+              },
+              {
+                "name": "Arendelle - Small Chest 25",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 25/Arendelle - Small Chest 25"
+              },
+              {
+                "name": "Arendelle - Small Chest 27",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 27/Arendelle - Small Chest 27"
+              },
+              {
+                "name": "Arendelle - Small Chest 29",
+                "ref": "Arendelle - Chests/Arendelle - Small Chest 29/Arendelle - Small Chest 29"
+              },
+              {
+                "name": "Arendelle - EVENT_KEYBLADE_007 - RandomizedItem",
+                "ref": "Arendelle - Events/Arendelle - EVENT_KEYBLADE_007 - RandomizedItem/Arendelle - EVENT_KEYBLADE_007 - RandomizedItem"
+              },
+              {
+                "name": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge",
+                "ref": "Arendelle - Events/Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge/Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge"
+              },
+              {
+                "name": "The Labyrinth of Ice: Middle Tier Ninjas I",
+                "ref": "Arendelle - Events/The Labyrinth of Ice: Middle Tier Ninjas I/The Labyrinth of Ice: Middle Tier Ninjas I"
+              },
+              {
+                "name": "The Labyrinth of Ice: Lower Tier Ninjas II",
+                "ref": "Arendelle - Events/The Labyrinth of Ice: Lower Tier Ninjas II/The Labyrinth of Ice: Lower Tier Ninjas II"
+              },
+              {
+                "name": "The Labyrinth of Ice: Middle Tier Ninjas III",
+                "ref": "Arendelle - Events/The Labyrinth of Ice: Middle Tier Ninjas III/The Labyrinth of Ice: Middle Tier Ninjas III"
+              },
+              {
+                "name": "The Labyrinth of Ice: Middle Tier Ninjas IV",
+                "ref": "Arendelle - Events/The Labyrinth of Ice: Middle Tier Ninjas IV/The Labyrinth of Ice: Middle Tier Ninjas IV"
+              },
+              {
+                "name": "Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge",
+                "ref": "Arendelle - Events/Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge/Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge"
+              },
+              {
+                "name": "Frozen Slider Frost Serpents",
+                "ref": "Arendelle - Events/Frozen Slider Frost Serpents/Frozen Slider Frost Serpents"
+              },
+              {
+                "name": "Arendelle - The North Mountain: The Valley of Ice Heartless",
+                "ref": "Arendelle - Events/Arendelle - The North Mountain: The Valley of Ice Heartless/Arendelle - The North Mountain: The Valley of Ice Heartless"
+              },
+              {
+                "name": "Defeat Skoll in Arendelle",
+                "ref": "Arendelle - Events/Defeat Skoll in Arendelle/Defeat Skoll in Arendelle"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 79,
+                "y": 265
+              }
+            ],
+            "access_rules": [
+              "kb_crystal_snow"
+            ]
+          },
+          {
+            "name": "The Caribbean - All Checks",
+            "sections": [
+              {
+                "name": "The Caribbean - Large Chest 1",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 1/The Caribbean - Large Chest 1"
+              },
+              {
+                "name": "The Caribbean - Large Chest 2",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 2/The Caribbean - Large Chest 2"
+              },
+              {
+                "name": "The Caribbean - Large Chest 3",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 3/The Caribbean - Large Chest 3"
+              },
+              {
+                "name": "The Caribbean - Large Chest 4",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 4/The Caribbean - Large Chest 4"
+              },
+              {
+                "name": "The Caribbean - Large Chest 5",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 5/The Caribbean - Large Chest 5"
+              },
+              {
+                "name": "The Caribbean - Large Chest 6",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 6/The Caribbean - Large Chest 6"
+              },
+              {
+                "name": "The Caribbean - Large Chest 7",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 7/The Caribbean - Large Chest 7"
+              },
+              {
+                "name": "The Caribbean - Large Chest 8",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 8/The Caribbean - Large Chest 8"
+              },
+              {
+                "name": "The Caribbean - Large Chest 9",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 9/The Caribbean - Large Chest 9"
+              },
+              {
+                "name": "The Caribbean - Large Chest 10",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 10/The Caribbean - Large Chest 10"
+              },
+              {
+                "name": "The Caribbean - Large Chest 11",
+                "ref": "The Caribbean - Chests/The Caribbean - Large Chest 11/The Caribbean - Large Chest 11"
+              },
+              {
+                "name": "The Caribbean - Small Chest 1",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 1/The Caribbean - Small Chest 1"
+              },
+              {
+                "name": "The Caribbean - Small Chest 2",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 2/The Caribbean - Small Chest 2"
+              },
+              {
+                "name": "The Caribbean - Small Chest 3",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 3/The Caribbean - Small Chest 3"
+              },
+              {
+                "name": "The Caribbean - Small Chest 4",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 4/The Caribbean - Small Chest 4"
+              },
+              {
+                "name": "The Caribbean - Small Chest 5",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 5/The Caribbean - Small Chest 5"
+              },
+              {
+                "name": "The Caribbean - Small Chest 6",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 6/The Caribbean - Small Chest 6"
+              },
+              {
+                "name": "The Caribbean - Small Chest 7",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 7/The Caribbean - Small Chest 7"
+              },
+              {
+                "name": "The Caribbean - Small Chest 8",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 8/The Caribbean - Small Chest 8"
+              },
+              {
+                "name": "The Caribbean - Small Chest 9",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 9/The Caribbean - Small Chest 9"
+              },
+              {
+                "name": "The Caribbean - Small Chest 11",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 11/The Caribbean - Small Chest 11"
+              },
+              {
+                "name": "The Caribbean - Small Chest 12",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 12/The Caribbean - Small Chest 12"
+              },
+              {
+                "name": "The Caribbean - Small Chest 16",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 16/The Caribbean - Small Chest 16"
+              },
+              {
+                "name": "The Caribbean - Small Chest 17",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 17/The Caribbean - Small Chest 17"
+              },
+              {
+                "name": "The Caribbean - Small Chest 18",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 18/The Caribbean - Small Chest 18"
+              },
+              {
+                "name": "The Caribbean - Small Chest 25",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 25/The Caribbean - Small Chest 25"
+              },
+              {
+                "name": "The Caribbean - Small Chest 19",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 19/The Caribbean - Small Chest 19"
+              },
+              {
+                "name": "The Caribbean - Small Chest 26",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 26/The Caribbean - Small Chest 26"
+              },
+              {
+                "name": "The Caribbean - Small Chest 27",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 27/The Caribbean - Small Chest 27"
+              },
+              {
+                "name": "The Caribbean - Small Chest 28",
+                "ref": "The Caribbean - Chests/The Caribbean - Small Chest 28/The Caribbean - Small Chest 28"
+              },
+              {
+                "name": "The Caribbean - Small Chest 29",
+                "ref": "The Caribbean - Chests/Sandbar Isle - Chests 28+29+30/The Caribbean - Small Chest 29"
+              },
+              {
+                "name": "The Caribbean - Small Chest 30",
+                "ref": "The Caribbean - Chests/Sandbar Isle - Chests 28+29+30/The Caribbean - Small Chest 30"
+              },
+              {
+                "name": "The Caribbean - Small Chest 31",
+                "ref": "The Caribbean - Chests/Sandbar Isle - Chests 28+29+30/The Caribbean - Small Chest 31"
+              },
+              {
+                "name": "The Caribbean - Small Chest 34",
+                "ref": "The Caribbean - Chests/Sandbar Isle - x8 Cluster/The Caribbean - Small Chest 34"
+              },
+              {
+                "name": "The Caribbean - Small Chest 35",
+                "ref": "The Caribbean - Chests/Sandbar Isle - x8 Cluster/The Caribbean - Small Chest 35"
+              },
+              {
+                "name": "The Caribbean - Small Chest 36",
+                "ref": "The Caribbean - Chests/Sandbar Isle - x8 Cluster/The Caribbean - Small Chest 36"
+              },
+              {
+                "name": "The Caribbean - Small Chest 37",
+                "ref": "The Caribbean - Chests/Sandbar Isle - x8 Cluster/The Caribbean - Small Chest 37"
+              },
+              {
+                "name": "The Caribbean - Small Chest 38",
+                "ref": "The Caribbean - Chests/Sandbar Isle - x8 Cluster/The Caribbean - Small Chest 38"
+              },
+              {
+                "name": "The Caribbean - Small Chest 39",
+                "ref": "The Caribbean - Chests/Sandbar Isle - x8 Cluster/The Caribbean - Small Chest 39"
+              },
+              {
+                "name": "The Caribbean - Small Chest 40",
+                "ref": "The Caribbean - Chests/Sandbar Isle - x8 Cluster/The Caribbean - Small Chest 40"
+              },
+              {
+                "name": "The Caribbean - Small Chest 41",
+                "ref": "The Caribbean - Chests/Sandbar Isle - x8 Cluster/The Caribbean - Small Chest 41"
+              },
+              {
+                "name": "The Caribbean - Small Chest 32",
+                "ref": "The Caribbean - Chests/Sandbar Isle - Chests 31+32/The Caribbean - Small Chest 32"
+              },
+              {
+                "name": "The Caribbean - Small Chest 33",
+                "ref": "The Caribbean - Chests/Sandbar Isle - Chests 31+32/The Caribbean - Small Chest 33"
+              },
+              {
+                "name": "The Caribbean - Small Chest 20",
+                "ref": "The Caribbean - Chests/Horseshoe Island - Chest Cluster/The Caribbean - Small Chest 20"
+              },
+              {
+                "name": "The Caribbean - Small Chest 42",
+                "ref": "The Caribbean - Chests/Horseshoe Island - Chest Cluster/The Caribbean - Small Chest 42"
+              },
+              {
+                "name": "The Caribbean - Small Chest 43",
+                "ref": "The Caribbean - Chests/Horseshoe Island - Chest Cluster/The Caribbean - Small Chest 43"
+              },
+              {
+                "name": "The Caribbean - Small Chest 44",
+                "ref": "The Caribbean - Chests/Horseshoe Island - Chest Cluster/The Caribbean - Small Chest 44"
+              },
+              {
+                "name": "The Caribbean - Small Chest 45",
+                "ref": "The Caribbean - Chests/Horseshoe Island - Chest Cluster/The Caribbean - Small Chest 45"
+              },
+              {
+                "name": "The Caribbean - Small Chest 10",
+                "ref": "The Caribbean - Chests/Huddled Isles - Chests 1+21+22/The Caribbean - Small Chest 10"
+              },
+              {
+                "name": "The Caribbean - Small Chest 21",
+                "ref": "The Caribbean - Chests/Huddled Isles - Chests 1+21+22/The Caribbean - Small Chest 21"
+              },
+              {
+                "name": "The Caribbean - Small Chest 22",
+                "ref": "The Caribbean - Chests/Huddled Isles - Chests 1+21+22/The Caribbean - Small Chest 22"
+              },
+              {
+                "name": "The Caribbean - Small Chest 14",
+                "ref": "The Caribbean - Chests/Ship's End - Chests 7+8/The Caribbean - Small Chest 14"
+              },
+              {
+                "name": "The Caribbean - Small Chest 15",
+                "ref": "The Caribbean - Chests/Ship's End - Chests 7+8/The Caribbean - Small Chest 15"
+              },
+              {
+                "name": "The Caribbean - Small Chest 13",
+                "ref": "The Caribbean - Chests/Isla Mastiles - Chests 5+23+24/The Caribbean - Small Chest 13"
+              },
+              {
+                "name": "The Caribbean - Small Chest 23",
+                "ref": "The Caribbean - Chests/Isla Mastiles - Chests 5+23+24/The Caribbean - Small Chest 23"
+              },
+              {
+                "name": "The Caribbean - Small Chest 24",
+                "ref": "The Caribbean - Chests/Isla Mastiles - Chests 5+23+24/The Caribbean - Small Chest 24"
+              },
+              {
+                "name": "The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem",
+                "ref": "The Caribbean - Events/The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem/The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem"
+              },
+              {
+                "name": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker",
+                "ref": "The Caribbean - Events/Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker/Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker"
+              },
+              {
+                "name": "1st Ship Battle in The Caribbean - Over the Edge",
+                "ref": "The Caribbean - Events/1st Ship Battle in The Caribbean - Over the Edge/1st Ship Battle in The Caribbean - Over the Edge"
+              },
+              {
+                "name": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters",
+                "ref": "The Caribbean - Events/Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters/Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters"
+              },
+              {
+                "name": "Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern",
+                "ref": "The Caribbean - Events/Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern/Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern"
+              },
+              {
+                "name": "Race Luxord to Port Royal in The Caribbean",
+                "ref": "The Caribbean - Events/Race Luxord to Port Royal in The Caribbean/Race Luxord to Port Royal in The Caribbean"
+              },
+              {
+                "name": "2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters",
+                "ref": "The Caribbean - Events/2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters/2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters"
+              },
+              {
+                "name": "3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle",
+                "ref": "The Caribbean - Events/3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle/3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle"
+              },
+              {
+                "name": "Defeat Kraken in The Caribbean - Shipwreck Cove",
+                "ref": "The Caribbean - Events/Defeat Kraken in The Caribbean - Shipwreck Cove/Defeat Kraken in The Caribbean - Shipwreck Cove"
+              },
+              {
+                "name": "Defeat Davy Jones in The Caribbean - Shipwreck Cove",
+                "ref": "The Caribbean - Events/Defeat Davy Jones in The Caribbean - Shipwreck Cove/Defeat Davy Jones in The Caribbean - Shipwreck Cove"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 493,
+                "y": 186
+              }
+            ],
+            "access_rules": [
+              "kb_wheel_of_fate"
+            ]
+          },
+          {
+            "name": "San Fransokyo - All Checks",
+            "sections": [
+              {
+                "name": "San Fransokyo - Large Chest 1",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Large Chest 1/San Fransokyo - Large Chest 1"
+              },
+              {
+                "name": "San Fransokyo - Large Chest 5",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Large Chest 5/San Fransokyo - Large Chest 5"
+              },
+              {
+                "name": "San Fransokyo - Large Chest 6",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Large Chest 6/San Fransokyo - Large Chest 6"
+              },
+              {
+                "name": "San Fransokyo - Large Chest 7",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Large Chest 7/San Fransokyo - Large Chest 7"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 2",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 2/San Fransokyo - Small Chest 2"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 3",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 3/San Fransokyo - Small Chest 3"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 4",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 4/San Fransokyo - Small Chest 4"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 5",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 5/San Fransokyo - Small Chest 5"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 6",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 6/San Fransokyo - Small Chest 6"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 7",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 7/San Fransokyo - Small Chest 7"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 8",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 8/San Fransokyo - Small Chest 8"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 9",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 9/San Fransokyo - Small Chest 9"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 12",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 12/San Fransokyo - Small Chest 12"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 13",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 13/San Fransokyo - Small Chest 13"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 14",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 14/San Fransokyo - Small Chest 14"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 15",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 15/San Fransokyo - Small Chest 15"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 16",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 16/San Fransokyo - Small Chest 16"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 18",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 18/San Fransokyo - Small Chest 18"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 19",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 19/San Fransokyo - Small Chest 19"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 20",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 20/San Fransokyo - Small Chest 20"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 21",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 21/San Fransokyo - Small Chest 21"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 22",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 22/San Fransokyo - Small Chest 22"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 23",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 23/San Fransokyo - Small Chest 23"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 24",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 24/San Fransokyo - Small Chest 24"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 25",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 25/San Fransokyo - Small Chest 25"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 26",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 26/San Fransokyo - Small Chest 26"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 27",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 27/San Fransokyo - Small Chest 27"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 28",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 28/San Fransokyo - Small Chest 28"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 30",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 30/San Fransokyo - Small Chest 30"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 31",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 31/San Fransokyo - Small Chest 31"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 32",
+                "ref": "San Fransokyo - Chests/San Fransokyo - Small Chest 32/San Fransokyo - Small Chest 32"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 10",
+                "ref": "San Fransokyo - Chests/SF - Chests 10+11+17/San Fransokyo - Small Chest 10"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 11",
+                "ref": "San Fransokyo - Chests/SF - Chests 10+11+17/San Fransokyo - Small Chest 11"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 17",
+                "ref": "San Fransokyo - Chests/SF - Chests 10+11+17/San Fransokyo - Small Chest 17"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 1",
+                "ref": "San Fransokyo - Chests/SF - Chests 1+30/San Fransokyo - Small Chest 1"
+              },
+              {
+                "name": "San Fransokyo - Small Chest 29",
+                "ref": "San Fransokyo - Chests/SF - Chests 1+30/San Fransokyo - Small Chest 29"
+              },
+              {
+                "name": "San Fransokyo - EVENT_009 - RandomizedItem",
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/San Fransokyo - EVENT_009 - RandomizedItem"
+              },
+              {
+                "name": "San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem",
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem/San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem"
+              },
+              {
+                "name": "San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem",
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem/San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem"
+              },
+              {
+                "name": "San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem",
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem/San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem"
+              },
+              {
+                "name": "Defeat Metal Troll in San Fransokyo: The Bridge",
+                "ref": "San Fransokyo - Events/Defeat Metal Troll in San Fransokyo: The Bridge/Defeat Metal Troll in San Fransokyo: The Bridge"
+              },
+              {
+                "name": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage",
+                "ref": "San Fransokyo - Events/Meet Big Hero 6 in San Fransokyo - Hiro's Garage/Meet Big Hero 6 in San Fransokyo - Hiro's Garage"
+              },
+              {
+                "name": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)",
+                "ref": "San Fransokyo - Events/The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)/The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)"
+              },
+              {
+                "name": "Defeat Catastrochorus in San Fransokyo - The City (Day)",
+                "ref": "San Fransokyo - Events/Defeat Catastrochorus in San Fransokyo - The City (Day)/Defeat Catastrochorus in San Fransokyo - The City (Day)"
+              },
+              {
+                "name": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)",
+                "ref": "San Fransokyo - Events/Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)/Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)"
+              },
+              {
+                "name": "Defeat Darkubes in San Fransokyo - The City (Night)",
+                "ref": "San Fransokyo - Events/Defeat Darkubes in San Fransokyo - The City (Night)/Defeat Darkubes in San Fransokyo - The City (Night)"
+              },
+              {
+                "name": "Defeat Dark Baymax in San Fransokyo - The City (Day)",
+                "ref": "San Fransokyo - Events/Defeat Dark Baymax in San Fransokyo - The City (Day)/Defeat Dark Baymax in San Fransokyo - The City (Day)"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 126,
+                "y": 421
+              }
+            ],
+            "access_rules": [
+              "kb_nano_gear"
+            ]
+          },
+          {
+            "name": "Keyblade Graveyard - All Checks",
+            "sections": [
+              {
+                "name": "Keyblade Graveyard - Large Chest 1",
+                "ref": "Keyblade Graveyard - Chests/Keyblade Graveyard - Large Chest 1/Keyblade Graveyard - Large Chest 1"
+              },
+              {
+                "name": "Keyblade Graveyard - Large Chest 2",
+                "ref": "Keyblade Graveyard - Chests/Keyblade Graveyard - Large Chest 2/Keyblade Graveyard - Large Chest 2"
+              },
+              {
+                "name": "Keyblade Graveyard - Small Chest 1",
+                "ref": "Keyblade Graveyard - Chests/Keyblade Graveyard - Small Chest 1/Keyblade Graveyard - Small Chest 1"
+              },
+              {
+                "name": "Keyblade Graveyard - Small Chest 2",
+                "ref": "Keyblade Graveyard - Chests/Keyblade Graveyard - Small Chest 2/Keyblade Graveyard - Small Chest 2"
+              },
+              {
+                "name": "Keyblade Graveyard - Small Chest 3",
+                "ref": "Keyblade Graveyard - Chests/Keyblade Graveyard - Small Chest 3/Keyblade Graveyard - Small Chest 3"
+              },
+              {
+                "name": "Keyblade Graveyard - Small Chest 4",
+                "ref": "Keyblade Graveyard - Chests/Keyblade Graveyard - Small Chest 4/Keyblade Graveyard - Small Chest 4"
+              },
+              {
+                "name": "The Final World - Large Chest 1",
+                "ref": "Keyblade Graveyard - Chests/The Final World - Large Chest 1/The Final World - Large Chest 1"
+              },
+              {
+                "name": "Keyblade Graveyard - EVENT_KEYBLADE_011 - RandomizedItem",
+                "ref": "Keyblade Graveyard - Events/Keyblade Graveyard - EVENT_KEYBLADE_011 - RandomizedItem/Keyblade Graveyard - EVENT_KEYBLADE_011 - RandomizedItem"
+              },
+              {
+                "name": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)",
+                "ref": "Keyblade Graveyard - Events/Defeat Lich in The Final World (San Fransokyo - The City: Central District)/Defeat Lich in The Final World (San Fransokyo - The City: Central District)"
+              },
+              {
+                "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a",
+                "ref": "Keyblade Graveyard - Events/10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a/10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a"
+              },
+              {
+                "name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
+                "ref": "Keyblade Graveyard - Events/Defeat Demon Tide in The Keyblade Graveyard: The Badlands/Defeat Demon Tide in The Keyblade Graveyard: The Badlands"
+              },
+              {
+                "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
+                "ref": "Keyblade Graveyard - Events/Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction/Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction"
+              },
+              {
+                "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
+                "ref": "Keyblade Graveyard - Events/Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction/Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction"
+              },
+              {
+                "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
+                "ref": "Keyblade Graveyard - Events/Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation/Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation"
+              },
+              {
+                "name": "Defeat Saïx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
+                "ref": "Keyblade Graveyard - Events/Defeat Saïx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation/Defeat Saïx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation"
+              },
+              {
+                "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings",
+                "ref": "Keyblade Graveyard - Events/Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings/Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings"
+              },
+              {
+                "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
+                "ref": "Keyblade Graveyard - Events/10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b/10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b"
+              },
+              {
+                "name": "After collecting 222 Soras in The Final World",
+                "ref": "Keyblade Graveyard - Events/After collecting 222 Soras in The Final World/After collecting 222 Soras in The Final World"
+              },
+              {
+                "name": "After collecting 333 Soras in The Final World",
+                "ref": "Keyblade Graveyard - Events/After collecting 333 Soras in The Final World/After collecting 333 Soras in The Final World"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 430,
+                "y": 127
+              }
+            ],
+            "access_rules": [
+              "active_keyblade_graveyard,kingdom_key,$has_tier_one_keyblades"
+            ]
+          },
+          {
+            "name": "Dark World - All Checks",
+            "sections": [
+              {
+                "name": "Defeat Anti-Aqua in The Dark World - The Realm of Darkness",
+                "ref": "Dark World/Events/Defeat Anti-Aqua in The Dark World - The Realm of Darkness/Defeat Anti-Aqua in The Dark World - The Realm of Darkness"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 86,
+                "y": 347
+              }
+            ],
+            "access_rules": [
+              "kb_oblivion,$has_tier_one_keyblades"
+            ]
+          },
+          {
+            "name": "Re Mind - All Checks",
+            "sections": [
+              {
+                "name": "Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)",
+                "ref": "Re Mind/Checks/Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)/Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)"
+              },
+              {
+                "name": "Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)",
+                "ref": "Re Mind/Checks/Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)/Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)"
+              },
+              {
+                "name": "Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)",
+                "ref": "Re Mind/Checks/Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)/Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)"
+              },
+              {
+                "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
+                "ref": "Re Mind/Checks/Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction/Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction"
+              },
+              {
+                "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
+                "ref": "Re Mind/Checks/Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction/Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction"
+              },
+              {
+                "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
+                "ref": "Re Mind/Checks/Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation/Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation"
+              },
+              {
+                "name": "After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
+                "ref": "Re Mind/Checks/After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation/After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation"
+              },
+              {
+                "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings",
+                "ref": "Re Mind/Checks/Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings/Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings"
+              },
+              {
+                "name": "Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter",
+                "ref": "Re Mind/Checks/Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter/Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter"
+              },
+              {
+                "name": "Defeat Armored Xehanort in Re:Mind",
+                "ref": "Re Mind/Checks/Defeat Armored Xehanort in Re:Mind/Defeat Armored Xehanort in Re:Mind"
+              },
+              {
+                "name": "Re Mind - Large Chest 1",
+                "ref": "Re Mind/Checks/Re Mind - Large Chest 1/Re Mind - Large Chest 1"
+              },
+              {
+                "name": "Re Mind - Large Chest 2",
+                "ref": "Re Mind/Checks/Re Mind - Large Chest 2/Re Mind - Large Chest 2"
+              },
+              {
+                "name": "Re Mind - Small Chest 1",
+                "ref": "Re Mind/Checks/Re Mind - Small Chest 1/Re Mind - Small Chest 1"
+              },
+              {
+                "name": "Re Mind - Small Chest 2",
+                "ref": "Re Mind/Checks/Re Mind - Small Chest 2/Re Mind - Small Chest 2"
+              },
+              {
+                "name": "Re Mind - Small Chest 3",
+                "ref": "Re Mind/Checks/Re Mind - Small Chest 3/Re Mind - Small Chest 3"
+              },
+              {
+                "name": "Re Mind - Small Chest 4",
+                "ref": "Re Mind/Checks/Re Mind - Small Chest 4/Re Mind - Small Chest 4"
+              },
+              {
+                "name": "Re Mind - Small Chest 5",
+                "ref": "Re Mind/Checks/Re Mind - Small Chest 5/Re Mind - Small Chest 5"
+              },
+              {
+                "name": "Re Mind - Small Chest 6",
+                "ref": "Re Mind/Checks/Re Mind - Small Chest 6/Re Mind - Small Chest 6"
+              },
+              {
+                "name": "Re Mind - Small Chest 7",
+                "ref": "Re Mind/Checks/Re Mind - Small Chest 7/Re Mind - Small Chest 7"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 174,
+                "y": 119
+              }
+            ],
+            "access_rules": [
+              "active_remind,kb_classic_tone,$has_tier_one_keyblades"
+            ]
+          },
+          {
+            "name": "Radiant Garden - All Checks",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_001 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_001 - RandomizedItem/Data Battles - EVENT_DATAB_001 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_002 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_002 - RandomizedItem/Data Battles - EVENT_DATAB_002 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_003 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_003 - RandomizedItem/Data Battles - EVENT_DATAB_003 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_004 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_004 - RandomizedItem/Data Battles - EVENT_DATAB_004 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_005 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_005 - RandomizedItem/Data Battles - EVENT_DATAB_005 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_006 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_006 - RandomizedItem/Data Battles - EVENT_DATAB_006 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_007 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_007 - RandomizedItem/Data Battles - EVENT_DATAB_007 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_008 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_008 - RandomizedItem/Data Battles - EVENT_DATAB_008 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_009 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_009 - RandomizedItem/Data Battles - EVENT_DATAB_009 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_010 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_010 - RandomizedItem/Data Battles - EVENT_DATAB_010 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_011 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_011 - RandomizedItem/Data Battles - EVENT_DATAB_011 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_012 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_012 - RandomizedItem/Data Battles - EVENT_DATAB_012 - RandomizedItem"
+              },
+              {
+                "name": "Data Battles - EVENT_DATAB_013 - RandomizedItem",
+                "ref": "Radiant Garden/Data Battles/Data Battles - EVENT_DATAB_013 - RandomizedItem/Data Battles - EVENT_DATAB_013 - RandomizedItem"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 525,
+                "y": 339
+              }
+            ],
+            "access_rules": [
+              "active_radiant_garden,kb_oathkeeper,$has_tier_one_keyblades"
+            ]
+          },
+          {
+            "name": "Victory Check",
+            "sections": [
+              {
+                "name": "Victory",
+                "item_count": 1,
+                "access_rules": [
+                  "proof_of_fantasy,proof_of_promises,proof_of_times_past,unlock_style_change,goal_is_proofs",
+                  "heart_piece:7,unlock_style_change,goal_is_heart_pieces"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 306,
+                "y": 47
+              }
+            ]
+          },
+          {
+            "name": "100 Acre Wood - All Checks",
+            "sections": [
+              {
+                "name": "100 Acre Wood - EVENT_KEYBLADE_006 - RandomizedItem",
+                "ref": "100 Acre Wood/Events/100 Acre Wood - EVENT_KEYBLADE_006 - RandomizedItem/100 Acre Wood - EVENT_KEYBLADE_006 - RandomizedItem"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 309,
+                "y": 539
+              }
+            ]
+          },
+          {
+            "name": "Level Ups - All Checks",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 2",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 2/Level Ups - Sora Level 2"
+              },
+              {
+                "name": "Level Ups - Sora Level 3",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 3/Level Ups - Sora Level 3"
+              },
+              {
+                "name": "Level Ups - Sora Level 4",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 4/Level Ups - Sora Level 4"
+              },
+              {
+                "name": "Level Ups - Sora Level 5",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 5/Level Ups - Sora Level 5"
+              },
+              {
+                "name": "Level Ups - Sora Level 6",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 6/Level Ups - Sora Level 6"
+              },
+              {
+                "name": "Level Ups - Sora Level 7",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 7/Level Ups - Sora Level 7"
+              },
+              {
+                "name": "Level Ups - Sora Level 8",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 8/Level Ups - Sora Level 8"
+              },
+              {
+                "name": "Level Ups - Sora Level 9",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 9/Level Ups - Sora Level 9"
+              },
+              {
+                "name": "Level Ups - Sora Level 10",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 10/Level Ups - Sora Level 10"
+              },
+              {
+                "name": "Level Ups - Sora Level 11",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 11/Level Ups - Sora Level 11"
+              },
+              {
+                "name": "Level Ups - Sora Level 12",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 12/Level Ups - Sora Level 12"
+              },
+              {
+                "name": "Level Ups - Sora Level 13",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 13/Level Ups - Sora Level 13"
+              },
+              {
+                "name": "Level Ups - Sora Level 14",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 14/Level Ups - Sora Level 14"
+              },
+              {
+                "name": "Level Ups - Sora Level 15",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 15/Level Ups - Sora Level 15"
+              },
+              {
+                "name": "Level Ups - Sora Level 16",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 16/Level Ups - Sora Level 16"
+              },
+              {
+                "name": "Level Ups - Sora Level 17",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 17/Level Ups - Sora Level 17"
+              },
+              {
+                "name": "Level Ups - Sora Level 18",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 18/Level Ups - Sora Level 18"
+              },
+              {
+                "name": "Level Ups - Sora Level 19",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 19/Level Ups - Sora Level 19"
+              },
+              {
+                "name": "Level Ups - Sora Level 20",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 20/Level Ups - Sora Level 20"
+              },
+              {
+                "name": "Level Ups - Sora Level 21",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 21/Level Ups - Sora Level 21"
+              },
+              {
+                "name": "Level Ups - Sora Level 22",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 22/Level Ups - Sora Level 22"
+              },
+              {
+                "name": "Level Ups - Sora Level 23",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 23/Level Ups - Sora Level 23"
+              },
+              {
+                "name": "Level Ups - Sora Level 24",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 24/Level Ups - Sora Level 24"
+              },
+              {
+                "name": "Level Ups - Sora Level 25",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 25/Level Ups - Sora Level 25"
+              },
+              {
+                "name": "Level Ups - Sora Level 26",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 26/Level Ups - Sora Level 26"
+              },
+              {
+                "name": "Level Ups - Sora Level 27",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 27/Level Ups - Sora Level 27"
+              },
+              {
+                "name": "Level Ups - Sora Level 28",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 28/Level Ups - Sora Level 28"
+              },
+              {
+                "name": "Level Ups - Sora Level 29",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 29/Level Ups - Sora Level 29"
+              },
+              {
+                "name": "Level Ups - Sora Level 30",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 30/Level Ups - Sora Level 30"
+              },
+              {
+                "name": "Level Ups - Sora Level 31",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 31/Level Ups - Sora Level 31"
+              },
+              {
+                "name": "Level Ups - Sora Level 32",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 32/Level Ups - Sora Level 32"
+              },
+              {
+                "name": "Level Ups - Sora Level 33",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 33/Level Ups - Sora Level 33"
+              },
+              {
+                "name": "Level Ups - Sora Level 34",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 34/Level Ups - Sora Level 34"
+              },
+              {
+                "name": "Level Ups - Sora Level 35",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 35/Level Ups - Sora Level 35"
+              },
+              {
+                "name": "Level Ups - Sora Level 36",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 36/Level Ups - Sora Level 36"
+              },
+              {
+                "name": "Level Ups - Sora Level 37",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 37/Level Ups - Sora Level 37"
+              },
+              {
+                "name": "Level Ups - Sora Level 38",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 38/Level Ups - Sora Level 38"
+              },
+              {
+                "name": "Level Ups - Sora Level 39",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 39/Level Ups - Sora Level 39"
+              },
+              {
+                "name": "Level Ups - Sora Level 40",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 40/Level Ups - Sora Level 40"
+              },
+              {
+                "name": "Level Ups - Sora Level 41",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 41/Level Ups - Sora Level 41"
+              },
+              {
+                "name": "Level Ups - Sora Level 42",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 42/Level Ups - Sora Level 42"
+              },
+              {
+                "name": "Level Ups - Sora Level 43",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 43/Level Ups - Sora Level 43"
+              },
+              {
+                "name": "Level Ups - Sora Level 44",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 44/Level Ups - Sora Level 44"
+              },
+              {
+                "name": "Level Ups - Sora Level 45",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 45/Level Ups - Sora Level 45"
+              },
+              {
+                "name": "Level Ups - Sora Level 46",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 46/Level Ups - Sora Level 46"
+              },
+              {
+                "name": "Level Ups - Sora Level 47",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 47/Level Ups - Sora Level 47"
+              },
+              {
+                "name": "Level Ups - Sora Level 48",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 48/Level Ups - Sora Level 48"
+              },
+              {
+                "name": "Level Ups - Sora Level 49",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 49/Level Ups - Sora Level 49"
+              },
+              {
+                "name": "Level Ups - Sora Level 50",
+                "ref": "Level Ups/Levels/Level Ups - Sora Level 50/Level Ups - Sora Level 50"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 24,
+                "y": 545
+              }
+            ],
+            "access_rules": [
+              "$has_any|kb_wheel_of_fate|kb_crystal_snow|kb_ever_after|kb_nano_gear|kb_happy_gear|kb_favorite_deputy|kb_shooting_star"
+            ]
+          },
+          {
+            "name": "Battlegates - All Checks",
+            "sections": [
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_001a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_001a - RandomizedItem/Battlegate Reports - EVENT_REPORT_001a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_002a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_002a - RandomizedItem/Battlegate Reports - EVENT_REPORT_002a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_003a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_003a - RandomizedItem/Battlegate Reports - EVENT_REPORT_003a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_004a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_004a - RandomizedItem/Battlegate Reports - EVENT_REPORT_004a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_005a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_005a - RandomizedItem/Battlegate Reports - EVENT_REPORT_005a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_006a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_006a - RandomizedItem/Battlegate Reports - EVENT_REPORT_006a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_007a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_007a - RandomizedItem/Battlegate Reports - EVENT_REPORT_007a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_008a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_008a - RandomizedItem/Battlegate Reports - EVENT_REPORT_008a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_009a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_009a - RandomizedItem/Battlegate Reports - EVENT_REPORT_009a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_010a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_010a - RandomizedItem/Battlegate Reports - EVENT_REPORT_010a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_011a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_011a - RandomizedItem/Battlegate Reports - EVENT_REPORT_011a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_012a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_012a - RandomizedItem/Battlegate Reports - EVENT_REPORT_012a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Reports - EVENT_REPORT_013a - RandomizedItem",
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_013a - RandomizedItem/Battlegate Reports - EVENT_REPORT_013a - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_001b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_001b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_001b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_002b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_002b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_002b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_006b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_006b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_006b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_007b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_007b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_007b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_008b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_008b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_008b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_009b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_009b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_009b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_010b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_010b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_010b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_011b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_011b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_011b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_012b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_012b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_012b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_013b - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_013b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_013b - RandomizedItem"
+              },
+              {
+                "name": "Battlegate Rewards - EVENT_REPORT_014 - RandomizedItem",
+                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_014 - RandomizedItem/Battlegate Rewards - EVENT_REPORT_014 - RandomizedItem"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 66,
+                "y": 545
+              }
+            ],
+            "visibility_rules": [
+              "active_battlegates"
+            ],
+            "access_rules": [
+              "active_battlegates"
+            ]
+          },
+          {
+            "name": "Lucky Emblems - All Checks",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 1",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 1/Lucky Emblems - Milestone 1"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 3",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 3/Lucky Emblems - Milestone 3"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 5",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 5/Lucky Emblems - Milestone 5"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 10",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 10/Lucky Emblems - Milestone 10"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 15",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 15/Lucky Emblems - Milestone 15"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 20",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 20/Lucky Emblems - Milestone 20"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 25",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 25/Lucky Emblems - Milestone 25"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 30",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 30/Lucky Emblems - Milestone 30"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 35",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 35/Lucky Emblems - Milestone 35"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 40",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 40/Lucky Emblems - Milestone 40"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 45",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 45/Lucky Emblems - Milestone 45"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 50",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 50/Lucky Emblems - Milestone 50"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 55",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 55/Lucky Emblems - Milestone 55"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 60",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 60/Lucky Emblems - Milestone 60"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 65",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 65/Lucky Emblems - Milestone 65"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 70",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 70/Lucky Emblems - Milestone 70"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 80",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 80/Lucky Emblems - Milestone 80"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 90",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 90/Lucky Emblems - Milestone 90"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 107,
+                "y": 545
+              }
+            ],
+            "visibility_rules": [
+              "active_lucky_emblems"
+            ],
+            "access_rules": [
+              "active_lucky_emblems"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

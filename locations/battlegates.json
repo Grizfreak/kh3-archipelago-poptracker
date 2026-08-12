@@ -1,0 +1,364 @@
+[
+  {
+    "name": "Battlegates",
+    "visibility_rules": [
+      "active_battlegates"
+    ],
+    "access_rules": [
+      "active_battlegates"
+    ],
+    "children": [
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_001a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_001a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_002a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_002a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_003a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_003a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_004a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_004a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_005a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_005a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_006a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_006a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_007a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_007a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_008a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_008a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_009a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_009a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_010a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_010a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_011a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_011a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_012a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_012a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Reports - EVENT_REPORT_013a - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Reports - EVENT_REPORT_013a - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_001b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_001b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_002b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_002b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_006b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_006b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_007b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_007b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_008b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_008b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_009b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_009b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_010b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_010b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_011b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_011b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_012b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_012b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_013b - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_013b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Battlegate Rewards - EVENT_REPORT_014 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_014 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      }
+    ]
+  }
+]

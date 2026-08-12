@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Twilight Town - Chests",
+    "access_rules": [
+      "kb_shooting_star,$has_tier_one_keyblades,$has_twilight_town_combat"
+    ],
+    "children": [
+      {
+        "name": "Twilight Town - Large Chest 1",
+        "sections": [
+          {
+            "name": "Twilight Town - Large Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 161,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "Twilight Town - Small Chest 1",
+        "sections": [
+          {
+            "name": "Twilight Town - Small Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 259,
+            "y": 182
+          }
+        ]
+      },
+      {
+        "name": "Twilight Town - Small Chest 2",
+        "sections": [
+          {
+            "name": "Twilight Town - Small Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 184,
+            "y": 533
+          }
+        ]
+      },
+      {
+        "name": "Twilight Town - Small Chest 3",
+        "sections": [
+          {
+            "name": "Twilight Town - Small Chest 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 209,
+            "y": 352
+          }
+        ]
+      },
+      {
+        "name": "Twilight Town - Small Chest 4",
+        "sections": [
+          {
+            "name": "Twilight Town - Small Chest 4",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 247,
+            "y": 429
+          }
+        ]
+      },
+      {
+        "name": "Twilight Town - Small Chest 5",
+        "sections": [
+          {
+            "name": "Twilight Town - Small Chest 5",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 107,
+            "y": 31
+          }
+        ]
+      },
+      {
+        "name": "Twilight Town - Small Chest 6",
+        "sections": [
+          {
+            "name": "Twilight Town - Small Chest 6",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 517,
+            "y": 376
+          }
+        ]
+      },
+      {
+        "name": "Twilight Town - Small Chest 7",
+        "sections": [
+          {
+            "name": "Twilight Town - Small Chest 7",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 530,
+            "y": 531
+          }
+        ]
+      },
+      {
+        "name": "Twilight Town - Small Chest 8",
+        "sections": [
+          {
+            "name": "Twilight Town - Small Chest 8",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 639,
+            "y": 426
+          }
+        ]
+      },
+      {
+        "name": "Twilight Town - Small Chest 9",
+        "sections": [
+          {
+            "name": "Twilight Town - Small Chest 9",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 681,
+            "y": 24
+          }
+        ]
+      }
+    ]
+  }
+]

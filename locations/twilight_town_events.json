@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Twilight Town - Events",
+    "access_rules": [
+      "kb_shooting_star,$has_tier_one_keyblades,$has_twilight_town_combat"
+    ],
+    "children": [
+      {
+        "name": "Twilight Town - EVENT_KEYBLADE_002 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Twilight Town - EVENT_KEYBLADE_002 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_doubleflight",
+              "$has_any|ability_doubleflight|ability_high_jump"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Twilight Town - EVENT_KEYBLADE_010 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Twilight Town - EVENT_KEYBLADE_010 - RandomizedItem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Twilight Town - EVENT_CKGAME_001 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Twilight Town - EVENT_CKGAME_001 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_doubleflight",
+              "$has_any|ability_doubleflight|ability_high_jump"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
+        "sections": [
+          {
+            "name": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Twilight Town - The Woods Powerwilds",
+        "sections": [
+          {
+            "name": "Twilight Town - The Woods Powerwilds",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Twilight Town - The Old Mansion Heartless & Nobodies",
+        "sections": [
+          {
+            "name": "Twilight Town - The Old Mansion Heartless & Nobodies",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      }
+    ]
+  }
+]

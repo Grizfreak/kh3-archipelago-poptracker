@@ -1,0 +1,2294 @@
+{
+  "format": "kh3_location_descriptions",
+  "format_version": 1,
+  "location_type": "treasure",
+  "source_extensions": "D:\\Projects\\ArchipelagoMine\\worlds\\kh3\\randomizer\\Data\\Extensions.cs",
+  "locations": [
+    {
+      "bridge_key": "TreasureHE:HE_LBOX_001",
+      "source_table": "TreasureHE",
+      "source_id": "HE_LBOX_001",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Large Chest 1",
+      "display_name": "Chest 29 (Large Chest, Realm of the Gods: Corridors, Near Save Point)",
+      "location_description": "Chest 29 (Large Chest, Realm of the Gods: Corridors, Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_LBOX_002",
+      "source_table": "TreasureHE",
+      "source_id": "HE_LBOX_002",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Large Chest 2",
+      "display_name": "Chest 9 (Large Chest, Mount Olympus: Cliff Ascent, Below the Apple Tree)",
+      "location_description": "Chest 9 (Large Chest, Mount Olympus: Cliff Ascent, Below the Apple Tree)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_LBOX_003",
+      "source_table": "TreasureHE",
+      "source_id": "HE_LBOX_003",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Large Chest 3",
+      "display_name": "Chest 31 (Large Chest, Realm of the Gods: Apex, Within Breakable Dive Box)",
+      "location_description": "Chest 31 (Large Chest, Realm of the Gods: Apex, Within Breakable Dive Box)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_LBOX_004",
+      "source_table": "TreasureHE",
+      "source_id": "HE_LBOX_004",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Large Chest 4",
+      "display_name": "Chest 24 (Large Chest, Thebes: Overlook, Near Save Point)",
+      "location_description": "Chest 24 (Large Chest, Thebes: Overlook, Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_001",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_001",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 1",
+      "display_name": "Chest 25 (Small Chest, Realm of the Gods: Courtyard, Hallway Under Stairs)",
+      "location_description": "Chest 25 (Small Chest, Realm of the Gods: Courtyard, Hallway Under Stairs)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_002",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_002",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 2",
+      "display_name": "Chest 26 (Small Chest, Realm of the Gods: Courtyard, Right of Entrance)",
+      "location_description": "Chest 26 (Small Chest, Realm of the Gods: Courtyard, Right of Entrance)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_003",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_003",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 3",
+      "display_name": "Chest 27 (Small Chest, Realm of the Gods: Courtyard, Left of Entrance)",
+      "location_description": "Chest 27 (Small Chest, Realm of the Gods: Courtyard, Left of Entrance)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_004",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_004",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 4",
+      "display_name": "Chest 28 (Small Chest, Realm of the Gods: Corridors, Near Lucky Emblem on Stairs Wall)",
+      "location_description": "Chest 28 (Small Chest, Realm of the Gods: Corridors, Near Lucky Emblem on Stairs Wall)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_006",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_006",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 6",
+      "display_name": "Chest 30 (Small Chest, Realm of the Gods: Cloud Ridge, After Rail Gauntlet)",
+      "location_description": "Chest 30 (Small Chest, Realm of the Gods: Cloud Ridge, After Rail Gauntlet)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_008",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_008",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 8",
+      "display_name": "Chest 32 (Small Chest, Realm of the Gods: Apex, 2nd Airstep Platform)",
+      "location_description": "Chest 32 (Small Chest, Realm of the Gods: Apex, 2nd Airstep Platform)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_009",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_009",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 9",
+      "display_name": "Chest 1 (Small Chest, Mount Olympus: Ravine, Inside the Foot Statue)",
+      "location_description": "Chest 1 (Small Chest, Mount Olympus: Ravine, Inside the Foot Statue)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_010",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_010",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 10",
+      "display_name": "Chest 2 (Small Chest, Mount Olympus: Ravine, In the River)",
+      "location_description": "Chest 2 (Small Chest, Mount Olympus: Ravine, In the River)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_011",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_011",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 11",
+      "display_name": "Chest 3 (Small Chest, Mount Olympus: Cliff Ascent, Cave Alcove Northwest Corner)",
+      "location_description": "Chest 3 (Small Chest, Mount Olympus: Cliff Ascent, Cave Alcove Northwest Corner)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_012",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_012",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 12",
+      "display_name": "Chest 4 (Small Chest, Mount Olympus: Cliff Ascent, Cave Alcove Southwest Corner)",
+      "location_description": "Chest 4 (Small Chest, Mount Olympus: Cliff Ascent, Cave Alcove Southwest Corner)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_013",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_013",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 13",
+      "display_name": "Chest 5 (Small Chest, Mount Olympus: Cliff Ascent, Cave Alcove Northwest Corner)",
+      "location_description": "Chest 5 (Small Chest, Mount Olympus: Cliff Ascent, Cave Alcove Northwest Corner)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_014",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_014",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 14",
+      "display_name": "Chest 6 (Small Chest, Mount Olympus: Cliff Ascent, On Lucky Emblem Mountain)",
+      "location_description": "Chest 6 (Small Chest, Mount Olympus: Cliff Ascent, On Lucky Emblem Mountain)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_015",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_015",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 15",
+      "display_name": "Chest 7 (Small Chest, Mount Olympus: Cliff Ascent, Near Lucky Emblem Mountain)",
+      "location_description": "Chest 7 (Small Chest, Mount Olympus: Cliff Ascent, Near Lucky Emblem Mountain)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_016",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_016",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 16",
+      "display_name": "Chest 8 (Small Chest, Mount Olympus: Cliff Ascent, South Side of 1st Scalable Wall)",
+      "location_description": "Chest 8 (Small Chest, Mount Olympus: Cliff Ascent, South Side of 1st Scalable Wall)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_017",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_017",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 17",
+      "display_name": "Chest 10 (Small Chest, Mount Olympus: Mountainside, Near the Top of the 1st Cliff)",
+      "location_description": "Chest 10 (Small Chest, Mount Olympus: Mountainside, Near the Top of the 1st Cliff)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_020",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_020",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 20",
+      "display_name": "Chest 11 (Small Chest, Mount Olympus: Summit, Top of the 2nd Cliff)",
+      "location_description": "Chest 11 (Small Chest, Mount Olympus: Summit, Top of the 2nd Cliff)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_021",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_021",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 21",
+      "display_name": "Chest 12 (Small Chest, Mount Olympus: Mountainside, High Platform After 1st Cliff)",
+      "location_description": "Chest 12 (Small Chest, Mount Olympus: Mountainside, High Platform After 1st Cliff)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_022",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_022",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 22",
+      "display_name": "Chest 13 (Small Chest, Thebes: Alleyway, Upper Grass Platform)",
+      "location_description": "Chest 13 (Small Chest, Thebes: Alleyway, Upper Grass Platform)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_023",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_023",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 23",
+      "display_name": "Chest 14 (Small Chest, Thebes: Alleyway, Inside Waterway)",
+      "location_description": "Chest 14 (Small Chest, Thebes: Alleyway, Inside Waterway)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_024",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_024",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 24",
+      "display_name": "Chest 15 (Small Chest, Thebes: Agora, Near Lucky Emblem on Stairs)",
+      "location_description": "Chest 15 (Small Chest, Thebes: Agora, Near Lucky Emblem on Stairs)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_025",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_025",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 25",
+      "display_name": "Chest 16 (Small Chest, Thebes: The Big Olive, Left Trinity Shield Path)",
+      "location_description": "Chest 16 (Small Chest, Thebes: The Big Olive, Left Trinity Shield Path)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_026",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_026",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 26",
+      "display_name": "Chest 17 (Small Chest, Thebes: The Big Olive, Platform Above the Lava Pit)",
+      "location_description": "Chest 17 (Small Chest, Thebes: The Big Olive, Platform Above the Lava Pit)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_027",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_027",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 27",
+      "display_name": "Chest 18 (Small Chest, Thebes: Gardens, Break the Statue's Right Foot)",
+      "location_description": "Chest 18 (Small Chest, Thebes: Gardens, Break the Statue's Right Foot)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_028",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_028",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 28",
+      "display_name": "Chest 19 (Small Chest, Thebes: Overlook, Below Statue with Shield)",
+      "location_description": "Chest 19 (Small Chest, Thebes: Overlook, Below Statue with Shield)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_029",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_029",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 29",
+      "display_name": "Chest 20 (Small Chest, Thebes: Overlook, End of Left Trinity Shield Path)",
+      "location_description": "Chest 20 (Small Chest, Thebes: Overlook, End of Left Trinity Shield Path)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_030",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_030",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 30",
+      "display_name": "Chest 21 (Small Chest, Thebes: Gardens, Near Save Point)",
+      "location_description": "Chest 21 (Small Chest, Thebes: Gardens, Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_031",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_031",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 31",
+      "display_name": "Chest 22 (Small Chest, Thebes: Overlook, Northwest of Statue with Shield)",
+      "location_description": "Chest 22 (Small Chest, Thebes: Overlook, Northwest of Statue with Shield)"
+    },
+    {
+      "bridge_key": "TreasureHE:HE_SBOX_033",
+      "source_table": "TreasureHE",
+      "source_id": "HE_SBOX_033",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Small Chest 33",
+      "display_name": "Chest 23 (Small Chest, Thebes: Overlook, Before Crossing the Roofs)",
+      "location_description": "Chest 23 (Small Chest, Thebes: Overlook, Before Crossing the Roofs)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_LBOX_001",
+      "source_table": "TreasureTT",
+      "source_id": "TT_LBOX_001",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Large Chest 1",
+      "display_name": "Chest 1 (Large Chest, The Neighborhood: Tram Common, Near Gummi Shop)",
+      "location_description": "Chest 1 (Large Chest, The Neighborhood: Tram Common, Near Gummi Shop)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_SBOX_001",
+      "source_table": "TreasureTT",
+      "source_id": "TT_SBOX_001",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Small Chest 1",
+      "display_name": "Chest 2 (Small Chest, The Neighborhood: Tram Common, Near Theater)",
+      "location_description": "Chest 2 (Small Chest, The Neighborhood: Tram Common, Near Theater)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_SBOX_002",
+      "source_table": "TreasureTT",
+      "source_id": "TT_SBOX_002",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Small Chest 2",
+      "display_name": "Chest 3 (Small Chest, The Neighborhood: Tram Common, Underground Conduit Entrance)",
+      "location_description": "Chest 3 (Small Chest, The Neighborhood: Tram Common, Underground Conduit Entrance)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_SBOX_003",
+      "source_table": "TreasureTT",
+      "source_id": "TT_SBOX_003",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Small Chest 3",
+      "display_name": "Chest 4 (Small Chest, The Neighborhood: Tram Common, Rooftop)",
+      "location_description": "Chest 4 (Small Chest, The Neighborhood: Tram Common, Rooftop)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_SBOX_004",
+      "source_table": "TreasureTT",
+      "source_id": "TT_SBOX_004",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Small Chest 4",
+      "display_name": "Chest 5 (Small Chest, The Neighborhood: Tram Common, Near Le Grand Bistrot)",
+      "location_description": "Chest 5 (Small Chest, The Neighborhood: Tram Common, Near Le Grand Bistrot)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_SBOX_005",
+      "source_table": "TreasureTT",
+      "source_id": "TT_SBOX_005",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Small Chest 5",
+      "display_name": "Chest 6 (Small Chest, Underground Conduit, Near The Woods Entrance)",
+      "location_description": "Chest 6 (Small Chest, Underground Conduit, Near The Woods Entrance)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_SBOX_006",
+      "source_table": "TreasureTT",
+      "source_id": "TT_SBOX_006",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Small Chest 6",
+      "display_name": "Chest 7 (Small Chest, The Woods, On Northwest Log)",
+      "location_description": "Chest 7 (Small Chest, The Woods, On Northwest Log)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_SBOX_007",
+      "source_table": "TreasureTT",
+      "source_id": "TT_SBOX_007",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Small Chest 7",
+      "display_name": "Chest 8 (Small Chest, The Woods, Inside Southwest Log)",
+      "location_description": "Chest 8 (Small Chest, The Woods, Inside Southwest Log)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_SBOX_008",
+      "source_table": "TreasureTT",
+      "source_id": "TT_SBOX_008",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Small Chest 8",
+      "display_name": "Chest 9 (Small Chest, The Woods, Under Northeast Log)",
+      "location_description": "Chest 9 (Small Chest, The Woods, Under Northeast Log)"
+    },
+    {
+      "bridge_key": "TreasureTT:TT_SBOX_009",
+      "source_table": "TreasureTT",
+      "source_id": "TT_SBOX_009",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Small Chest 9",
+      "display_name": "Chest 10 (Small Chest, The Old Mansion, Right of Mansion Entrance)",
+      "location_description": "Chest 10 (Small Chest, The Old Mansion, Right of Mansion Entrance)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_LBOX_001",
+      "source_table": "TreasureTS",
+      "source_id": "TS_LBOX_001",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Large Chest 1",
+      "display_name": "Chest 1 (Large Chest, Andy's House, Near Save Point)",
+      "location_description": "Chest 1 (Large Chest, Andy's House, Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_LBOX_002",
+      "source_table": "TreasureTS",
+      "source_id": "TS_LBOX_002",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Large Chest 2",
+      "display_name": "Chest 2 (Large Chest, Andy's House, Inside the Red Tool Box)",
+      "location_description": "Chest 2 (Large Chest, Andy's House, Inside the Red Tool Box)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_LBOX_003",
+      "source_table": "TreasureTS",
+      "source_id": "TS_LBOX_003",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Large Chest 3",
+      "display_name": "Chest 5 (Large Chest, Galaxy Toys: Main Floor 1F, Inside Space Capsule)",
+      "location_description": "Chest 5 (Large Chest, Galaxy Toys: Main Floor 1F, Inside Space Capsule)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_LBOX_004",
+      "source_table": "TreasureTS",
+      "source_id": "TS_LBOX_004",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Large Chest 4",
+      "display_name": "Chest 13 (Large Chest, Galaxy Toys: Lower Vents, West of Save Point)",
+      "location_description": "Chest 13 (Large Chest, Galaxy Toys: Lower Vents, West of Save Point)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_LBOX_005",
+      "source_table": "TreasureTS",
+      "source_id": "TS_LBOX_005",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Large Chest 5",
+      "display_name": "Chest 24 (Large Chest, Galaxy Toys: Kid Korral, Tunnel Playground: Intersection)",
+      "location_description": "Chest 24 (Large Chest, Galaxy Toys: Kid Korral, Tunnel Playground: Intersection)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_LBOX_006",
+      "source_table": "TreasureTS",
+      "source_id": "TS_LBOX_006",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Large Chest 6",
+      "display_name": "Chest 29 (Large Chest, Galaxy Toys: Main Floor: 3F, East of Green Rail)",
+      "location_description": "Chest 29 (Large Chest, Galaxy Toys: Main Floor: 3F, East of Green Rail)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_001",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_001",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 1",
+      "display_name": "Chest 3 (Small Chest, Andy's House, On Northeast Shelf)",
+      "location_description": "Chest 3 (Small Chest, Andy's House, On Northeast Shelf)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_002",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_002",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 2",
+      "display_name": "Chest 4 (Small Chest, Andy's House, Under the Bed)",
+      "location_description": "Chest 4 (Small Chest, Andy's House, Under the Bed)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_003",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_003",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 3",
+      "display_name": "Chest 6 (Small Chest, Galaxy Toys: Main Floor: 2F, Above Galaxy Toys Entrance)",
+      "location_description": "Chest 6 (Small Chest, Galaxy Toys: Main Floor: 2F, Above Galaxy Toys Entrance)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_004",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_004",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 4",
+      "display_name": "Chest 7 (Small Chest, Galaxy Toys: Main Floor: 3F, North of Green Rail)",
+      "location_description": "Chest 7 (Small Chest, Galaxy Toys: Main Floor: 3F, North of Green Rail)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_005",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_005",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 5",
+      "display_name": "Chest 8 (Small Chest, Galaxy Toys: Action Figures, Win Rumblin' Time Minigame)",
+      "location_description": "Chest 8 (Small Chest, Galaxy Toys: Action Figures, Win Rumblin' Time Minigame)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_006",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_006",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 6",
+      "display_name": "Chest 9 (Small Chest, Galaxy Toys: Action Figures, Southwest of Dissidia Figures)",
+      "location_description": "Chest 9 (Small Chest, Galaxy Toys: Action Figures, Southwest of Dissidia Figures)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_007",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_007",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 7",
+      "display_name": "Chest 10 (Small Chest, Galaxy Toys: Action Figures, Near Customer Service)",
+      "location_description": "Chest 10 (Small Chest, Galaxy Toys: Action Figures, Near Customer Service)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_008",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_008",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 8",
+      "display_name": "Chest 11 (Small Chest, Galaxy Toys: Lower Vents, Near Lucky Emblem)",
+      "location_description": "Chest 11 (Small Chest, Galaxy Toys: Lower Vents, Near Lucky Emblem)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_009",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_009",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 9",
+      "display_name": "Chest 12 (Small Chest, Galaxy Toys: Lower Vents, Upper Level)",
+      "location_description": "Chest 12 (Small Chest, Galaxy Toys: Lower Vents, Upper Level)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_011",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_011",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 11",
+      "display_name": "Chest 14 (Small Chest, Babies and Toddlers: Dolls, Near Upper Vents Entrance)",
+      "location_description": "Chest 14 (Small Chest, Babies and Toddlers: Dolls, Near Upper Vents Entrance)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_012",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_012",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 12",
+      "display_name": "Chest 15 (Small Chest, Babies and Toddlers: Dolls, On Julia the Dress Queen Shelf)",
+      "location_description": "Chest 15 (Small Chest, Babies and Toddlers: Dolls, On Julia the Dress Queen Shelf)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_013",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_013",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 13",
+      "display_name": "Chest 16 (Small Chest, Babies and Toddlers: Dolls, On Patchwork Animals Shelf)",
+      "location_description": "Chest 16 (Small Chest, Babies and Toddlers: Dolls, On Patchwork Animals Shelf)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_014",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_014",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 14",
+      "display_name": "Chest 17 (Small Chest, Babies and Toddlers: Dolls, Inside My Little House)",
+      "location_description": "Chest 17 (Small Chest, Babies and Toddlers: Dolls, Inside My Little House)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_015",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_015",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 15",
+      "display_name": "Chest 18 (Small Chest, Babies and Toddlers: Outdoors, Near Kid Korral Upper Entrance)",
+      "location_description": "Chest 18 (Small Chest, Babies and Toddlers: Outdoors, Near Kid Korral Upper Entrance)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_016",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_016",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 16",
+      "display_name": "Chest 19 (Small Chest, Babies and Toddlers: Outdoors, Behind Wood Building Blocks)",
+      "location_description": "Chest 19 (Small Chest, Babies and Toddlers: Outdoors, Behind Wood Building Blocks)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_017",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_017",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 17",
+      "display_name": "Chest 20 (Small Chest, Galaxy Toys: Video Games, Inside Checkout Counter)",
+      "location_description": "Chest 20 (Small Chest, Galaxy Toys: Video Games, Inside Checkout Counter)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_018",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_018",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 18",
+      "display_name": "Chest 21 (Small Chest, Galaxy Toys: Kid Korral, Climbing Playground: Blue Level)",
+      "location_description": "Chest 21 (Small Chest, Galaxy Toys: Kid Korral, Climbing Playground: Blue Level)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_019",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_019",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 19",
+      "display_name": "Chest 22 (Small Chest, Galaxy Toys: Kid Korral, Climbing Playground: Yellow Level)",
+      "location_description": "Chest 22 (Small Chest, Galaxy Toys: Kid Korral, Climbing Playground: Yellow Level)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_020",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_020",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 20",
+      "display_name": "Chest 23 (Small Chest, Galaxy Toys: Kid Korral, Behind Dice Blocks East of Ball Pit)",
+      "location_description": "Chest 23 (Small Chest, Galaxy Toys: Kid Korral, Behind Dice Blocks East of Ball Pit)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_022",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_022",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 22",
+      "display_name": "Chest 25 (Small Chest, Galaxy Toys: Kid Korral, Inside Ball Pit Area - North)",
+      "location_description": "Chest 25 (Small Chest, Galaxy Toys: Kid Korral, Inside Ball Pit Area - North)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_023",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_023",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 23",
+      "display_name": "Chest 26 (Small Chest, Galaxy Toys: Rest Area, Top of Drink Factory)",
+      "location_description": "Chest 26 (Small Chest, Galaxy Toys: Rest Area, Top of Drink Factory)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_024",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_024",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 24",
+      "display_name": "Chest 27 (Small Chest, Galaxy Toys: Main Floor 1F, Back of Delivery Service Counter)",
+      "location_description": "Chest 27 (Small Chest, Galaxy Toys: Main Floor 1F, Back of Delivery Service Counter)"
+    },
+    {
+      "bridge_key": "TreasureTS:TS_SBOX_025",
+      "source_table": "TreasureTS",
+      "source_id": "TS_SBOX_025",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Small Chest 25",
+      "display_name": "Chest 28 (Small Chest, Babies and Toddlers: Outdoors, Inside Slide Set)",
+      "location_description": "Chest 28 (Small Chest, Babies and Toddlers: Outdoors, Inside Slide Set)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_LBOX_001",
+      "source_table": "TreasureRA",
+      "source_id": "RA_LBOX_001",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Large Chest 1",
+      "display_name": "Chest 7 (Large Chest, The Forest: Hills, Starting Area Up Against Tree)",
+      "location_description": "Chest 7 (Large Chest, The Forest: Hills, Starting Area Up Against Tree)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_LBOX_002",
+      "source_table": "TreasureRA",
+      "source_id": "RA_LBOX_002",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Large Chest 2",
+      "display_name": "Chest 10 (Large Chest, The Forest: Marsh, West of Save Point Up Against Tree)",
+      "location_description": "Chest 10 (Large Chest, The Forest: Marsh, West of Save Point Up Against Tree)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_LBOX_003",
+      "source_table": "TreasureRA",
+      "source_id": "RA_LBOX_003",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Large Chest 3",
+      "display_name": "Chest 9 (Large Chest, The Forest: Hills, Inside Cave)",
+      "location_description": "Chest 9 (Large Chest, The Forest: Hills, Inside Cave)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_LBOX_004",
+      "source_table": "TreasureRA",
+      "source_id": "RA_LBOX_004",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Large Chest 4",
+      "display_name": "Chest 22 (Large Chest, The Forest: Wildflower Clearing, Northwest of Save Point)",
+      "location_description": "Chest 22 (Large Chest, The Forest: Wildflower Clearing, Northwest of Save Point)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_LBOX_005",
+      "source_table": "TreasureRA",
+      "source_id": "RA_LBOX_005",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Large Chest 5",
+      "display_name": "Chest 24 (Large Chest, The Kingdom: Thoroughfare, Perform on Barrel Near Save Point)",
+      "location_description": "Chest 24 (Large Chest, The Kingdom: Thoroughfare, Perform on Barrel Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_LBOX_006",
+      "source_table": "TreasureRA",
+      "source_id": "RA_LBOX_006",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Large Chest 6",
+      "display_name": "Chest 14 (Large Chest, The Forest: Wetlands, Within Breakable Dive Rock)",
+      "location_description": "Chest 14 (Large Chest, The Forest: Wetlands, Within Breakable Dive Rock)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_001",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_001",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 1",
+      "display_name": "Chest 1 (Small Chest, The Forest: Tower, West of the Tower Near Pond)",
+      "location_description": "Chest 1 (Small Chest, The Forest: Tower, West of the Tower Near Pond)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_002",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_002",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 2",
+      "display_name": "Chest 2 (Small Chest, The Forest: Hills, Upper-Left Platform Before Marsh)",
+      "location_description": "Chest 2 (Small Chest, The Forest: Hills, Upper-Left Platform Before Marsh)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_003",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_003",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 3",
+      "display_name": "Chest 3 (Small Chest, The Forest: Hills, Upper-Right Platform Before Marsh)",
+      "location_description": "Chest 3 (Small Chest, The Forest: Hills, Upper-Right Platform Before Marsh)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_004",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_004",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 4",
+      "display_name": "Chest 4 (Small Chest, The Forest: Hills, A Gift from Rabbits)",
+      "location_description": "Chest 4 (Small Chest, The Forest: Hills, A Gift from Rabbits)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_005",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_005",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 5",
+      "display_name": "Chest 5 (Small Chest, The Forest: Hills, Surrounded by Bushes)",
+      "location_description": "Chest 5 (Small Chest, The Forest: Hills, Surrounded by Bushes)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_006",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_006",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 6",
+      "display_name": "Chest 6 (Small Chest, The Forest: Hills, Near Save Point Behind Log)",
+      "location_description": "Chest 6 (Small Chest, The Forest: Hills, Near Save Point Behind Log)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_007",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_007",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 7",
+      "display_name": "Chest 8 (Small Chest, The Forest: Hills, Across the Pond)",
+      "location_description": "Chest 8 (Small Chest, The Forest: Hills, Across the Pond)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_008",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_008",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 8",
+      "display_name": "Chest 11 (Small Chest, The Forest: Marsh, Platform Southeast of Lucky Emblem)",
+      "location_description": "Chest 11 (Small Chest, The Forest: Marsh, Platform Southeast of Lucky Emblem)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_009",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_009",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 9",
+      "display_name": "Chest 12 (Small Chest, The Forest: Marsh, Within the Southwest River)",
+      "location_description": "Chest 12 (Small Chest, The Forest: Marsh, Within the Southwest River)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_010",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_010",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 10",
+      "display_name": "Chest 13 (Small Chest, The Forest: Wetlands, North Platform After Chaos Carriage)",
+      "location_description": "Chest 13 (Small Chest, The Forest: Wetlands, North Platform After Chaos Carriage)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_011",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_011",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 11",
+      "display_name": "Chest 15 (Small Chest, The Forest: Wetlands, High Platform South of Dive Rock)",
+      "location_description": "Chest 15 (Small Chest, The Forest: Wetlands, High Platform South of Dive Rock)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_012",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_012",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 12",
+      "display_name": "Chest 16 (Small Chest, The Forest: Wetlands, Platform Near Wall Inside Cave)",
+      "location_description": "Chest 16 (Small Chest, The Forest: Wetlands, Platform Near Wall Inside Cave)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_013",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_013",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 13",
+      "display_name": "Chest 17 (Small Chest, The Forest: Wetlands, Southwest Corner Inside Cave)",
+      "location_description": "Chest 17 (Small Chest, The Forest: Wetlands, Southwest Corner Inside Cave)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_014",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_014",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 14",
+      "display_name": "Chest 18 (Small Chest, The Forest: Wetlands, West of Campsite Save Point)",
+      "location_description": "Chest 18 (Small Chest, The Forest: Wetlands, West of Campsite Save Point)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_015",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_015",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 15",
+      "display_name": "Chest 19 (Small Chest, The Forest: Campsite, Platform Before Save Point)",
+      "location_description": "Chest 19 (Small Chest, The Forest: Campsite, Platform Before Save Point)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_016",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_016",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 16",
+      "display_name": "Chest 20 (Small Chest, The Forest: Shore, South of Bridge)",
+      "location_description": "Chest 20 (Small Chest, The Forest: Shore, South of Bridge)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_017",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_017",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 17",
+      "display_name": "Chest 21 (Small Chest, The Forest: Wildflower Clearing, Hill West of Save Point)",
+      "location_description": "Chest 21 (Small Chest, The Forest: Wildflower Clearing, Hill West of Save Point)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_018",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_018",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 18",
+      "display_name": "Chest 23 (Small Chest, The Kingdom: Thoroughfare, Festival Dance Area)",
+      "location_description": "Chest 23 (Small Chest, The Kingdom: Thoroughfare, Festival Dance Area)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_019",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_019",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 19",
+      "display_name": "Chest 25 (Small Chest, The Kingdom: Thoroughfare, Next to Wall Near the Save Point)",
+      "location_description": "Chest 25 (Small Chest, The Kingdom: Thoroughfare, Next to Wall Near the Save Point)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_020",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_020",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 20",
+      "display_name": "Chest 26 (Small Chest, The Kingdom: Wharf, End of East Dock)",
+      "location_description": "Chest 26 (Small Chest, The Kingdom: Wharf, End of East Dock)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_021",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_021",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 21",
+      "display_name": "Chest 27 (Small Chest, The Kingdom: Wharf, Top of the Mini-Tower)",
+      "location_description": "Chest 27 (Small Chest, The Kingdom: Wharf, Top of the Mini-Tower)"
+    },
+    {
+      "bridge_key": "TreasureRA:RA_SBOX_022",
+      "source_table": "TreasureRA",
+      "source_id": "RA_SBOX_022",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Small Chest 22",
+      "display_name": "Chest 28 (Small Chest, The Kingdom: Wharf, Hidden in Boxes and Barrels)",
+      "location_description": "Chest 28 (Small Chest, The Kingdom: Wharf, Hidden in Boxes and Barrels)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_LBOX_001",
+      "source_table": "TreasureMI",
+      "source_id": "MI_LBOX_001",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Large Chest 1",
+      "display_name": "Chest 1 (Large Chest, Monsters, Inc.: Lobby & Offices, Before Save Point)",
+      "location_description": "Chest 1 (Large Chest, Monsters, Inc.: Lobby & Offices, Before Save Point)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_LBOX_002",
+      "source_table": "TreasureMI",
+      "source_id": "MI_LBOX_002",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Large Chest 2",
+      "display_name": "Chest 9 (Large Chest, The Factory: Basement, Near Save Point)",
+      "location_description": "Chest 9 (Large Chest, The Factory: Basement, Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_LBOX_003",
+      "source_table": "TreasureMI",
+      "source_id": "MI_LBOX_003",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Large Chest 3",
+      "display_name": "Chest 19 (Large Chest, The Power Plant: Tank Yard, Within Breakable Dive Box)",
+      "location_description": "Chest 19 (Large Chest, The Power Plant: Tank Yard, Within Breakable Dive Box)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_LBOX_004",
+      "source_table": "TreasureMI",
+      "source_id": "MI_LBOX_004",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Large Chest 4",
+      "display_name": "Chest 10 (Large Chest, The Factory: Ground Floor, Electrical Path from Second Floor)",
+      "location_description": "Chest 10 (Large Chest, The Factory: Ground Floor, Electrical Path from Second Floor)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_001",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_001",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 1",
+      "display_name": "Chest 2 (Small Chest, Monsters, Inc.: Lobby & Offices, Behind Canisters)",
+      "location_description": "Chest 2 (Small Chest, Monsters, Inc.: Lobby & Offices, Behind Canisters)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_002",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_002",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 2",
+      "display_name": "Chest 3 (Small Chest, Monsters, Inc.: Laugh Floor, Behind Counter at Entrance)",
+      "location_description": "Chest 3 (Small Chest, Monsters, Inc.: Laugh Floor, Behind Counter at Entrance)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_003",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_003",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 3",
+      "display_name": "Chest 4 (Small Chest, Monsters, Inc.: Laugh Floor, Back-Left Corner)",
+      "location_description": "Chest 4 (Small Chest, Monsters, Inc.: Laugh Floor, Back-Left Corner)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_005",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_005",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 5",
+      "display_name": "Chest 11 (Small Chest, The Factory: Ground Floor, Behind Boxes Next to Door E6)",
+      "location_description": "Chest 11 (Small Chest, The Factory: Ground Floor, Behind Boxes Next to Door E6)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_006",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_006",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 6",
+      "display_name": "Chest 12 (Small Chest, The Factory: Ground Floor, Canister Platform Near Save Point)",
+      "location_description": "Chest 12 (Small Chest, The Factory: Ground Floor, Canister Platform Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_007",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_007",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 7",
+      "display_name": "Chest 13 (Small Chest, The Factory: Second Floor, Middle of Lasers Path)",
+      "location_description": "Chest 13 (Small Chest, The Factory: Second Floor, Middle of Lasers Path)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_008",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_008",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 8",
+      "display_name": "Chest 14 (Small Chest, The Factory: Second Floor, Northwest Canister Platform)",
+      "location_description": "Chest 14 (Small Chest, The Factory: Second Floor, Northwest Canister Platform)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_009",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_009",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 9",
+      "display_name": "Chest 15 (Small Chest, The Power Plant: Accessway, Near Moogle Shop)",
+      "location_description": "Chest 15 (Small Chest, The Power Plant: Accessway, Near Moogle Shop)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_010",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_010",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 10",
+      "display_name": "Chest 16 (Small Chest, The Power Plant: Accessway, Forced Fight Area)",
+      "location_description": "Chest 16 (Small Chest, The Power Plant: Accessway, Forced Fight Area)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_011",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_011",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 11",
+      "display_name": "Chest 17 (Small Chest, The Power Plant: Accessway, Before Circluar Ramp)",
+      "location_description": "Chest 17 (Small Chest, The Power Plant: Accessway, Before Circluar Ramp)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_012",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_012",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 12",
+      "display_name": "Chest 18 (Small Chest, The Power Plant: Tank Yard, Platform Near Save Point)",
+      "location_description": "Chest 18 (Small Chest, The Power Plant: Tank Yard, Platform Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_013",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_013",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 13",
+      "display_name": "Chest 20 (Small Chest, The Power Plant: Vault Passage, Under Stairs)",
+      "location_description": "Chest 20 (Small Chest, The Power Plant: Vault Passage, Under Stairs)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_014",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_014",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 14",
+      "display_name": "Chest 21 (Small Chest, The Power Plant: Vault Passage, Behind Flames)",
+      "location_description": "Chest 21 (Small Chest, The Power Plant: Vault Passage, Behind Flames)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_015",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_015",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 15",
+      "display_name": "Chest 22 (Small Chest, The Power Plant: Accessway, Rest Area Before Bridge)",
+      "location_description": "Chest 22 (Small Chest, The Power Plant: Accessway, Rest Area Before Bridge)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_016",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_016",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 16",
+      "display_name": "Chest 5 (Small Chest, Monsters, Inc.: Upper Level, Across from Banana Flan)",
+      "location_description": "Chest 5 (Small Chest, Monsters, Inc.: Upper Level, Across from Banana Flan)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_017",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_017",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 17",
+      "display_name": "Chest 6 (Small Chest, Monsters, Inc.: Lower Level, Near Many Doors)",
+      "location_description": "Chest 6 (Small Chest, Monsters, Inc.: Lower Level, Near Many Doors)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_018",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_018",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 18",
+      "display_name": "Chest 7 (Small Chest, The Door Vault: Service Area, Right of Stairs)",
+      "location_description": "Chest 7 (Small Chest, The Door Vault: Service Area, Right of Stairs)"
+    },
+    {
+      "bridge_key": "TreasureMI:MI_SBOX_019",
+      "source_table": "TreasureMI",
+      "source_id": "MI_SBOX_019",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Small Chest 19",
+      "display_name": "Chest 8 (Small Chest, The Door Vault: Service Area, Elevator Post World Visit)",
+      "location_description": "Chest 8 (Small Chest, The Door Vault: Service Area, Elevator Post World Visit)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_LBOX_001",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_LBOX_001",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Large Chest 1",
+      "display_name": "Chest 1 (Large Chest, The North Mountain: Treescape, Near Moogle Shop)",
+      "location_description": "Chest 1 (Large Chest, The North Mountain: Treescape, Near Moogle Shop)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_LBOX_002",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_LBOX_002",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Large Chest 2",
+      "display_name": "Chest 10 (Large Chest, The Labyrinth of Ice: Middle Tier, Secret Passage Behind Ice Wall)",
+      "location_description": "Chest 10 (Large Chest, The Labyrinth of Ice: Middle Tier, Secret Passage Behind Ice Wall)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_LBOX_003",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_LBOX_003",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Large Chest 3",
+      "display_name": "Chest 8 (Large Chest, The North Mountain: Treescape, Within Breakable Dive Icicle)",
+      "location_description": "Chest 8 (Large Chest, The North Mountain: Treescape, Within Breakable Dive Icicle)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_LBOX_004",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_LBOX_004",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Large Chest 4",
+      "display_name": "Chest 7 (Large Chest, The North Mountain: Snowfield, On a Snowy Rock)",
+      "location_description": "Chest 7 (Large Chest, The North Mountain: Snowfield, On a Snowy Rock)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_LBOX_005",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_LBOX_005",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Large Chest 5",
+      "display_name": "Chest 14 (Large Chest, The Labyrinth of Ice: Lower Tier, Hidden Alcove Close to Save Point)",
+      "location_description": "Chest 14 (Large Chest, The Labyrinth of Ice: Lower Tier, Hidden Alcove Close to Save Point)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_LBOX_006",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_LBOX_006",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Large Chest 6",
+      "display_name": "Chest 9 (Large Chest, The North Mountain: Snowfield, Within Breakable Dive Icicle)",
+      "location_description": "Chest 9 (Large Chest, The North Mountain: Snowfield, Within Breakable Dive Icicle)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_001",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_001",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 1",
+      "display_name": "Chest 2 (Small Chest, The North Mountain: Treescape, Snowy Rock Behind Trees)",
+      "location_description": "Chest 2 (Small Chest, The North Mountain: Treescape, Snowy Rock Behind Trees)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_002",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_002",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 2",
+      "display_name": "Chest 3 (Small Chest, The North Mountain: Treescape, Behind Snowy Bushes)",
+      "location_description": "Chest 3 (Small Chest, The North Mountain: Treescape, Behind Snowy Bushes)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_004",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_004",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 4",
+      "display_name": "Chest 4 (Small Chest, The North Mountain: Gorge, High Platform Near Icicles)",
+      "location_description": "Chest 4 (Small Chest, The North Mountain: Gorge, High Platform Near Icicles)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_005",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_005",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 5",
+      "display_name": "Chest 5 (Small Chest, The North Mountain: Gorge, East Alcove with Popcats)",
+      "location_description": "Chest 5 (Small Chest, The North Mountain: Gorge, East Alcove with Popcats)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_007",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_007",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 7",
+      "display_name": "Chest 6 (Small Chest, The North Mountain: Snowfield, East Path After Save Point)",
+      "location_description": "Chest 6 (Small Chest, The North Mountain: Snowfield, East Path After Save Point)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_011",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_011",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 11",
+      "display_name": "Chest 11 (Small Chest, The Labyrinth of Ice: Upper Tier, Left of Exit Portal)",
+      "location_description": "Chest 11 (Small Chest, The Labyrinth of Ice: Upper Tier, Left of Exit Portal)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_012",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_012",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 12",
+      "display_name": "Chest 12 (Small Chest, The Labyrinth of Ice: Middle Tier, High Platform at East Corner)",
+      "location_description": "Chest 12 (Small Chest, The Labyrinth of Ice: Middle Tier, High Platform at East Corner)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_013",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_013",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 13",
+      "display_name": "Chest 13 (Small Chest, The Labyrinth of Ice: Upper Tier, Right of Exit Portal)",
+      "location_description": "Chest 13 (Small Chest, The Labyrinth of Ice: Upper Tier, Right of Exit Portal)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_015",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_015",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 15",
+      "display_name": "Chest 15 (Small Chest, The Labyrinth of Ice: Middle Tier, End of Hidden Rail Gauntlet Route)",
+      "location_description": "Chest 15 (Small Chest, The Labyrinth of Ice: Middle Tier, End of Hidden Rail Gauntlet Route)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_016",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_016",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 16",
+      "display_name": "Chest 16 (Small Chest, The North Mountain: Valley of Ice, Upper-Right Path Near Save Point)",
+      "location_description": "Chest 16 (Small Chest, The North Mountain: Valley of Ice, Upper-Right Path Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_017",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_017",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 17",
+      "display_name": "Chest 17 (Small Chest, The North Mountain: Valley of Ice, Across from the Ice Wall)",
+      "location_description": "Chest 17 (Small Chest, The North Mountain: Valley of Ice, Across from the Ice Wall)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_019",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_019",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 19",
+      "display_name": "Chest 18 (Small Chest, The North Mountain: Valley of Ice, Past the Trees After Helping Olaf)",
+      "location_description": "Chest 18 (Small Chest, The North Mountain: Valley of Ice, Past the Trees After Helping Olaf)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_020",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_020",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 20",
+      "display_name": "Chest 19 (Small Chest, The North Mountain: Valley of Ice, East Upper Platform)",
+      "location_description": "Chest 19 (Small Chest, The North Mountain: Valley of Ice, East Upper Platform)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_022",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_022",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 22",
+      "display_name": "Chest 20 (Small Chest, The North Mountain: Valley of Ice, Very High Southwest Platform)",
+      "location_description": "Chest 20 (Small Chest, The North Mountain: Valley of Ice, Very High Southwest Platform)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_023",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_023",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 23",
+      "display_name": "Chest 21 (Small Chest, The North Mountain: Frozen Wall, South of 1st Superjump)",
+      "location_description": "Chest 21 (Small Chest, The North Mountain: Frozen Wall, South of 1st Superjump)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_024",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_024",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 24",
+      "display_name": "Chest 22 (Small Chest, The North Mountain: Frozen Wall, Hidden Northwest Alcove)",
+      "location_description": "Chest 22 (Small Chest, The North Mountain: Frozen Wall, Hidden Northwest Alcove)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_025",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_025",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 25",
+      "display_name": "Chest 23 (Small Chest, The North Mountain: Frozen Wall, Very High Ledge East of Exit)",
+      "location_description": "Chest 23 (Small Chest, The North Mountain: Frozen Wall, Very High Ledge East of Exit)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_027",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_027",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 27",
+      "display_name": "Chest 24 (Small Chest, The North Mountain: Foothills, High Platform Near Lucky Emblem)",
+      "location_description": "Chest 24 (Small Chest, The North Mountain: Foothills, High Platform Near Lucky Emblem)"
+    },
+    {
+      "bridge_key": "TreasureFZ:FZ_SBOX_029",
+      "source_table": "TreasureFZ",
+      "source_id": "FZ_SBOX_029",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Small Chest 29",
+      "display_name": "Chest 25 (Small Chest, The North Mountain: Foothills, Last Southwest Corner)",
+      "location_description": "Chest 25 (Small Chest, The North Mountain: Foothills, Last Southwest Corner)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_001",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_001",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 1",
+      "display_name": "Chest 51 (Large Chest, Port Royal: Docks, North Side Near Docks)",
+      "location_description": "Chest 51 (Large Chest, Port Royal: Docks, North Side Near Docks)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_002",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_002",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 2",
+      "display_name": "Chest 17 (Large Chest, Isla de los Mastiles, Inside Cave)",
+      "location_description": "Chest 17 (Large Chest, Isla de los Mastiles, Inside Cave)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_003",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_003",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 3",
+      "display_name": "Chest 18 (Large Chest, Ship's End, On a Sunken Ship)",
+      "location_description": "Chest 18 (Large Chest, Ship's End, On a Sunken Ship)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_004",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_004",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 4",
+      "display_name": "Chest 19 (Large Chest, Sandbar Isle, On Left Island Surrounded by Water)",
+      "location_description": "Chest 19 (Large Chest, Sandbar Isle, On Left Island Surrounded by Water)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_005",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_005",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 5",
+      "display_name": "Chest 20 (Large Chest, Huddled Isles, Near Save Point)",
+      "location_description": "Chest 20 (Large Chest, Huddled Isles, Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_006",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_006",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 6",
+      "display_name": "Chest 47 (Large Chest, Port Royal: Fort, In the Prison Cell)",
+      "location_description": "Chest 47 (Large Chest, Port Royal: Fort, In the Prison Cell)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_007",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_007",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 7",
+      "display_name": "Chest 4 (Large Chest, Huddled Isles: Undersea Cavern, 4th Dead End)",
+      "location_description": "Chest 4 (Large Chest, Huddled Isles: Undersea Cavern, 4th Dead End)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_008",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_008",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 8",
+      "display_name": "Chest 10 (Large Chest, Isla Verdemontana, Within Breakable Dive Box)",
+      "location_description": "Chest 10 (Large Chest, Isla Verdemontana, Within Breakable Dive Box)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_009",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_009",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 9",
+      "display_name": "Chest 13 (Large Chest, Confinement Island, Ambush Alcove)",
+      "location_description": "Chest 13 (Large Chest, Confinement Island, Ambush Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_010",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_010",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 10",
+      "display_name": "Chest 15 (Large Chest, Huddled Isles: Undersea Cavern, Lightning Angler's Lair)",
+      "location_description": "Chest 15 (Large Chest, Huddled Isles: Undersea Cavern, Lightning Angler's Lair)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_LBOX_011",
+      "source_table": "TreasureCA",
+      "source_id": "CA_LBOX_011",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Large Chest 11",
+      "display_name": "Chest 6 (Large Chest, Isla de los Mastiles, Within Breakable Dive Box)",
+      "location_description": "Chest 6 (Large Chest, Isla de los Mastiles, Within Breakable Dive Box)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_001",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_001",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 1",
+      "display_name": "Chest 46 (Small Chest, Port Royal: Fort, Northeast Side of Rampart)",
+      "location_description": "Chest 46 (Small Chest, Port Royal: Fort, Northeast Side of Rampart)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_002",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_002",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 2",
+      "display_name": "Chest 48 (Small Chest, Port Royal: Seaport, Behind the Waterfall)",
+      "location_description": "Chest 48 (Small Chest, Port Royal: Seaport, Behind the Waterfall)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_003",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_003",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 3",
+      "display_name": "Chest 49 (Small Chest, Port Royal: Seaport, North Dock Near Water)",
+      "location_description": "Chest 49 (Small Chest, Port Royal: Seaport, North Dock Near Water)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_004",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_004",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 4",
+      "display_name": "Chest 50 (Small Chest, Port Royal: Seaport, Under the Bridge Near Settlement)",
+      "location_description": "Chest 50 (Small Chest, Port Royal: Seaport, Under the Bridge Near Settlement)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_005",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_005",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 5",
+      "display_name": "Chest 52 (Small Chest, Port Royal: Settlement, South Side On Roof)",
+      "location_description": "Chest 52 (Small Chest, Port Royal: Settlement, South Side On Roof)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_006",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_006",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 6",
+      "display_name": "Chest 53 (Small Chest, Port Royal: Docks, Southwest Corner Near Building)",
+      "location_description": "Chest 53 (Small Chest, Port Royal: Docks, Southwest Corner Near Building)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_007",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_007",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 7",
+      "display_name": "Chest 54 (Small Chest, Port Royal: Underwater, In a Broken Ship)",
+      "location_description": "Chest 54 (Small Chest, Port Royal: Underwater, In a Broken Ship)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_008",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_008",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 8",
+      "display_name": "Chest 55 (Small Chest, Port Royal: Settlement, West Side Behind Boxes)",
+      "location_description": "Chest 55 (Small Chest, Port Royal: Settlement, West Side Behind Boxes)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_009",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_009",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 9",
+      "display_name": "Chest 56 (Small Chest, Port Royal: Seaport, Behind the Waterfall)",
+      "location_description": "Chest 56 (Small Chest, Port Royal: Seaport, Behind the Waterfall)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_010",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_010",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 10",
+      "display_name": "Chest 1 (Small Chest, Huddled Isles, Within a Sunken Ship)",
+      "location_description": "Chest 1 (Small Chest, Huddled Isles, Within a Sunken Ship)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_011",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_011",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 11",
+      "display_name": "Chest 2 (Small Chest, Huddled Isles: Undersea Cavern, 2nd Dead End)",
+      "location_description": "Chest 2 (Small Chest, Huddled Isles: Undersea Cavern, 2nd Dead End)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_012",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_012",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 12",
+      "display_name": "Chest 3 (Small Chest, Huddled Isles: Undersea Cavern, 3rd Dead End)",
+      "location_description": "Chest 3 (Small Chest, Huddled Isles: Undersea Cavern, 3rd Dead End)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_013",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_013",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 13",
+      "display_name": "Chest 5 (Small Chest, Isla de los Mastiles: Underwater Alcove)",
+      "location_description": "Chest 5 (Small Chest, Isla de los Mastiles: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_014",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_014",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 14",
+      "display_name": "Chest 7 (Small Chest, Ship's End, Within a Sunken Ship)",
+      "location_description": "Chest 7 (Small Chest, Ship's End, Within a Sunken Ship)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_015",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_015",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 15",
+      "display_name": "Chest 8 (Small Chest, Ship's End, Within a Sunken Ship)",
+      "location_description": "Chest 8 (Small Chest, Ship's End, Within a Sunken Ship)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_016",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_016",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 16",
+      "display_name": "Chest 9 (Small Chest, Isla Verdemontana, Top of 1st Cliff)",
+      "location_description": "Chest 9 (Small Chest, Isla Verdemontana, Top of 1st Cliff)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_017",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_017",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 17",
+      "display_name": "Chest 11 (Small Chest, Sandbar Isle: Underwater Alcove)",
+      "location_description": "Chest 11 (Small Chest, Sandbar Isle: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_018",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_018",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 18",
+      "display_name": "Chest 12 (Small Chest, Exile Island)",
+      "location_description": "Chest 12 (Small Chest, Exile Island)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_019",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_019",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 19",
+      "display_name": "Chest 14 (Small Chest, The Gateway of Regret)",
+      "location_description": "Chest 14 (Small Chest, The Gateway of Regret)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_020",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_020",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 20",
+      "display_name": "Chest 16 (Small Chest, Horseshoe Island)",
+      "location_description": "Chest 16 (Small Chest, Horseshoe Island)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_021",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_021",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 21",
+      "display_name": "Chest 21 (Small Chest, Huddled Isles, Within a Sunken Ship)",
+      "location_description": "Chest 21 (Small Chest, Huddled Isles, Within a Sunken Ship)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_022",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_022",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 22",
+      "display_name": "Chest 22 (Small Chest, Huddled Isles, Within a Sunken Ship)",
+      "location_description": "Chest 22 (Small Chest, Huddled Isles, Within a Sunken Ship)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_023",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_023",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 23",
+      "display_name": "Chest 23 (Small Chest, Isla de los Mastiles: Underwater Alcove)",
+      "location_description": "Chest 23 (Small Chest, Isla de los Mastiles: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_024",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_024",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 24",
+      "display_name": "Chest 24 (Small Chest, Isla de los Mastiles: Underwater Alcove)",
+      "location_description": "Chest 24 (Small Chest, Isla de los Mastiles: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_025",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_025",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 25",
+      "display_name": "Chest 45 (Small Chest, The Leviathan)",
+      "location_description": "Chest 45 (Small Chest, The Leviathan)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_026",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_026",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 26",
+      "display_name": "Chest 25 (Small Chest, Isla Verdemontana, Top of 2nd Cliff)",
+      "location_description": "Chest 25 (Small Chest, Isla Verdemontana, Top of 2nd Cliff)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_027",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_027",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 27",
+      "display_name": "Chest 26 (Small Chest, Sandbar Isle: Underwater, North Side)",
+      "location_description": "Chest 26 (Small Chest, Sandbar Isle: Underwater, North Side)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_028",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_028",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 28",
+      "display_name": "Chest 27 (Small Chest, Sandbar Isle, On Right Island Surrounded by Water)",
+      "location_description": "Chest 27 (Small Chest, Sandbar Isle, On Right Island Surrounded by Water)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_029",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_029",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 29",
+      "display_name": "Chest 28 (Small Chest, Sandbar Isle: Underwater, South Side Near Seaweed)",
+      "location_description": "Chest 28 (Small Chest, Sandbar Isle: Underwater, South Side Near Seaweed)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_030",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_030",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 30",
+      "display_name": "Chest 29 (Small Chest, Sandbar Isle: Underwater, South Side Near Broken Box)",
+      "location_description": "Chest 29 (Small Chest, Sandbar Isle: Underwater, South Side Near Broken Box)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_031",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_031",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 31",
+      "display_name": "Chest 30 (Small Chest, Sandbar Isle: Underwater, South Side On Rock Near Surface)",
+      "location_description": "Chest 30 (Small Chest, Sandbar Isle: Underwater, South Side On Rock Near Surface)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_032",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_032",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 32",
+      "display_name": "Chest 31 (Small Chest, Sandbar Isle: Underwater Alcove, Inside the Lucky Emblem)",
+      "location_description": "Chest 31 (Small Chest, Sandbar Isle: Underwater Alcove, Inside the Lucky Emblem)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_033",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_033",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 33",
+      "display_name": "Chest 32 (Small Chest, Sandbar Isle: Underwater Alcove, Inside the Lucky Emblem)",
+      "location_description": "Chest 32 (Small Chest, Sandbar Isle: Underwater Alcove, Inside the Lucky Emblem)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_034",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_034",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 34",
+      "display_name": "Chest 33 (Small Chest, Sandbar Isle: Underwater Alcove)",
+      "location_description": "Chest 33 (Small Chest, Sandbar Isle: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_035",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_035",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 35",
+      "display_name": "Chest 34 (Small Chest, Sandbar Isle: Underwater Alcove)",
+      "location_description": "Chest 34 (Small Chest, Sandbar Isle: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_036",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_036",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 36",
+      "display_name": "Chest 35 (Small Chest, Sandbar Isle: Underwater Alcove)",
+      "location_description": "Chest 35 (Small Chest, Sandbar Isle: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_037",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_037",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 37",
+      "display_name": "Chest 36 (Small Chest, Sandbar Isle: Underwater Alcove)",
+      "location_description": "Chest 36 (Small Chest, Sandbar Isle: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_038",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_038",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 38",
+      "display_name": "Chest 37 (Small Chest, Sandbar Isle: Underwater Alcove)",
+      "location_description": "Chest 37 (Small Chest, Sandbar Isle: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_039",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_039",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 39",
+      "display_name": "Chest 38 (Small Chest, Sandbar Isle: Underwater Alcove)",
+      "location_description": "Chest 38 (Small Chest, Sandbar Isle: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_040",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_040",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 40",
+      "display_name": "Chest 39 (Small Chest, Sandbar Isle: Underwater Alcove)",
+      "location_description": "Chest 39 (Small Chest, Sandbar Isle: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_041",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_041",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 41",
+      "display_name": "Chest 40 (Small Chest, Sandbar Isle: Underwater Alcove)",
+      "location_description": "Chest 40 (Small Chest, Sandbar Isle: Underwater Alcove)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_042",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_042",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 42",
+      "display_name": "Chest 41 (Small Chest, Horseshoe Island, Behind Rocks)",
+      "location_description": "Chest 41 (Small Chest, Horseshoe Island, Behind Rocks)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_043",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_043",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 43",
+      "display_name": "Chest 42 (Small Chest, Horseshoe Island)",
+      "location_description": "Chest 42 (Small Chest, Horseshoe Island)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_044",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_044",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 44",
+      "display_name": "Chest 43 (Small Chest, Horseshoe Island)",
+      "location_description": "Chest 43 (Small Chest, Horseshoe Island)"
+    },
+    {
+      "bridge_key": "TreasureCA:CA_SBOX_045",
+      "source_table": "TreasureCA",
+      "source_id": "CA_SBOX_045",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Small Chest 45",
+      "display_name": "Chest 44 (Small Chest, Horseshoe Island)",
+      "location_description": "Chest 44 (Small Chest, Horseshoe Island)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_LBOX_001",
+      "source_table": "TreasureBX",
+      "source_id": "BX_LBOX_001",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Large Chest 1",
+      "display_name": "Chest 3 (Large Chest, The City: South District, On Sidewalk North of M Building)",
+      "location_description": "Chest 3 (Large Chest, The City: South District, On Sidewalk North of M Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_LBOX_005",
+      "source_table": "TreasureBX",
+      "source_id": "BX_LBOX_005",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Large Chest 5",
+      "display_name": "Chest 34 (Large Chest, The City: Central District, On the Red Circle Platform)",
+      "location_description": "Chest 34 (Large Chest, The City: Central District, On the Red Circle Platform)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_LBOX_006",
+      "source_table": "TreasureBX",
+      "source_id": "BX_LBOX_006",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Large Chest 6",
+      "display_name": "Chest 35 (Large Chest, The City: South District, On Top of M Building)",
+      "location_description": "Chest 35 (Large Chest, The City: South District, On Top of M Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_LBOX_007",
+      "source_table": "TreasureBX",
+      "source_id": "BX_LBOX_007",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Large Chest 7",
+      "display_name": "Chest 36 (Large Chest, The City: Central District, Within Breakable Dive Object)",
+      "location_description": "Chest 36 (Large Chest, The City: Central District, Within Breakable Dive Object)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_001",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_001",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 1",
+      "display_name": "Chest 1 (Small Chest, The City: Central District, Top of East Building Under Platform)",
+      "location_description": "Chest 1 (Small Chest, The City: Central District, Top of East Building Under Platform)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_002",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_002",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 2",
+      "display_name": "Chest 2 (Small Chest, The City: South District, Southeast Building Roof, South Side)",
+      "location_description": "Chest 2 (Small Chest, The City: South District, Southeast Building Roof, South Side)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_003",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_003",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 3",
+      "display_name": "Chest 4 (Small Chest, The City: South District, Underneath West Ramp to Highway)",
+      "location_description": "Chest 4 (Small Chest, The City: South District, Underneath West Ramp to Highway)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_004",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_004",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 4",
+      "display_name": "Chest 5 (Small Chest, The City: North District, South of Monorail Behind Boxes)",
+      "location_description": "Chest 5 (Small Chest, The City: North District, South of Monorail Behind Boxes)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_005",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_005",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 5",
+      "display_name": "Chest 6 (Small Chest, The City: North District), Northeast Building Lower Platform",
+      "location_description": "Chest 6 (Small Chest, The City: North District), Northeast Building Lower Platform"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_006",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_006",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 6",
+      "display_name": "Chest 7 (Small Chest, The City: South District, On Sidewalk East of M Building)",
+      "location_description": "Chest 7 (Small Chest, The City: South District, On Sidewalk East of M Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_007",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_007",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 7",
+      "display_name": "Chest 8 (Small Chest, The City: Central District, Between the Air Vents)",
+      "location_description": "Chest 8 (Small Chest, The City: Central District, Between the Air Vents)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_008",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_008",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 8",
+      "display_name": "Chest 9 (Small Chest, The City: Central District, Upper Level of Blue Circle Building)",
+      "location_description": "Chest 9 (Small Chest, The City: Central District, Upper Level of Blue Circle Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_009",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_009",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 9",
+      "display_name": "Chest 10 (Small Chest, The City: North District, South of Monorail East Side)",
+      "location_description": "Chest 10 (Small Chest, The City: North District, South of Monorail East Side)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_010",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_010",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 10",
+      "display_name": "Chest 11 (Small Chest, The City: South District, On Top of Triple Billboards Building)",
+      "location_description": "Chest 11 (Small Chest, The City: South District, On Top of Triple Billboards Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_011",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_011",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 11",
+      "display_name": "Chest 12 (Small Chest, The City: South District, On Top of Triple Billboards Building)",
+      "location_description": "Chest 12 (Small Chest, The City: South District, On Top of Triple Billboards Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_012",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_012",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 12",
+      "display_name": "Chest 13 (Small Chest, The City: North District, Underneath Monorail West Side)",
+      "location_description": "Chest 13 (Small Chest, The City: North District, Underneath Monorail West Side)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_013",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_013",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 13",
+      "display_name": "Chest 14 (Small Chest, The City: North District, On Sloped Roof North of Monorail)",
+      "location_description": "Chest 14 (Small Chest, The City: North District, On Sloped Roof North of Monorail)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_014",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_014",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 14",
+      "display_name": "Chest 15 (Small Chest, The City: North District, On Flat Roof North on Monorail)",
+      "location_description": "Chest 15 (Small Chest, The City: North District, On Flat Roof North on Monorail)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_015",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_015",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 15",
+      "display_name": "Chest 16 (Small Chest, The City: Central District, Balcony Underneath West Ramp)",
+      "location_description": "Chest 16 (Small Chest, The City: Central District, Balcony Underneath West Ramp)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_016",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_016",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 16",
+      "display_name": "Chest 17 (Small Chest, The City: Central District, Next to Green Roofs Building)",
+      "location_description": "Chest 17 (Small Chest, The City: Central District, Next to Green Roofs Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_017",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_017",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 17",
+      "display_name": "Chest 18 (Small Chest, The City: South District, On Top of Triple Billboards Building)",
+      "location_description": "Chest 18 (Small Chest, The City: South District, On Top of Triple Billboards Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_018",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_018",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 18",
+      "display_name": "Chest 19 (Small Chest, The City: North District, Northeast Building On Roof)",
+      "location_description": "Chest 19 (Small Chest, The City: North District, Northeast Building On Roof)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_019",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_019",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 19",
+      "display_name": "Chest 20 (Small Chest, The City: South District, Southeast of Save Point)",
+      "location_description": "Chest 20 (Small Chest, The City: South District, Southeast of Save Point)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_020",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_020",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 20",
+      "display_name": "Chest 21 (Small Chest, The City: South District, On Sidewalk at M Building)",
+      "location_description": "Chest 21 (Small Chest, The City: South District, On Sidewalk at M Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_021",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_021",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 21",
+      "display_name": "Chest 22 (Small Chest, The City: North District, Near Save Point in Parking Lot)",
+      "location_description": "Chest 22 (Small Chest, The City: North District, Near Save Point in Parking Lot)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_022",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_022",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 22",
+      "display_name": "Chest 23 (Small Chest, The City: Central District, North of Breakable Dive Object)",
+      "location_description": "Chest 23 (Small Chest, The City: Central District, North of Breakable Dive Object)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_023",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_023",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 23",
+      "display_name": "Chest 24 (Small Chest, The City: Central District, Lower Level of Blue Circle Building)",
+      "location_description": "Chest 24 (Small Chest, The City: Central District, Lower Level of Blue Circle Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_024",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_024",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 24",
+      "display_name": "Chest 25 (Small Chest, The City: Central District, On Railing Underneath Highway)",
+      "location_description": "Chest 25 (Small Chest, The City: Central District, On Railing Underneath Highway)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_025",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_025",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 25",
+      "display_name": "Chest 26 (Small Chest, The City: Central District, Southeast of Red Circle Platform)",
+      "location_description": "Chest 26 (Small Chest, The City: Central District, Southeast of Red Circle Platform)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_026",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_026",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 26",
+      "display_name": "Chest 27 (Small Chest, The City: South District, East of Save Point Above Highway)",
+      "location_description": "Chest 27 (Small Chest, The City: South District, East of Save Point Above Highway)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_027",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_027",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 27",
+      "display_name": "Chest 28 (Small Chest, The City: North District, On Building Railing Above Monorail)",
+      "location_description": "Chest 28 (Small Chest, The City: North District, On Building Railing Above Monorail)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_028",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_028",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 28",
+      "display_name": "Chest 29 (Small Chest, The City: North District, Alleyway Behind Boxes)",
+      "location_description": "Chest 29 (Small Chest, The City: North District, Alleyway Behind Boxes)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_029",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_029",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 29",
+      "display_name": "Chest 30 (Small Chest, The City: Central District, Top of East Building Under Platform)",
+      "location_description": "Chest 30 (Small Chest, The City: Central District, Top of East Building Under Platform)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_030",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_030",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 30",
+      "display_name": "Chest 31 (Small Chest, The City: South District, On Building Southeast of M Building)",
+      "location_description": "Chest 31 (Small Chest, The City: South District, On Building Southeast of M Building)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_031",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_031",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 31",
+      "display_name": "Chest 32 (Small Chest, The City: North District, Alleyway East of Boxes)",
+      "location_description": "Chest 32 (Small Chest, The City: North District, Alleyway East of Boxes)"
+    },
+    {
+      "bridge_key": "TreasureBX:BX_SBOX_032",
+      "source_table": "TreasureBX",
+      "source_id": "BX_SBOX_032",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Small Chest 32",
+      "display_name": "Chest 33 (Small Chest, The City: North District, Top of Building Above Monorail)",
+      "location_description": "Chest 33 (Small Chest, The City: North District, Top of Building Above Monorail)"
+    },
+    {
+      "bridge_key": "TreasureKG:KG_LBOX_001",
+      "source_table": "TreasureKG",
+      "source_id": "KG_LBOX_001",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Large Chest 1",
+      "display_name": "Chest 1 (Large Chest, The Badlands, Before Save Point)",
+      "location_description": "Chest 1 (Large Chest, The Badlands, Before Save Point)"
+    },
+    {
+      "bridge_key": "TreasureKG:KG_LBOX_002",
+      "source_table": "TreasureKG",
+      "source_id": "KG_LBOX_002",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Large Chest 2",
+      "display_name": "Chest 3 (Large Chest, The Skein of Severance: Trail of Valediction, Near Save Point)",
+      "location_description": "Chest 3 (Large Chest, The Skein of Severance: Trail of Valediction, Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureKG:KG_SBOX_001",
+      "source_table": "TreasureKG",
+      "source_id": "KG_SBOX_001",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Small Chest 1",
+      "display_name": "Chest 4 (Small Chest, The Skein of Severance: Trail of Valediction, Path Between 1st Org. XIII Fights)",
+      "location_description": "Chest 4 (Small Chest, The Skein of Severance: Trail of Valediction, Path Between 1st Org. XIII Fights)"
+    },
+    {
+      "bridge_key": "TreasureKG:KG_SBOX_002",
+      "source_table": "TreasureKG",
+      "source_id": "KG_SBOX_002",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Small Chest 2",
+      "display_name": "Chest 5 (Small Chest, The Skein of Severance: Trail of Valediction, Switch Floor Maze)",
+      "location_description": "Chest 5 (Small Chest, The Skein of Severance: Trail of Valediction, Switch Floor Maze)"
+    },
+    {
+      "bridge_key": "TreasureKG:KG_SBOX_003",
+      "source_table": "TreasureKG",
+      "source_id": "KG_SBOX_003",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Small Chest 3",
+      "display_name": "Chest 6 (Small Chest, The Skein of Severance: Twist of Isolation, Path Between 2nd Org. XIII Fights)",
+      "location_description": "Chest 6 (Small Chest, The Skein of Severance: Twist of Isolation, Path Between 2nd Org. XIII Fights)"
+    },
+    {
+      "bridge_key": "TreasureKG:KG_SBOX_004",
+      "source_table": "TreasureKG",
+      "source_id": "KG_SBOX_004",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Small Chest 4",
+      "display_name": "Chest 2 (Small Chest, The Badlands, After Save Point)",
+      "location_description": "Chest 2 (Small Chest, The Badlands, After Save Point)"
+    },
+    {
+      "bridge_key": "TreasureEW:EW_LBOX_001",
+      "source_table": "TreasureEW",
+      "source_id": "EW_LBOX_001",
+      "world": "The Final World",
+      "ap_location_name": "The Final World - Large Chest 1",
+      "display_name": "Chest 1 (Large Chest, The Final World, Between Two Portals)",
+      "location_description": "Chest 1 (Large Chest, The Final World, Between Two Portals)"
+    },
+    {
+      "bridge_key": "TreasureBT:BT_LBOX_001",
+      "source_table": "TreasureBT",
+      "source_id": "BT_LBOX_001",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Large Chest 1",
+      "display_name": "Chest 1 (Large Chest, The Stairway to the Sky, Near Save Point)",
+      "location_description": "Chest 1 (Large Chest, The Stairway to the Sky, Near Save Point)"
+    },
+    {
+      "bridge_key": "TreasureBT:BT_LBOX_002",
+      "source_table": "TreasureBT",
+      "source_id": "BT_LBOX_002",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Large Chest 2",
+      "display_name": "Chest 2 (Large Chest, Breezy Quarter, Near Moogle Shop)",
+      "location_description": "Chest 2 (Large Chest, Breezy Quarter, Near Moogle Shop)"
+    },
+    {
+      "bridge_key": "TreasureBT:BT_SBOX_001",
+      "source_table": "TreasureBT",
+      "source_id": "BT_SBOX_001",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Small Chest 1",
+      "display_name": "Chest 3 (Small Chest, Breezy Quarter, Upper Area North of Save Point)",
+      "location_description": "Chest 3 (Small Chest, Breezy Quarter, Upper Area North of Save Point)"
+    },
+    {
+      "bridge_key": "TreasureBT:BT_SBOX_002",
+      "source_table": "TreasureBT",
+      "source_id": "BT_SBOX_002",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Small Chest 2",
+      "display_name": "Chest 4 (Small Chest, Breezy Quarter, Within the Windmill Tower)",
+      "location_description": "Chest 4 (Small Chest, Breezy Quarter, Within the Windmill Tower)"
+    },
+    {
+      "bridge_key": "TreasureBT:BT_SBOX_003",
+      "source_table": "TreasureBT",
+      "source_id": "BT_SBOX_003",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Small Chest 3",
+      "display_name": "Chest 5 (Small Chest, Breezy Quarter, Near the Windmill Tower)",
+      "location_description": "Chest 5 (Small Chest, Breezy Quarter, Near the Windmill Tower)"
+    },
+    {
+      "bridge_key": "TreasureBT:BT_SBOX_004",
+      "source_table": "TreasureBT",
+      "source_id": "BT_SBOX_004",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Small Chest 4",
+      "display_name": "Chest 6 (Small Chest, Breezy Quarter, Waterway Below Battle Arena)",
+      "location_description": "Chest 6 (Small Chest, Breezy Quarter, Waterway Below Battle Arena)"
+    },
+    {
+      "bridge_key": "TreasureBT:BT_SBOX_005",
+      "source_table": "TreasureBT",
+      "source_id": "BT_SBOX_005",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Small Chest 5",
+      "display_name": "Chest 7 (Small Chest, Breezy Quarter, South of Fountain Near Stairs)",
+      "location_description": "Chest 7 (Small Chest, Breezy Quarter, South of Fountain Near Stairs)"
+    },
+    {
+      "bridge_key": "TreasureBT:BT_SBOX_006",
+      "source_table": "TreasureBT",
+      "source_id": "BT_SBOX_006",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Small Chest 6",
+      "display_name": "Chest 8 (Small Chest, Breezy Quarter, South of Daybreak Town's History)",
+      "location_description": "Chest 8 (Small Chest, Breezy Quarter, South of Daybreak Town's History)"
+    },
+    {
+      "bridge_key": "TreasureBT:BT_SBOX_007",
+      "source_table": "TreasureBT",
+      "source_id": "BT_SBOX_007",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Small Chest 7",
+      "display_name": "Chest 9 (Small Chest, Breezy Quarter, Northmost Corner)",
+      "location_description": "Chest 9 (Small Chest, Breezy Quarter, Northmost Corner)"
+    }
+  ]
+}

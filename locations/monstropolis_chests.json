@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Monstropolis - Chests",
+    "access_rules": [
+      "kb_happy_gear"
+    ],
+    "children": [
+      {
+        "name": "Monstropolis - Large Chest 1",
+        "sections": [
+          {
+            "name": "Monstropolis - Large Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_monsters_inc",
+            "x": 513,
+            "y": 422
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Large Chest 2",
+        "sections": [
+          {
+            "name": "Monstropolis - Large Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_factory",
+            "x": 717,
+            "y": 109
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Large Chest 3",
+        "sections": [
+          {
+            "name": "Monstropolis - Large Chest 3",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_door_vault",
+            "x": 456,
+            "y": 65
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Large Chest 4",
+        "sections": [
+          {
+            "name": "Monstropolis - Large Chest 4",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_factory",
+            "x": 559,
+            "y": 271
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 1",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_monsters_inc",
+            "x": 360,
+            "y": 344
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 2",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_monsters_inc",
+            "x": 586,
+            "y": 319
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 3",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_monsters_inc",
+            "x": 539,
+            "y": 25
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 5",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 5",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_factory",
+            "x": 583,
+            "y": 399
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 6",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 6",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_factory",
+            "x": 526,
+            "y": 141
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 7",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 7",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_factory",
+            "x": 181,
+            "y": 315
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 8",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 8",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_factory",
+            "x": 32,
+            "y": 106
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 9",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 9",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_power_plant",
+            "x": 332,
+            "y": 83
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 10",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 10",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_power_plant",
+            "x": 133,
+            "y": 356
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 11",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 11",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_power_plant",
+            "x": 545,
+            "y": 550
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 12",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 12",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_door_vault",
+            "x": 411,
+            "y": 96
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 13",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 13",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_door_vault",
+            "x": 445,
+            "y": 469
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 14",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 14",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_door_vault",
+            "x": 487,
+            "y": 453
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 15",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 15",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_power_plant",
+            "x": 29,
+            "y": 521
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 16",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 16",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_monsters_inc",
+            "x": 272,
+            "y": 361
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 17",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 17",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_monsters_inc",
+            "x": 109,
+            "y": 215
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 18",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 18",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_door_vault",
+            "x": 189,
+            "y": 53
+          }
+        ]
+      },
+      {
+        "name": "Monstropolis - Small Chest 19",
+        "sections": [
+          {
+            "name": "Monstropolis - Small Chest 19",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run,ability_air_slide,ability_block",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight,ability_air_slide,ability_block"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_monstropolis_door_vault",
+            "x": 124,
+            "y": 295
+          }
+        ]
+      }
+    ]
+  }
+]

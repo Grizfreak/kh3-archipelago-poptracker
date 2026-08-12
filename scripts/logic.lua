@@ -2,6 +2,19 @@
 -- Referenced from access_rules as $function_name
 
 -- ============================================================
+-- Goal display (Proofs vs Heart Pieces)
+-- ============================================================
+
+function update_goal_layout()
+    local goal_obj = Tracker:FindObjectForCode("goal")
+    if goal_obj and goal_obj.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/goal_heart_pieces.json")
+    else
+        Tracker:AddLayouts("layouts/goal_proofs.json")
+    end
+end
+
+-- ============================================================
 -- Portal keyblades / world tiers
 -- ============================================================
 
@@ -22,8 +35,7 @@ TIER_ONE_KEYBLADE_REQUIRED = 3
 
 local function hasCode(code)
     if not code then return false end
-    local obj = Tracker:FindObjectForCode(code)
-    return obj ~= nil and obj.Active == true
+    return Tracker:ProviderCountForCode(code) > 0
 end
 
 local function countCodes(codes)
@@ -173,6 +185,19 @@ function can_reach_level(level)
     return 0
 end
 
+-- Access rule helper: $can_reach_level_gate|N
+-- Required half of the level-up access rule. Leveling is grinding-bound, not hard-gated,
+-- so a level should only be fully out of logic (red) while the previous level is itself
+-- unreachable. Once the previous level is reachable, this level stays enabled and is
+-- marked yellow (via the optional/bracketed can_reach_level|N rule) until its own,
+-- stricter XP-source requirement is actually met.
+function can_reach_level_gate(level)
+    level = tonumber(level) or 0
+    local prev = level - 1
+    if prev < 2 then prev = 2 end
+    return can_reach_level(prev)
+end
+
 -- ============================================================
 -- Lucky Emblems
 -- ============================================================
@@ -286,4 +311,27 @@ function can_reach_emblem_milestone(required)
     required = tonumber(required) or 0
     if count_reachable_lucky_emblems() >= required then return 1 end
     return 0
+end
+
+-- Ordered milestone thresholds as they appear in locations/lucky_emblems.json
+EMBLEM_MILESTONES = {1, 3, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 90}
+
+-- Access rule helper: $can_reach_emblem_milestone_gate|N
+-- Required half of the milestone access rule. Mirrors can_reach_level_gate: a milestone
+-- is only fully out of logic (red) while the previous milestone is itself unreachable.
+-- Once the previous milestone is reachable, this milestone stays enabled and is marked
+-- yellow (via the optional/bracketed can_reach_emblem_milestone|N rule) until we've
+-- actually explored enough of the currently-reachable worlds to hit its own count.
+function can_reach_emblem_milestone_gate(target)
+    target = tonumber(target) or 0
+    local prev = nil
+    for _, m in ipairs(EMBLEM_MILESTONES) do
+        if m < target then
+            prev = m
+        end
+    end
+    if prev == nil then
+        return can_reach_emblem_milestone(target)
+    end
+    return can_reach_emblem_milestone(prev)
 end

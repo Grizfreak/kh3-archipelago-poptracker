@@ -1,0 +1,764 @@
+{
+  "format": "kh3_location_descriptions",
+  "format_version": 1,
+  "location_type": "vbonus",
+  "source_extensions": "D:\\Projects\\ArchipelagoMine\\worlds\\kh3\\randomizer\\Data\\Extensions.cs",
+  "locations": [
+    {
+      "bridge_key": "VBonus:Vbonus_001",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_001",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 001",
+      "display_name": "Olympus - Mount Olympus: Cliff Ascent Heartless",
+      "location_description": "Olympus - Mount Olympus: Cliff Ascent Heartless"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_002",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_002",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 002",
+      "display_name": "Olympus - Thebes: Agora Flame Cores",
+      "location_description": "Olympus - Thebes: Agora Flame Cores"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_004",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_004",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 004",
+      "display_name": "Olympus - Victory Bonus 004",
+      "location_description": null
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_005",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_005",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 005",
+      "display_name": "Olympus - Thebes: Overlook Flame Cores",
+      "location_description": "Olympus - Thebes: Overlook Flame Cores"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_006",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_006",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 006",
+      "display_name": "Olympus - Thebes: Gardens Flame Cores",
+      "location_description": "Olympus - Thebes: Gardens Flame Cores"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_007",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_007",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 007",
+      "display_name": "Olympus - Thebes: Alleyway Heartless",
+      "location_description": "Olympus - Thebes: Alleyway Heartless"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_008",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_008",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 008",
+      "display_name": "Defeat Rock Troll in Olympus - Thebes: Agora",
+      "location_description": "Defeat Rock Troll in Olympus - Thebes: Agora"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_010",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_010",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 010",
+      "display_name": "Defeat Rock Titan in Olympus: Mount Olympus - Summit",
+      "location_description": "Defeat Rock Titan in Olympus: Mount Olympus - Summit"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_011",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_011",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 011",
+      "display_name": "Olympus - Realm of the Gods: Courtyard Satyrs",
+      "location_description": "Olympus - Realm of the Gods: Courtyard Satyrs"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_013",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_013",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 013",
+      "display_name": "Defeat Tornado Titan in Olympus: Realm of the Gods",
+      "location_description": "Defeat Tornado Titan in Olympus: Realm of the Gods"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_082",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_082",
+      "world": "Olympus",
+      "ap_location_name": "Olympus - Victory Bonus 082",
+      "display_name": "Defeat Darkside in The Final World",
+      "location_description": "Defeat Darkside in The Final World"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_014",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_014",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Victory Bonus 014",
+      "display_name": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
+      "location_description": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_015",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_015",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Victory Bonus 015",
+      "display_name": "Twilight Town - The Woods Powerwilds",
+      "location_description": "Twilight Town - The Woods Powerwilds"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_016",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_016",
+      "world": "Twilight Town",
+      "ap_location_name": "Twilight Town - Victory Bonus 016",
+      "display_name": "Twilight Town - The Old Mansion Heartless & Nobodies",
+      "location_description": "Twilight Town - The Old Mansion Heartless & Nobodies"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_017",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_017",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Victory Bonus 017",
+      "display_name": "Toy Box - Andy's House Heartless",
+      "location_description": "Toy Box - Andy's House Heartless"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_018",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_018",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Victory Bonus 018",
+      "display_name": "Toy Box - Galaxy Toys: Main Floor: 1F Gigas",
+      "location_description": "Toy Box - Galaxy Toys: Main Floor: 1F Gigas"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_019",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_019",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Victory Bonus 019",
+      "display_name": "Toy Box - Galaxy Toys: Action Figures Supreme Smashers",
+      "location_description": "Toy Box - Galaxy Toys: Action Figures Supreme Smashers"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_020",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_020",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Victory Bonus 020",
+      "display_name": "Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls",
+      "location_description": "Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_021",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_021",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Victory Bonus 021",
+      "display_name": "After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors",
+      "location_description": "After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_022",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_022",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Victory Bonus 022",
+      "display_name": "Complete Verum Rex: Beat of Lead during the Story",
+      "location_description": "Complete Verum Rex: Beat of Lead during the Story"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_023",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_023",
+      "world": "Toy Box",
+      "ap_location_name": "Toy Box - Victory Bonus 023",
+      "display_name": "Defeat King of Toys in Toy Box: Galaxy Toys",
+      "location_description": "Defeat King of Toys in Toy Box: Galaxy Toys"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_024",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_024",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Victory Bonus 024",
+      "display_name": "Kingdom of Corona - The Forest: Hills Heartless",
+      "location_description": "Kingdom of Corona - The Forest: Hills Heartless"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_025",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_025",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Victory Bonus 025",
+      "display_name": "Kingdom of Corona - The Forest: Hills Chief Puffs & Puffballs",
+      "location_description": "Kingdom of Corona - The Forest: Hills Chief Puffs & Puffballs"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_026",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_026",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Victory Bonus 026",
+      "display_name": "Kingdom of Corona - The Forest: Hills Reapers",
+      "location_description": "Kingdom of Corona - The Forest: Hills Reapers"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_027",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_027",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Victory Bonus 027",
+      "display_name": "Defeat Chaos Carriage in Kingdom of Corona",
+      "location_description": "Defeat Chaos Carriage in Kingdom of Corona"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_028",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_028",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Victory Bonus 028",
+      "display_name": "Kingdom of Corona - The Kingdom: Wharf Nobodies",
+      "location_description": "Kingdom of Corona - The Kingdom: Wharf Nobodies"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_029",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_029",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Victory Bonus 029",
+      "display_name": "Kingdom of Corona - The Forest: Tower Heartless",
+      "location_description": "Kingdom of Corona - The Forest: Tower Heartless"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_030",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_030",
+      "world": "Kingdom of Corona",
+      "ap_location_name": "Kingdom of Corona - Victory Bonus 030",
+      "display_name": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower",
+      "location_description": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_032",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_032",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Victory Bonus 032",
+      "display_name": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed",
+      "location_description": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_033",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_033",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Victory Bonus 033",
+      "display_name": "Monstropolis - Monsters Inc.: Laugh Floor Unversed",
+      "location_description": "Monstropolis - Monsters Inc.: Laugh Floor Unversed"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_034",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_034",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Victory Bonus 034",
+      "display_name": "Monstropolis - The Door Vault: Upper Level Heartless",
+      "location_description": "Monstropolis - The Door Vault: Upper Level Heartless"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_035",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_035",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Victory Bonus 035",
+      "display_name": "Monstropolis - The Factory: Second Floor Heartless & Unversed",
+      "location_description": "Monstropolis - The Factory: Second Floor Heartless & Unversed"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_036",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_036",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Victory Bonus 036",
+      "display_name": "Monstropolis - The Factory: Second Floor Unversed",
+      "location_description": "Monstropolis - The Factory: Second Floor Unversed"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_037",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_037",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Victory Bonus 037",
+      "display_name": "Monstropolis - The Power Plant: Accessway Heartless & Unversed",
+      "location_description": "Monstropolis - The Power Plant: Accessway Heartless & Unversed"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_038",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_038",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Victory Bonus 038",
+      "display_name": "Monstropolis  - The Power Plant: Tank Yard Heartless",
+      "location_description": "Monstropolis  - The Power Plant: Tank Yard Heartless"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_039",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_039",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Victory Bonus 039",
+      "display_name": "Monstropolis - The Power Plant: Tank Yard Unversed",
+      "location_description": "Monstropolis - The Power Plant: Tank Yard Unversed"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_040",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_040",
+      "world": "Monstropolis",
+      "ap_location_name": "Monstropolis - Victory Bonus 040",
+      "display_name": "Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area",
+      "location_description": "Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_041",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_041",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Victory Bonus 041",
+      "display_name": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge",
+      "location_description": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_042",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_042",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Victory Bonus 042",
+      "display_name": "The Labyrinth of Ice: Middle Tier Ninjas I",
+      "location_description": "The Labyrinth of Ice: Middle Tier Ninjas I"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_043",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_043",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Victory Bonus 043",
+      "display_name": "The Labyrinth of Ice: Lower Tier Ninjas II",
+      "location_description": "The Labyrinth of Ice: Lower Tier Ninjas II"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_044",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_044",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Victory Bonus 044",
+      "display_name": "The Labyrinth of Ice: Middle Tier Ninjas III",
+      "location_description": "The Labyrinth of Ice: Middle Tier Ninjas III"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_045",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_045",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Victory Bonus 045",
+      "display_name": "The Labyrinth of Ice: Middle Tier Ninjas IV",
+      "location_description": "The Labyrinth of Ice: Middle Tier Ninjas IV"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_047",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_047",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Victory Bonus 047",
+      "display_name": "Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge",
+      "location_description": "Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_048",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_048",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Victory Bonus 048",
+      "display_name": "Frozen Slider Frost Serpents",
+      "location_description": "Frozen Slider Frost Serpents"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_049",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_049",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Victory Bonus 049",
+      "display_name": "Arendelle - The North Mountain: The Valley of Ice Heartless",
+      "location_description": "Arendelle - The North Mountain: The Valley of Ice Heartless"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_050",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_050",
+      "world": "Arendelle",
+      "ap_location_name": "Arendelle - Victory Bonus 050",
+      "display_name": "Defeat Skoll in Arendelle",
+      "location_description": "Defeat Skoll in Arendelle"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_051",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_051",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Victory Bonus 051",
+      "display_name": "Defeat Metal Troll in San Fransokyo: The Bridge",
+      "location_description": "Defeat Metal Troll in San Fransokyo: The Bridge"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_052",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_052",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Victory Bonus 052",
+      "display_name": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage",
+      "location_description": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_053",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_053",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Victory Bonus 053",
+      "display_name": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)",
+      "location_description": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_054",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_054",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Victory Bonus 054",
+      "display_name": "Defeat Catastrochorus in San Fransokyo - The City (Day)",
+      "location_description": "Defeat Catastrochorus in San Fransokyo - The City (Day)"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_055",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_055",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Victory Bonus 055",
+      "display_name": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)",
+      "location_description": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_056",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_056",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Victory Bonus 056",
+      "display_name": "Defeat Darkubes in San Fransokyo - The City (Night)",
+      "location_description": "Defeat Darkubes in San Fransokyo - The City (Night)"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_057",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_057",
+      "world": "San Fransokyo",
+      "ap_location_name": "San Fransokyo - Victory Bonus 057",
+      "display_name": "Defeat Dark Baymax in San Fransokyo - The City (Day)",
+      "location_description": "Defeat Dark Baymax in San Fransokyo - The City (Day)"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_058",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_058",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Victory Bonus 058",
+      "display_name": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker",
+      "location_description": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_059",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_059",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Victory Bonus 059",
+      "display_name": "1st Ship Battle in The Caribbean - Over the Edge",
+      "location_description": "1st Ship Battle in The Caribbean - Over the Edge"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_060",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_060",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Victory Bonus 060",
+      "display_name": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters",
+      "location_description": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_061",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_061",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Victory Bonus 061",
+      "display_name": "Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern",
+      "location_description": "Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_062",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_062",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Victory Bonus 062",
+      "display_name": "Race Luxord to Port Royal in The Caribbean",
+      "location_description": "Race Luxord to Port Royal in The Caribbean"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_063",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_063",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Victory Bonus 063",
+      "display_name": "2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters",
+      "location_description": "2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_064",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_064",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Victory Bonus 064",
+      "display_name": "3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle",
+      "location_description": "3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_065",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_065",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Victory Bonus 065",
+      "display_name": "Defeat Kraken in The Caribbean - Shipwreck Cove",
+      "location_description": "Defeat Kraken in The Caribbean - Shipwreck Cove"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_066",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_066",
+      "world": "The Caribbean",
+      "ap_location_name": "The Caribbean - Victory Bonus 066",
+      "display_name": "Defeat Davy Jones in The Caribbean - Shipwreck Cove",
+      "location_description": "Defeat Davy Jones in The Caribbean - Shipwreck Cove"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_068",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_068",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 068",
+      "display_name": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)",
+      "location_description": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_069",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_069",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 069",
+      "display_name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a",
+      "location_description": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_070",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_070",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 070",
+      "display_name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
+      "location_description": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_071",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_071",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 071",
+      "display_name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
+      "location_description": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_072",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_072",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 072",
+      "display_name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
+      "location_description": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_073",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_073",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 073",
+      "display_name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
+      "location_description": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_074",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_074",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 074",
+      "display_name": "Defeat Sa\u00efx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
+      "location_description": "Defeat Sa\u00efx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_075",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_075",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 075",
+      "display_name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings",
+      "location_description": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_076",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_076",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 076",
+      "display_name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
+      "location_description": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_083",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_083",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 083",
+      "display_name": "After collecting 222 Soras in The Final World",
+      "location_description": "After collecting 222 Soras in The Final World"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_084",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_084",
+      "world": "Keyblade Graveyard",
+      "ap_location_name": "Keyblade Graveyard - Victory Bonus 084",
+      "display_name": "After collecting 333 Soras in The Final World",
+      "location_description": "After collecting 333 Soras in The Final World"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_001",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_001",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 1",
+      "display_name": "Defeat Dark Inferno \u03c7 in The Keyblade Graveyard (Re:Mind)",
+      "location_description": "Defeat Dark Inferno \u03c7 in The Keyblade Graveyard (Re:Mind)"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_002",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_002",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 2",
+      "display_name": "Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)",
+      "location_description": "Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_003",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_003",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 3",
+      "display_name": "Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)",
+      "location_description": "Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_004",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_004",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 4",
+      "display_name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
+      "location_description": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_005",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_005",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 5",
+      "display_name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
+      "location_description": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_006",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_006",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 6",
+      "display_name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
+      "location_description": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_007",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_007",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 7",
+      "display_name": "After the Sa\u00efx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
+      "location_description": "After the Sa\u00efx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_008",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_008",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 8",
+      "display_name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings",
+      "location_description": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_010",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_010",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 10",
+      "display_name": "Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter",
+      "location_description": "Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter"
+    },
+    {
+      "bridge_key": "VBonus:VBonus_DLC_015",
+      "source_table": "VBonus",
+      "source_id": "VBonus_DLC_015",
+      "world": "Re Mind",
+      "ap_location_name": "Re Mind - Victory Bonus DLC 15",
+      "display_name": "Defeat Armored Xehanort in Re:Mind",
+      "location_description": "Defeat Armored Xehanort in Re:Mind"
+    },
+    {
+      "bridge_key": "VBonus:Vbonus_067",
+      "source_table": "VBonus",
+      "source_id": "Vbonus_067",
+      "world": "Dark World",
+      "ap_location_name": "Dark World - Victory Bonus 067",
+      "display_name": "Defeat Anti-Aqua in The Dark World - The Realm of Darkness",
+      "location_description": "Defeat Anti-Aqua in The Dark World - The Realm of Darkness"
+    }
+  ]
+}

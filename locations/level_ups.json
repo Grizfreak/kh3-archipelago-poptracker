@@ -1,0 +1,799 @@
+[
+  {
+    "name": "Level Ups",
+    "access_rules": [
+      "$has_any|kb_wheel_of_fate|kb_crystal_snow|kb_ever_after|kb_nano_gear|kb_happy_gear|kb_favorite_deputy|kb_shooting_star"
+    ],
+    "children": [
+      {
+        "name": "Levels",
+        "children": [
+          {
+            "name": "Level Ups - Sora Level 2",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 2",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:2"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|2,[$can_reach_level|2]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 3",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 3",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:3"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|3,[$can_reach_level|3]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 4",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 4",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:4"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|4,[$can_reach_level|4]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 5",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 5",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:5"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|5,[$can_reach_level|5]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 6",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 6",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:6"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|6,[$can_reach_level|6]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 7",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 7",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:7"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|7,[$can_reach_level|7]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 8",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 8",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:8"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|8,[$can_reach_level|8]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 9",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 9",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:9"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|9,[$can_reach_level|9]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 10",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 10",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:10"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|10,[$can_reach_level|10]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 11",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 11",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:11"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|11,[$can_reach_level|11]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 12",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 12",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:12"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|12,[$can_reach_level|12]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 13",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 13",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:13"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|13,[$can_reach_level|13]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 14",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 14",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:14"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|14,[$can_reach_level|14]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 15",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 15",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:15"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|15,[$can_reach_level|15]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 16",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 16",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:16"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|16,[$can_reach_level|16]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 17",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 17",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:17"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|17,[$can_reach_level|17]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 18",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 18",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:18"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|18,[$can_reach_level|18]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 19",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 19",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:19"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|19,[$can_reach_level|19]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 20",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 20",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:20"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|20,[$can_reach_level|20]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 21",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 21",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:21"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|21,[$can_reach_level|21]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 22",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 22",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:22"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|22,[$can_reach_level|22]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 23",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 23",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:23"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|23,[$can_reach_level|23]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 24",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 24",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:24"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|24,[$can_reach_level|24]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 25",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 25",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:25"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|25,[$can_reach_level|25]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 26",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 26",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:26"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|26,[$can_reach_level|26]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 27",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 27",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:27"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|27,[$can_reach_level|27]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 28",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 28",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:28"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|28,[$can_reach_level|28]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 29",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 29",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:29"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|29,[$can_reach_level|29]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 30",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 30",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:30"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|30,[$can_reach_level|30]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 31",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 31",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:31"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|31,[$can_reach_level|31]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 32",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 32",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:32"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|32,[$can_reach_level|32]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 33",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 33",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:33"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|33,[$can_reach_level|33]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 34",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 34",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:34"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|34,[$can_reach_level|34]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 35",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 35",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:35"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|35,[$can_reach_level|35]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 36",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 36",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:36"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|36,[$can_reach_level|36]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 37",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 37",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:37"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|37,[$can_reach_level|37]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 38",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 38",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:38"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|38,[$can_reach_level|38]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 39",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 39",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:39"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|39,[$can_reach_level|39]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 40",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 40",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:40"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|40,[$can_reach_level|40]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 41",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 41",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:41"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|41,[$can_reach_level|41]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 42",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 42",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:42"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|42,[$can_reach_level|42]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 43",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 43",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:43"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|43,[$can_reach_level|43]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 44",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 44",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:44"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|44,[$can_reach_level|44]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 45",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 45",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:45"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|45,[$can_reach_level|45]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 46",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 46",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:46"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|46,[$can_reach_level|46]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 47",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 47",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:47"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|47,[$can_reach_level|47]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 48",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 48",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:48"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|48,[$can_reach_level|48]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 49",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 49",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:49"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|49,[$can_reach_level|49]"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Level Ups - Sora Level 50",
+            "sections": [
+              {
+                "name": "Level Ups - Sora Level 50",
+                "item_count": 1,
+                "visibility_rules": [
+                  "lu_limit:50"
+                ],
+                "access_rules": [
+                  "$can_reach_level_gate|50,[$can_reach_level|50]"
+                ]
+              }
+            ],
+            "map_locations": []
+          }
+        ]
+      }
+    ]
+  }
+]

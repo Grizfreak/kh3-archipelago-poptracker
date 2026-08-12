@@ -1,0 +1,12 @@
+{
+  "goal_content": {
+    "type": "itemgrid",
+    "item_margin": "3,3",
+    "item_size": "48,48",
+    "rows": [
+      [
+        "heart_piece"
+      ]
+    ]
+  }
+}
