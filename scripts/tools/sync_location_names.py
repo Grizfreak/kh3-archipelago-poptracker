@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-Single entry point to keep location names in sync across all three files that
-reference them:
+Single entry point to keep location names in sync across all three groups of
+files that reference them:
   - scripts/autotracking/location_mapping.lua   (AP_ID -> code, fully regenerated)
-  - locations/locations.json                    (the standalone location+section,
-                                                    and its mirrored section under
-                                                    "<World> - All Checks")
+  - locations/*.json                            (one file per world; the standalone
+                                                    location+section, and its mirrored
+                                                    section under "<World> - All Checks")
   - scripts/autotracking/autotracking.lua        (OVERWORLD_SECTION_MAP mirror entry)
 
 Each AP id resolves to a (location_name, section_name) pair, i.e. the two
@@ -28,7 +28,7 @@ IDs always come from BASE_LOCATION_ID + index in the source "locations" array
 (see regenerate_location_mapping.py for how this was verified), independent of
 which name is chosen.
 
-locations.json and autotracking.lua are updated with the same string-replace
+locations/*.json and autotracking.lua are updated with the same string-replace
 approach as rename_location.py: only name strings are swapped (once per
 distinct old->new pair, so a group rename doesn't get replaced redundantly
 once per member id), so access_rules/map_locations/item_count etc. attached
@@ -47,7 +47,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 LOCATION_MAPPING_LUA = ROOT / "scripts" / "autotracking" / "location_mapping.lua"
-LOCATIONS_JSON = ROOT / "locations" / "locations.json"
+LOCATIONS_DIR = ROOT / "locations"
 AUTOTRACKING_LUA = ROOT / "scripts" / "autotracking" / "autotracking.lua"
 NAMES_REGISTRY = ROOT / "scripts" / "tools" / "location_names.json"
 
@@ -208,7 +208,7 @@ def main():
     print(f"\nWrote {LOCATION_MAPPING_LUA.relative_to(ROOT)} ({len(new_records)} locations).")
 
     if not changed:
-        print("No name changes to propagate to locations.json / autotracking.lua.")
+        print("No name changes to propagate to locations/*.json / autotracking.lua.")
         return
 
     # Collect distinct old->new string substitutions, separately for the
@@ -230,23 +230,29 @@ def main():
             else:
                 sec_subs[old_sec] = new_sec
 
-    locations_text = LOCATIONS_JSON.read_text(encoding="utf-8")
+    location_files = sorted(LOCATIONS_DIR.glob("*.json"))
+    file_texts = {p: p.read_text(encoding="utf-8") for p in location_files}
     auto_text = AUTOTRACKING_LUA.read_text(encoding="utf-8")
     total_json = 0
     total_auto = 0
     for old_name, new_name in {**loc_subs, **sec_subs}.items():
-        locations_text, n1 = replace_quoted_all(locations_text, old_name, new_name)
+        n1 = 0
+        for p, text in file_texts.items():
+            new_text, count = replace_quoted_all(text, old_name, new_name)
+            file_texts[p] = new_text
+            n1 += count
         auto_text, n2 = replace_overworld_map(auto_text, old_name, new_name)
         total_json += n1
         total_auto += n2
         if n1 == 0 and n2 == 0:
             print(f"  note: {old_name!r} -> {new_name!r} found no occurrences in "
-                  f"locations.json/autotracking.lua (likely a brand-new location; "
+                  f"locations/*.json/autotracking.lua (likely a brand-new location; "
                   f"add it there by hand).")
 
-    LOCATIONS_JSON.write_text(locations_text, encoding="utf-8")
+    for p, text in file_texts.items():
+        p.write_text(text, encoding="utf-8")
     AUTOTRACKING_LUA.write_text(auto_text, encoding="utf-8")
-    print(f"Updated {LOCATIONS_JSON.relative_to(ROOT)} ({total_json} occurrence(s)).")
+    print(f"Updated {LOCATIONS_DIR.relative_to(ROOT)}/*.json ({total_json} occurrence(s)).")
     print(f"Updated {AUTOTRACKING_LUA.relative_to(ROOT)} ({total_auto} occurrence(s)).")
     print("\nSanity check: grep for any old names left behind, especially for short/common ones.")
 

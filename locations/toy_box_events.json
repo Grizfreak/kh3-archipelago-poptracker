@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Toy Box - Events",
+    "access_rules": [
+      "kb_favorite_deputy"
+    ],
+    "children": [
+      {
+        "name": "Toy Box - EVENT_KEYBLADE_003 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Toy Box - EVENT_KEYBLADE_003 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Toy Box - Andy's House Heartless",
+        "sections": [
+          {
+            "name": "Toy Box - Andy's House Heartless",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Toy Box - Galaxy Toys: Main Floor: 1F Gigas",
+        "sections": [
+          {
+            "name": "Toy Box - Galaxy Toys: Main Floor: 1F Gigas",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Toy Box - Galaxy Toys: Action Figures Supreme Smashers",
+        "sections": [
+          {
+            "name": "Toy Box - Galaxy Toys: Action Figures Supreme Smashers",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls",
+        "sections": [
+          {
+            "name": "Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors",
+        "sections": [
+          {
+            "name": "After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Complete Verum Rex: Beat of Lead during the Story",
+        "sections": [
+          {
+            "name": "Complete Verum Rex: Beat of Lead during the Story",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat King of Toys in Toy Box: Galaxy Toys",
+        "sections": [
+          {
+            "name": "Defeat King of Toys in Toy Box: Galaxy Toys",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      }
+    ]
+  }
+]

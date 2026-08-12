@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Kingdom of Corona - Chests",
+    "access_rules": [
+      "kb_ever_after"
+    ],
+    "children": [
+      {
+        "name": "Kingdom of Corona - Large Chest 1",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Large Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_hills_a",
+            "x": 230,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Large Chest 2",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Large Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_marsh",
+            "x": 491,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Large Chest 3",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Large Chest 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_hills_a",
+            "x": 387,
+            "y": 313
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Large Chest 4",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Large Chest 4",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 357,
+            "y": 19
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Large Chest 5",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Large Chest 5",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_kingdom",
+            "x": 573,
+            "y": 296
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Large Chest 6",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Large Chest 6",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 146,
+            "y": 261
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 1",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_hills_a",
+            "x": 479,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 2",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 2",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump",
+              "ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_hills_bc",
+            "x": 158,
+            "y": 199
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 3",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_hills_bc",
+            "x": 206,
+            "y": 350
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 4",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 4",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_hills_bc",
+            "x": 396,
+            "y": 226
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 5",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 5",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_hills_bc",
+            "x": 561,
+            "y": 324
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 6",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 6",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_hills_bc",
+            "x": 544,
+            "y": 481
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 7",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 7",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_hills_a",
+            "x": 61,
+            "y": 271
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 8",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 8",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_marsh",
+            "x": 296,
+            "y": 213
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 9",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 9",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_marsh",
+            "x": 470,
+            "y": 260
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 10",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 10",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run,ability_doubleflight",
+              "ability_superjump,ability_wall_kick,ability_air_slide,unlock_wall_run",
+              "ability_superjump,aero,unlock_wall_run,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 147,
+            "y": 151
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 11",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 11",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 136,
+            "y": 306
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 12",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 12",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 30,
+            "y": 382
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 13",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 13",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 27,
+            "y": 455
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 14",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 14",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 182,
+            "y": 475
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 15",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 15",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_marsh",
+            "x": 56,
+            "y": 190
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 16",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 16",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 681,
+            "y": 284
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 17",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 17",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 352,
+            "y": 105
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 18",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 18",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_kingdom",
+            "x": 613,
+            "y": 59
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 19",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 19",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_kingdom",
+            "x": 511,
+            "y": 369
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 20",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 20",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_kingdom",
+            "x": 387,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 21",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 21",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_kingdom",
+            "x": 316,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "Kingdom of Corona - Small Chest 22",
+        "sections": [
+          {
+            "name": "Kingdom of Corona - Small Chest 22",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_corona_kingdom",
+            "x": 19,
+            "y": 364
+          }
+        ]
+      }
+    ]
+  }
+]

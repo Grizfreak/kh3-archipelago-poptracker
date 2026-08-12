@@ -1,0 +1,267 @@
+[
+  {
+    "name": "Lucky Emblems",
+    "access_rules": [
+      "active_lucky_emblems"
+    ],
+    "children": [
+      {
+        "name": "Milestones",
+        "children": [
+          {
+            "name": "Lucky Emblems - Milestone 1",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 1",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|1"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 3",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 3",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|3"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 5",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 5",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|5"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 10",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 10",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|10"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 15",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 15",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|15"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 20",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 20",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|20"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 25",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 25",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|25"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 30",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 30",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|30"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 35",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 35",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|35"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 40",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 40",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|40"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 45",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 45",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|45"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 50",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 50",
+                "item_count": 1,
+                "access_rules": [
+                  "$can_reach_emblem_milestone|50"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 55",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 55",
+                "item_count": 1,
+                "visibility_rules": [
+                  "le_milestone_55"
+                ],
+                "access_rules": [
+                  "$can_reach_emblem_milestone|55"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 60",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 60",
+                "item_count": 1,
+                "visibility_rules": [
+                  "le_milestone_60"
+                ],
+                "access_rules": [
+                  "$can_reach_emblem_milestone|60"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 65",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 65",
+                "item_count": 1,
+                "visibility_rules": [
+                  "le_milestone_65"
+                ],
+                "access_rules": [
+                  "$can_reach_emblem_milestone|65"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 70",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 70",
+                "item_count": 1,
+                "visibility_rules": [
+                  "le_milestone_70"
+                ],
+                "access_rules": [
+                  "$can_reach_emblem_milestone|70"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 80",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 80",
+                "item_count": 1,
+                "visibility_rules": [
+                  "le_milestone_80"
+                ],
+                "access_rules": [
+                  "$can_reach_emblem_milestone|80"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Lucky Emblems - Milestone 90",
+            "sections": [
+              {
+                "name": "Lucky Emblems - Milestone 90",
+                "item_count": 1,
+                "visibility_rules": [
+                  "le_milestone_90"
+                ],
+                "access_rules": [
+                  "$can_reach_emblem_milestone|90"
+                ]
+              }
+            ],
+            "map_locations": []
+          }
+        ]
+      }
+    ]
+  }
+]

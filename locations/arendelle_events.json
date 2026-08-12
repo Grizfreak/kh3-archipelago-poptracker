@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Arendelle - Events",
+    "access_rules": [
+      "kb_crystal_snow"
+    ],
+    "children": [
+      {
+        "name": "Arendelle - EVENT_KEYBLADE_007 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Arendelle - EVENT_KEYBLADE_007 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,ability_air_slide,unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge",
+        "sections": [
+          {
+            "name": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "The Labyrinth of Ice: Middle Tier Ninjas I",
+        "sections": [
+          {
+            "name": "The Labyrinth of Ice: Middle Tier Ninjas I",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "The Labyrinth of Ice: Lower Tier Ninjas II",
+        "sections": [
+          {
+            "name": "The Labyrinth of Ice: Lower Tier Ninjas II",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,ability_air_slide,unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "The Labyrinth of Ice: Middle Tier Ninjas III",
+        "sections": [
+          {
+            "name": "The Labyrinth of Ice: Middle Tier Ninjas III",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,ability_air_slide,unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "The Labyrinth of Ice: Middle Tier Ninjas IV",
+        "sections": [
+          {
+            "name": "The Labyrinth of Ice: Middle Tier Ninjas IV",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,ability_air_slide,unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge",
+        "sections": [
+          {
+            "name": "Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,ability_air_slide,unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Frozen Slider Frost Serpents",
+        "sections": [
+          {
+            "name": "Frozen Slider Frost Serpents",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,ability_air_slide,unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Arendelle - The North Mountain: The Valley of Ice Heartless",
+        "sections": [
+          {
+            "name": "Arendelle - The North Mountain: The Valley of Ice Heartless",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,ability_air_slide,unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Skoll in Arendelle",
+        "sections": [
+          {
+            "name": "Defeat Skoll in Arendelle",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,ability_air_slide,unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      }
+    ]
+  }
+]

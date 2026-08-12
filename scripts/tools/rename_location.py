@@ -5,8 +5,9 @@ Rename a tracked location by its Archipelago location ID.
 The AP location ID is the only stable identifier; the PopTracker "code" for a
 section is always derived as "@<location name>/<section name>", so renaming a
 check means updating the same string in up to three places:
-  - locations/locations.json      (the standalone location+section, and its
-                                    mirrored section under "<World> - All Checks")
+  - locations/*.json              (one file per world; the standalone
+                                    location+section, and its mirrored section
+                                    under "<World> - All Checks")
   - scripts/autotracking/location_mapping.lua   (AP_ID -> code)
   - scripts/autotracking/autotracking.lua       (OVERWORLD_SECTION_MAP mirror entry)
 
@@ -23,7 +24,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-LOCATIONS_JSON = ROOT / "locations" / "locations.json"
+LOCATIONS_DIR = ROOT / "locations"
 LOCATION_MAPPING_LUA = ROOT / "scripts" / "autotracking" / "location_mapping.lua"
 AUTOTRACKING_LUA = ROOT / "scripts" / "autotracking" / "autotracking.lua"
 
@@ -110,8 +111,14 @@ def main():
 
     total = 0
 
-    json_text = LOCATIONS_JSON.read_text(encoding="utf-8")
-    json_new, json_count = replace_quoted(json_text, old_name, new_name)
+    for path in sorted(LOCATIONS_DIR.glob("*.json")):
+        json_text = path.read_text(encoding="utf-8")
+        json_new, json_count = replace_quoted(json_text, old_name, new_name)
+        total += json_count
+        rel = path.relative_to(ROOT)
+        print(f"  {rel}: {json_count} occurrence(s)")
+        if json_count and not args.dry_run:
+            path.write_text(json_new, encoding="utf-8")
 
     mapping_text = LOCATION_MAPPING_LUA.read_text(encoding="utf-8")
     mapping_new, mapping_count = replace_mapping_lua(mapping_text, args.id, old_name, new_name)
@@ -120,7 +127,6 @@ def main():
     auto_new, auto_count = replace_overworld_map(auto_text, old_name, new_name)
 
     for path, new_text, count in (
-        (LOCATIONS_JSON, json_new, json_count),
         (LOCATION_MAPPING_LUA, mapping_new, mapping_count),
         (AUTOTRACKING_LUA, auto_new, auto_count),
     ):

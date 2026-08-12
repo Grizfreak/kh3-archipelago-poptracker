@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Olympus - Events",
+    "access_rules": [
+      "kb_heros_origin"
+    ],
+    "children": [
+      {
+        "name": "Forge Knight's Shield+ for Goofy",
+        "sections": [
+          {
+            "name": "Forge Knight's Shield+ for Goofy",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Find Golden Herc Figure in Thebes: Alleyway, In Building",
+        "sections": [
+          {
+            "name": "Find Golden Herc Figure in Thebes: Alleyway, In Building",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
+        "sections": [
+          {
+            "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Find Golden Herc Figure in Thebes: Garden, In Building",
+        "sections": [
+          {
+            "name": "Find Golden Herc Figure in Thebes: Garden, In Building",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield",
+        "sections": [
+          {
+            "name": "Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Find Golden Herc Figure in Thebes: Agora, Near Save Point",
+        "sections": [
+          {
+            "name": "Find Golden Herc Figure in Thebes: Agora, Near Save Point",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Return All Golden Herc Figures",
+        "sections": [
+          {
+            "name": "Return All Golden Herc Figures",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Olympus - EVENT_KEYBLADE_001 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Olympus - EVENT_KEYBLADE_001 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Olympus - Mount Olympus: Cliff Ascent Heartless",
+        "sections": [
+          {
+            "name": "Olympus - Mount Olympus: Cliff Ascent Heartless",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Olympus - Thebes: Agora Flame Cores",
+        "sections": [
+          {
+            "name": "Olympus - Thebes: Agora Flame Cores",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Olympus - Victory Bonus 004",
+        "sections": [
+          {
+            "name": "Olympus - Victory Bonus 004",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Olympus - Thebes: Overlook Flame Cores",
+        "sections": [
+          {
+            "name": "Olympus - Thebes: Overlook Flame Cores",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Olympus - Thebes: Gardens Flame Cores",
+        "sections": [
+          {
+            "name": "Olympus - Thebes: Gardens Flame Cores",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Olympus - Thebes: Alleyway Heartless",
+        "sections": [
+          {
+            "name": "Olympus - Thebes: Alleyway Heartless",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Rock Troll in Olympus - Thebes: Agora",
+        "sections": [
+          {
+            "name": "Defeat Rock Troll in Olympus - Thebes: Agora",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Rock Titan in Olympus: Mount Olympus - Summit",
+        "sections": [
+          {
+            "name": "Defeat Rock Titan in Olympus: Mount Olympus - Summit",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Olympus - Realm of the Gods: Courtyard Satyrs",
+        "sections": [
+          {
+            "name": "Olympus - Realm of the Gods: Courtyard Satyrs",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Tornado Titan in Olympus: Realm of the Gods",
+        "sections": [
+          {
+            "name": "Defeat Tornado Titan in Olympus: Realm of the Gods",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Olympus - Defeat Darkside (Final World)",
+        "sections": [
+          {
+            "name": "Olympus - Defeat Darkside (Final World)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      }
+    ]
+  }
+]

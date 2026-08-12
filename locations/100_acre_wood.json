@@ -1,0 +1,23 @@
+[
+  {
+    "name": "100 Acre Wood",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "Events",
+        "children": [
+          {
+            "name": "100 Acre Wood - EVENT_KEYBLADE_006 - RandomizedItem",
+            "sections": [
+              {
+                "name": "100 Acre Wood - EVENT_KEYBLADE_006 - RandomizedItem",
+                "item_count": 1
+              }
+            ],
+            "map_locations": []
+          }
+        ]
+      }
+    ]
+  }
+]

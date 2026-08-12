@@ -11,7 +11,7 @@ ScriptHost:LoadScript("scripts/logic.lua")
 Tracker:AddMaps("maps/maps.json")
 
 -- Locations
-Tracker:AddLocations("locations/locations.json")
+ScriptHost:LoadScript("scripts/locations.lua")
 
 -- Layouts
 Tracker:AddLayouts("layouts/tracker.json")

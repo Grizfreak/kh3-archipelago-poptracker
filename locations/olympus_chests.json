@@ -1,0 +1,653 @@
+[
+  {
+    "name": "Olympus - Chests",
+    "access_rules": [
+      "kb_heros_origin"
+    ],
+    "children": [
+      {
+        "name": "Olympus - Large Chest 1",
+        "sections": [
+          {
+            "name": "Olympus - Large Chest 1",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 438,
+            "y": 377
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Large Chest 2",
+        "sections": [
+          {
+            "name": "Olympus - Large Chest 2",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 513,
+            "y": 643
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Large Chest 3",
+        "sections": [
+          {
+            "name": "Olympus - Large Chest 3",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 647,
+            "y": 53
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Large Chest 4",
+        "sections": [
+          {
+            "name": "Olympus - Large Chest 4",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 639,
+            "y": 596
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 1",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 1",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 627,
+            "y": 338
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 2",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 2",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 606,
+            "y": 439
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 3",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 3",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 430,
+            "y": 470
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 4",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 4",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 454,
+            "y": 314
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 6",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 6",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 49,
+            "y": 549
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 8",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 8",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 691,
+            "y": 143
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 9",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 9",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 682,
+            "y": 631
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 10",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 10",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 664,
+            "y": 667
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 11",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 11",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 316,
+            "y": 139
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 12",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 12",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 328,
+            "y": 196
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 13",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 13",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 295,
+            "y": 148
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 14",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 14",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 514,
+            "y": 374
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 15",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 15",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 426,
+            "y": 472
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 16",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 16",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 202,
+            "y": 539
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 17",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 17",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p2",
+            "x": 585,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 20",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 20",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p2",
+            "x": 154,
+            "y": 287
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 21",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 21",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p2",
+            "x": 512,
+            "y": 158
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 22",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 22",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 117,
+            "y": 125
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 23",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 23",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 142,
+            "y": 171
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 24",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 24",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 123,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 25",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 25",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 281,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 26",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 26",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 260,
+            "y": 322
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 27",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 27",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 274,
+            "y": 499
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 28",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 28",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 518,
+            "y": 544
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 29",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 29",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 385,
+            "y": 542
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 30",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 30",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 295,
+            "y": 591
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 31",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 31",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 424,
+            "y": 486
+          }
+        ]
+      },
+      {
+        "name": "Olympus - Small Chest 33",
+        "sections": [
+          {
+            "name": "Olympus - Small Chest 33",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
+              "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 599,
+            "y": 497
+          }
+        ]
+      }
+    ]
+  }
+]

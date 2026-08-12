@@ -29,9 +29,10 @@ the source array, never the description, so this doesn't affect IDs.
 
 NOTE: this only regenerates location_mapping.lua. Any location whose
 display name changes (or is newly added) also needs a matching entry in
-locations/locations.json and, for overworld locations, autotracking.lua's
-OVERWORLD_SECTION_MAP -- otherwise its "code" is a dangling pointer that
-autotracking silently fails to resolve (see rename_location.py).
+the relevant locations/*.json file and, for overworld locations,
+autotracking.lua's OVERWORLD_SECTION_MAP -- otherwise its "code" is a
+dangling pointer that autotracking silently fails to resolve (see
+rename_location.py).
 
 Usage:
     python scripts/tools/regenerate_location_mapping.py --data extracted_locations.json
@@ -135,7 +136,7 @@ def main():
     LOCATION_MAPPING_LUA.write_text(new_text, encoding="utf-8")
     print(f"\nWrote {LOCATION_MAPPING_LUA.relative_to(ROOT)} ({len(new_records)} locations).")
     if added or removed or renamed:
-        print("Remember: locations/locations.json and autotracking.lua's OVERWORLD_SECTION_MAP")
+        print("Remember: locations/*.json and autotracking.lua's OVERWORLD_SECTION_MAP")
         print("also need to be updated for any added/removed/renamed locations.")
 
 

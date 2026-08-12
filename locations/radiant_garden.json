@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Radiant Garden",
+    "access_rules": [
+      "active_radiant_garden,kb_oathkeeper,$has_tier_one_keyblades"
+    ],
+    "children": [
+      {
+        "name": "Data Battles",
+        "children": [
+          {
+            "name": "Data Battles - EVENT_DATAB_001 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_001 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 306,
+                "y": 13
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_002 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_002 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 221,
+                "y": 81
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_003 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_003 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 382,
+                "y": 81
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_004 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_004 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 113,
+                "y": 173
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_005 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_005 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 474,
+                "y": 173
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_006 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_006 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 89,
+                "y": 256
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_007 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_007 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,fire,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 525,
+                "y": 256
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_008 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_008 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,blizzard,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 87,
+                "y": 332
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_009 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_009 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 536,
+                "y": 332
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_010 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_010 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 108,
+                "y": 405
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_011 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_011 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 514,
+                "y": 405
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_012 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_012 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 152,
+                "y": 463
+              }
+            ]
+          },
+          {
+            "name": "Data Battles - EVENT_DATAB_013 - RandomizedItem",
+            "sections": [
+              {
+                "name": "Data Battles - EVENT_DATAB_013 - RandomizedItem",
+                "item_count": 1,
+                "access_rules": [
+                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                ]
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_data_battles",
+                "x": 433,
+                "y": 463
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
