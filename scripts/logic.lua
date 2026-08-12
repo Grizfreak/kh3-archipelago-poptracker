@@ -22,8 +22,7 @@ TIER_ONE_KEYBLADE_REQUIRED = 3
 
 local function hasCode(code)
     if not code then return false end
-    local obj = Tracker:FindObjectForCode(code)
-    return obj ~= nil and obj.Active == true
+    return Tracker:ProviderCountForCode(code) > 0
 end
 
 local function countCodes(codes)

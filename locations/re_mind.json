@@ -15,7 +15,7 @@
                 "name": "Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -28,7 +28,7 @@
                 "name": "Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -41,7 +41,7 @@
                 "name": "Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -54,7 +54,7 @@
                 "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -67,7 +67,7 @@
                 "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -80,7 +80,7 @@
                 "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -93,7 +93,7 @@
                 "name": "After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -106,7 +106,7 @@
                 "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -119,7 +119,7 @@
                 "name": "Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -132,7 +132,7 @@
                 "name": "Defeat Armored Xehanort in Re:Mind",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -145,7 +145,7 @@
                 "name": "Re Mind - Large Chest 1",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -164,7 +164,7 @@
                 "name": "Re Mind - Large Chest 2",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -183,7 +183,7 @@
                 "name": "Re Mind - Small Chest 1",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -202,7 +202,7 @@
                 "name": "Re Mind - Small Chest 2",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -221,7 +221,7 @@
                 "name": "Re Mind - Small Chest 3",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -240,7 +240,7 @@
                 "name": "Re Mind - Small Chest 4",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -259,7 +259,7 @@
                 "name": "Re Mind - Small Chest 5",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -278,7 +278,7 @@
                 "name": "Re Mind - Small Chest 6",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],
@@ -297,7 +297,7 @@
                 "name": "Re Mind - Small Chest 7",
                 "item_count": 1,
                 "access_rules": [
-                  "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_magic"
+                  "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
                 ]
               }
             ],

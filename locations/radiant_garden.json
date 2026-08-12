@@ -15,7 +15,7 @@
                 "name": "Data Battles - EVENT_DATAB_001 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -34,7 +34,7 @@
                 "name": "Data Battles - EVENT_DATAB_002 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -53,7 +53,7 @@
                 "name": "Data Battles - EVENT_DATAB_003 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -72,7 +72,7 @@
                 "name": "Data Battles - EVENT_DATAB_004 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -91,7 +91,7 @@
                 "name": "Data Battles - EVENT_DATAB_005 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -110,7 +110,7 @@
                 "name": "Data Battles - EVENT_DATAB_006 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -129,7 +129,7 @@
                 "name": "Data Battles - EVENT_DATAB_007 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,fire,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,fire:1,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -148,7 +148,7 @@
                 "name": "Data Battles - EVENT_DATAB_008 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,blizzard,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,blizzard:1,unlock_magic"
                 ]
               }
             ],
@@ -167,7 +167,7 @@
                 "name": "Data Battles - EVENT_DATAB_009 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -186,7 +186,7 @@
                 "name": "Data Battles - EVENT_DATAB_010 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -205,7 +205,7 @@
                 "name": "Data Battles - EVENT_DATAB_011 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -224,7 +224,7 @@
                 "name": "Data Battles - EVENT_DATAB_012 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],
@@ -243,7 +243,7 @@
                 "name": "Data Battles - EVENT_DATAB_013 - RandomizedItem",
                 "item_count": 1,
                 "access_rules": [
-                  "ability_block,ability_air_slide,cure,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
+                  "ability_block,ability_air_slide,cure:1,ability_dodge_roll,ability_glide,$has_any|ability_counter_kick|ability_counter_slash,unlock_magic"
                 ]
               }
             ],

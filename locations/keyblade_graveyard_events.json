@@ -12,7 +12,7 @@
             "name": "Keyblade Graveyard - EVENT_KEYBLADE_011 - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
@@ -25,7 +25,7 @@
             "name": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
@@ -38,7 +38,7 @@
             "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
@@ -51,7 +51,7 @@
             "name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
@@ -64,7 +64,7 @@
             "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
@@ -77,7 +77,7 @@
             "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
@@ -90,7 +90,7 @@
             "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
@@ -103,7 +103,7 @@
             "name": "Defeat Saïx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
@@ -116,7 +116,7 @@
             "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings",
             "item_count": 1,
             "access_rules": [
-              "unlock_wall_run,ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "unlock_wall_run,ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
@@ -129,7 +129,7 @@
             "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],

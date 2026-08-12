@@ -195,7 +195,7 @@
             "access_rules": [
               "ability_air_slide,ability_glide,unlock_wall_run,ability_pole_spin",
               "ability_air_slide,unlock_wall_run,ability_pole_spin",
-              "ability_superjump,aero,ability_air_slide,unlock_wall_run,ability_pole_spin,unlock_magic",
+              "ability_superjump,aero:1,ability_air_slide,unlock_wall_run,ability_pole_spin,unlock_magic",
               "ability_superjump,ability_wall_kick,ability_air_slide,unlock_wall_run,ability_pole_spin"
             ]
           }
@@ -314,7 +314,7 @@
               "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run,ability_pole_spin",
               "ability_air_slide,ability_combo_master,unlock_wall_run,ability_pole_spin",
               "ability_superjump,ability_wall_kick,ability_air_slide,unlock_wall_run,ability_pole_spin",
-              "ability_superjump,aero,ability_air_slide,unlock_wall_run,ability_pole_spin,unlock_magic",
+              "ability_superjump,aero:1,ability_air_slide,unlock_wall_run,ability_pole_spin,unlock_magic",
               "ability_air_slide,ability_glide,unlock_wall_run,ability_pole_spin"
             ]
           }
@@ -453,7 +453,7 @@
               "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run,ability_pole_spin",
               "ability_air_slide,unlock_wall_run,ability_doubleflight,ability_pole_spin",
               "ability_superjump,ability_wall_kick,ability_air_slide,unlock_wall_run,ability_pole_spin",
-              "ability_superjump,aero,ability_air_slide,unlock_wall_run,ability_pole_spin,unlock_magic"
+              "ability_superjump,aero:1,ability_air_slide,unlock_wall_run,ability_pole_spin,unlock_magic"
             ]
           }
         ],

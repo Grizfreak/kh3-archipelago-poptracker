@@ -267,7 +267,7 @@
             "access_rules": [
               "unlock_wall_run,ability_doubleflight",
               "ability_superjump,ability_wall_kick,ability_air_slide,unlock_wall_run",
-              "ability_superjump,aero,unlock_wall_run,unlock_magic"
+              "ability_superjump,aero:1,unlock_wall_run,unlock_magic"
             ]
           }
         ],
