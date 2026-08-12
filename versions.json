@@ -1,5 +1,26 @@
 [
 {
+    "package_version": "0.3.0",
+    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.3.0/kh3-archipelago-poptracker-v0.3.0.zip",
+    "sha256": "",
+    "changelog": [
+      "Added a manual Settings menu to toggle Battlegates, Re:Mind, Lucky Emblems, Keyblade Graveyard and Radiant Garden, and to set the Level and Lucky Emblem limits.",
+      "Added support for Heart Pieces as an alternate victory goal alongside the 3 Proofs goal.",
+      "Extended Level Up tracking from level 35 up to level 50.",
+      "Converted Magic spells from progressive to consumable items to match in-game leveling.",
+      "Reworked the item panel: added Keyblades and World Unlocks groups, moved the Magic unlock next to World Unlocks, and merged Progression/Abilities into a single list.",
+      "Level Up and Lucky Emblem milestone checks now turn yellow once the previous tier is reachable instead of staying red until their own exact requirement is met.",
+      "Lucky Emblem milestones above the seed's configured limit, and the Battlegates/Lucky Emblems overworld map pins when disabled, are now hidden instead of shown as unreachable.",
+      "Added missing item icons for keyblades, abilities, world unlocks and settings toggles."
+    ]
+  },
+{
+    "package_version": "0.2.2",
+    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.2.1/kh3-archipelago-poptracker-v0.2.2.zip",
+    "sha256": "",
+    "changelog": ["Fixed misaligned chest due to shifted Ids."]
+  },
+{
     "package_version": "0.2.1",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.2.1/kh3-archipelago-poptracker-v0.2.1.zip",
     "sha256": "",
