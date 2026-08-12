@@ -1,0 +1,768 @@
+[
+  {
+    "name": "The Caribbean - Chests",
+    "access_rules": [
+      "kb_wheel_of_fate"
+    ],
+    "children": [
+      {
+        "name": "The Caribbean - Large Chest 1",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 126,
+            "y": 229
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 2",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_isla_mastiles",
+            "x": 447,
+            "y": 415
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 3",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_ships_end",
+            "x": 283,
+            "y": 451
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 4",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 4",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_sandbar_isle",
+            "x": 492,
+            "y": 343
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 5",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 5",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_huddled_isles",
+            "x": 118,
+            "y": 262
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 6",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 6",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 629,
+            "y": 427
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 7",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 7",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_huddled_isles",
+            "x": 619,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 8",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 8",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_isla_verdemontana",
+            "x": 246,
+            "y": 173
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 9",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 9",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_confinement_isle",
+            "x": 342,
+            "y": 231
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 10",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 10",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_huddled_isles",
+            "x": 585,
+            "y": 672
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Large Chest 11",
+        "sections": [
+          {
+            "name": "The Caribbean - Large Chest 11",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_glide",
+              "ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_isla_mastiles",
+            "x": 365,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 1",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 694,
+            "y": 341
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 2",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 534,
+            "y": 536
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 3",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 271,
+            "y": 380
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 4",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 4",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 236,
+            "y": 519
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 5",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 5",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 190,
+            "y": 662
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 6",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 6",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 110,
+            "y": 407
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 7",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 7",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 385,
+            "y": 247
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 8",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 8",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 110,
+            "y": 646
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 9",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 9",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 500,
+            "y": 544
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 11",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 11",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_huddled_isles",
+            "x": 323,
+            "y": 181
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 12",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 12",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_huddled_isles",
+            "x": 457,
+            "y": 187
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 16",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 16",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_isla_verdemontana",
+            "x": 560,
+            "y": 71
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 17",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 17",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_sandbar_isle",
+            "x": 413,
+            "y": 618
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 18",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 18",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_exile_island",
+            "x": 251,
+            "y": 173
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 25",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 25",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_port_royal",
+            "x": 295,
+            "y": 351
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 19",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 19",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_gateway",
+            "x": 150,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 26",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 26",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_isla_verdemontana",
+            "x": 415,
+            "y": 331
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 27",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 27",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_sandbar_isle",
+            "x": 516,
+            "y": 277
+          }
+        ]
+      },
+      {
+        "name": "The Caribbean - Small Chest 28",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 28",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_sandbar_isle",
+            "x": 331,
+            "y": 338
+          }
+        ]
+      },
+      {
+        "name": "Sandbar Isle - Chests 28+29+30",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 29",
+            "item_count": 1
+          },
+          {
+            "name": "The Caribbean - Small Chest 30",
+            "item_count": 1
+          },
+          {
+            "name": "The Caribbean - Small Chest 31",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_sandbar_isle",
+            "x": 412,
+            "y": 399
+          }
+        ]
+      },
+      {
+        "name": "Sandbar Isle - x8 Cluster",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 34",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 35",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 36",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 37",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 38",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 39",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 40",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 41",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_sandbar_isle",
+            "x": 515,
+            "y": 636
+          }
+        ]
+      },
+      {
+        "name": "Sandbar Isle - Chests 31+32",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 32",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 33",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_glide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_combo_master,unlock_wall_run",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_sandbar_isle",
+            "x": 485,
+            "y": 571
+          }
+        ]
+      },
+      {
+        "name": "Horseshoe Island - Chest Cluster",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 20",
+            "item_count": 1
+          },
+          {
+            "name": "The Caribbean - Small Chest 42",
+            "item_count": 1
+          },
+          {
+            "name": "The Caribbean - Small Chest 43",
+            "item_count": 1
+          },
+          {
+            "name": "The Caribbean - Small Chest 44",
+            "item_count": 1
+          },
+          {
+            "name": "The Caribbean - Small Chest 45",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_horseshoe_island",
+            "x": 112,
+            "y": 148
+          }
+        ]
+      },
+      {
+        "name": "Huddled Isles - Chests 1+21+22",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 10",
+            "item_count": 1
+          },
+          {
+            "name": "The Caribbean - Small Chest 21",
+            "item_count": 1
+          },
+          {
+            "name": "The Caribbean - Small Chest 22",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_huddled_isles",
+            "x": 276,
+            "y": 478
+          }
+        ]
+      },
+      {
+        "name": "Ship's End - Chests 7+8",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 14",
+            "item_count": 1
+          },
+          {
+            "name": "The Caribbean - Small Chest 15",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_ships_end",
+            "x": 208,
+            "y": 217
+          }
+        ]
+      },
+      {
+        "name": "Isla Mastiles - Chests 5+23+24",
+        "sections": [
+          {
+            "name": "The Caribbean - Small Chest 13",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 23",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          },
+          {
+            "name": "The Caribbean - Small Chest 24",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_caribbean_isla_mastiles",
+            "x": 580,
+            "y": 490
+          }
+        ]
+      }
+    ]
+  }
+]

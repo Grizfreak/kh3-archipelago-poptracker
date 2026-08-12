@@ -1,0 +1,550 @@
+[
+  {
+    "name": "San Fransokyo - Chests",
+    "access_rules": [
+      "kb_nano_gear"
+    ],
+    "children": [
+      {
+        "name": "San Fransokyo - Large Chest 1",
+        "sections": [
+          {
+            "name": "San Fransokyo - Large Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 200,
+            "y": 606
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Large Chest 5",
+        "sections": [
+          {
+            "name": "San Fransokyo - Large Chest 5",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 152,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Large Chest 6",
+        "sections": [
+          {
+            "name": "San Fransokyo - Large Chest 6",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 153,
+            "y": 689
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Large Chest 7",
+        "sections": [
+          {
+            "name": "San Fransokyo - Large Chest 7",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 400,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 2",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 373,
+            "y": 614
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 3",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 108,
+            "y": 507
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 4",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 4",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 275,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 5",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 5",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 549,
+            "y": 152
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 6",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 6",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 204,
+            "y": 666
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 7",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 7",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 129,
+            "y": 346
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 8",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 8",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 353,
+            "y": 328
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 9",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 9",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 457,
+            "y": 177
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 12",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 12",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 106,
+            "y": 150
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 13",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 13",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 171,
+            "y": 118
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 14",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 14",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 296,
+            "y": 112
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 15",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 15",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 165,
+            "y": 429
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 16",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 16",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 236,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 18",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 18",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 549,
+            "y": 204
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 19",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 19",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 232,
+            "y": 910
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 20",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 20",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 175,
+            "y": 719
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 21",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 21",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 611,
+            "y": 252
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 22",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 22",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 377,
+            "y": 421
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 23",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 23",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 345,
+            "y": 316
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 24",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 24",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 243,
+            "y": 467
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 25",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 25",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 209,
+            "y": 377
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 26",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 26",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 232,
+            "y": 830
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 27",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 27",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 314,
+            "y": 133
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 28",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 28",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 236,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 30",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 30",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 217,
+            "y": 767
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 31",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 31",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 259,
+            "y": 207
+          }
+        ]
+      },
+      {
+        "name": "San Fransokyo - Small Chest 32",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 32",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 330,
+            "y": 153
+          }
+        ]
+      },
+      {
+        "name": "SF - Chests 10+11+17",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 10",
+            "item_count": 1
+          },
+          {
+            "name": "San Fransokyo - Small Chest 11",
+            "item_count": 1
+          },
+          {
+            "name": "San Fransokyo - Small Chest 17",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 149,
+            "y": 515
+          }
+        ]
+      },
+      {
+        "name": "SF - Chests 1+30",
+        "sections": [
+          {
+            "name": "San Fransokyo - Small Chest 1",
+            "item_count": 1
+          },
+          {
+            "name": "San Fransokyo - Small Chest 29",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 542,
+            "y": 399
+          }
+        ]
+      }
+    ]
+  }
+]

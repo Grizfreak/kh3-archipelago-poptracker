@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Monstropolis - Events",
+    "access_rules": [
+      "kb_happy_gear"
+    ],
+    "children": [
+      {
+        "name": "Monstropolis - EVENT_008 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Monstropolis - EVENT_008 - RandomizedItem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem",
+        "sections": [
+          {
+            "name": "Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed",
+        "sections": [
+          {
+            "name": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis - Monsters Inc.: Laugh Floor Unversed",
+        "sections": [
+          {
+            "name": "Monstropolis - Monsters Inc.: Laugh Floor Unversed",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis - The Door Vault: Upper Level Heartless",
+        "sections": [
+          {
+            "name": "Monstropolis - The Door Vault: Upper Level Heartless",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis - The Factory: Second Floor Heartless & Unversed",
+        "sections": [
+          {
+            "name": "Monstropolis - The Factory: Second Floor Heartless & Unversed",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis - The Factory: Second Floor Unversed",
+        "sections": [
+          {
+            "name": "Monstropolis - The Factory: Second Floor Unversed",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis - The Power Plant: Accessway Heartless & Unversed",
+        "sections": [
+          {
+            "name": "Monstropolis - The Power Plant: Accessway Heartless & Unversed",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis  - The Power Plant: Tank Yard Heartless",
+        "sections": [
+          {
+            "name": "Monstropolis  - The Power Plant: Tank Yard Heartless",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Monstropolis - The Power Plant: Tank Yard Unversed",
+        "sections": [
+          {
+            "name": "Monstropolis - The Power Plant: Tank Yard Unversed",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area",
+        "sections": [
+          {
+            "name": "Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run,ability_air_slide,ability_block,unlock_magic,$has_any|dream_heartbinder|ocean_heartbinder|ohana_heartbinder|pixel_heartbinder|pride_heartbinder",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_air_slide,ability_block,unlock_magic,$has_any|dream_heartbinder|ocean_heartbinder|ohana_heartbinder|pixel_heartbinder|pride_heartbinder"
+            ]
+          }
+        ],
+        "map_locations": []
+      }
+    ]
+  }
+]

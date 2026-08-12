@@ -1,4 +1,11 @@
 {
+  "settings_popup": {
+    "type": "container",
+    "content": {
+      "type": "layout",
+      "key": "setting_grid"
+    }
+  },
   "tracker_default": {
     "type": "container",
     "content": {
@@ -351,7 +358,7 @@
                     }
                   },
                   {
-                    "title": "Verdemonta\u00f1a",
+                    "title": "Verdemontaña",
                     "content": {
                       "type": "map",
                       "maps": [
@@ -464,18 +471,10 @@
       {
         "type": "group",
         "dock": "top",
-        "header": "Proofs",
+        "header": "Goal",
         "content": {
-          "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
-          "rows": [
-            [
-              "proof_of_fantasy",
-              "proof_of_promises",
-              "proof_of_times_past"
-            ]
-          ]
+          "type": "layout",
+          "key": "goal_content"
         }
       },
       {
@@ -503,6 +502,83 @@
       {
         "type": "group",
         "dock": "top",
+        "header": "Keyblades",
+        "content": {
+          "type": "itemgrid",
+          "item_margin": "3,3",
+          "item_size": "48,48",
+          "rows": [
+            [
+              "kingdom_key",
+              "kb_heros_origin",
+              "kb_favorite_deputy"
+            ],
+            [
+              "kb_happy_gear",
+              "kb_ever_after",
+              "kb_wheel_of_fate"
+            ],
+            [
+              "kb_crystal_snow",
+              "kb_nano_gear",
+              "kb_shooting_star"
+            ],
+            [
+              "kb_classic_tone",
+              "kb_oblivion",
+              "kb_oathkeeper"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "dock": "top",
+        "header": "Gimmick Unlocks",
+        "content": {
+          "type": "itemgrid",
+          "item_margin": "3,3",
+          "item_size": "48,48",
+          "rows": [
+            [
+              "unlock_style_change",
+              "unlock_magic",
+              "unlock_attraction_flow",
+              "unlock_wall_run",
+              "unlock_airstep"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "dock": "top",
+        "header": "Abilities",
+        "content": {
+          "type": "itemgrid",
+          "item_margin": "3,3",
+          "item_size": "48,48",
+          "rows": [
+            [
+              "ability_superjump",
+              "ability_wall_kick",
+              "ability_pole_spin"
+            ],
+            [
+              "ability_block",
+              "ability_dodge_roll",
+              "ability_counter_slash"
+            ],
+            [
+              "ability_counter_kick",
+              "ability_combo_master"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "dock": "top",
         "header": "Key Items",
         "content": {
           "type": "itemgrid",
@@ -511,7 +587,6 @@
           "rows": [
             [
               "gummiphone",
-              "heart_piece",
               "secret_report"
             ]
           ]

@@ -1,0 +1,489 @@
+[
+  {
+    "name": "Arendelle - Chests",
+    "access_rules": [
+      "kb_crystal_snow"
+    ],
+    "children": [
+      {
+        "name": "Arendelle - Large Chest 1",
+        "sections": [
+          {
+            "name": "Arendelle - Large Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_treescape",
+            "x": 74,
+            "y": 423
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Large Chest 2",
+        "sections": [
+          {
+            "name": "Arendelle - Large Chest 2",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_middle",
+            "x": 110,
+            "y": 152
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Large Chest 3",
+        "sections": [
+          {
+            "name": "Arendelle - Large Chest 3",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_treescape",
+            "x": 294,
+            "y": 104
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Large Chest 4",
+        "sections": [
+          {
+            "name": "Arendelle - Large Chest 4",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_snowfield",
+            "x": 309,
+            "y": 294
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Large Chest 5",
+        "sections": [
+          {
+            "name": "Arendelle - Large Chest 5",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_mid_lower",
+            "x": 366,
+            "y": 136
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Large Chest 6",
+        "sections": [
+          {
+            "name": "Arendelle - Large Chest 6",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_snowfield",
+            "x": 474,
+            "y": 244
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 1",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_treescape",
+            "x": 129,
+            "y": 289
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 2",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_treescape",
+            "x": 270,
+            "y": 218
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 4",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 4",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_gorge",
+            "x": 391,
+            "y": 415
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 5",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 5",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_gorge",
+            "x": 445,
+            "y": 384
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 7",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 7",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,ability_glide,unlock_wall_run,ability_pole_spin",
+              "ability_air_slide,unlock_wall_run,ability_pole_spin",
+              "ability_superjump,aero:1,ability_air_slide,unlock_wall_run,ability_pole_spin,unlock_magic",
+              "ability_superjump,ability_wall_kick,ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_snowfield",
+            "x": 582,
+            "y": 181
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 11",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 11",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_upper",
+            "x": 297,
+            "y": 491
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 12",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 12",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_middle",
+            "x": 189,
+            "y": 169
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 13",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 13",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_upper",
+            "x": 340,
+            "y": 490
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 15",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 15",
+            "item_count": 1,
+            "access_rules": [
+              "ability_superjump,ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_middle2",
+            "x": 170,
+            "y": 72
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 16",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 16",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_valley_of_ice",
+            "x": 515,
+            "y": 282
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 17",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 17",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin",
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run,ability_pole_spin",
+              "ability_air_slide,ability_combo_master,unlock_wall_run,ability_pole_spin",
+              "ability_superjump,ability_wall_kick,ability_air_slide,unlock_wall_run,ability_pole_spin",
+              "ability_superjump,aero:1,ability_air_slide,unlock_wall_run,ability_pole_spin,unlock_magic",
+              "ability_air_slide,ability_glide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_valley_of_ice",
+            "x": 495,
+            "y": 200
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 19",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 19",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_valley_of_ice",
+            "x": 223,
+            "y": 162
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 20",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 20",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,ability_glide,unlock_wall_run,ability_pole_spin",
+              "ability_air_slide,unlock_wall_run,ability_pole_spin",
+              "ability_superjump,ability_wall_kick,ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_valley_of_ice",
+            "x": 245,
+            "y": 229
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 22",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 22",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_doubleflight,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_valley_of_ice",
+            "x": 110,
+            "y": 455
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 23",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 23",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_frozen_wall",
+            "x": 659,
+            "y": 307
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 24",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 24",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_frozen_wall",
+            "x": 536,
+            "y": 191
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 25",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 25",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_frozen_wall",
+            "x": 201,
+            "y": 178
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 27",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 27",
+            "item_count": 1,
+            "access_rules": [
+              "$has_any|ability_doubleflight|ability_high_jump,ability_air_slide,unlock_wall_run,ability_pole_spin",
+              "ability_air_slide,unlock_wall_run,ability_doubleflight,ability_pole_spin",
+              "ability_superjump,ability_wall_kick,ability_air_slide,unlock_wall_run,ability_pole_spin",
+              "ability_superjump,aero:1,ability_air_slide,unlock_wall_run,ability_pole_spin,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_foothills",
+            "x": 60,
+            "y": 269
+          }
+        ]
+      },
+      {
+        "name": "Arendelle - Small Chest 29",
+        "sections": [
+          {
+            "name": "Arendelle - Small Chest 29",
+            "item_count": 1,
+            "access_rules": [
+              "ability_air_slide,unlock_wall_run,ability_pole_spin"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_arendelle_foothills",
+            "x": 127,
+            "y": 432
+          }
+        ]
+      }
+    ]
+  }
+]

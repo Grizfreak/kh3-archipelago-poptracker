@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Toy Box - Chests",
+    "access_rules": [
+      "kb_favorite_deputy"
+    ],
+    "children": [
+      {
+        "name": "Toy Box - Large Chest 1",
+        "sections": [
+          {
+            "name": "Toy Box - Large Chest 1",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_andys_house",
+            "x": 373,
+            "y": 601
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Large Chest 2",
+        "sections": [
+          {
+            "name": "Toy Box - Large Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_andys_house",
+            "x": 274,
+            "y": 610
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Large Chest 3",
+        "sections": [
+          {
+            "name": "Toy Box - Large Chest 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_1st_top",
+            "x": 185,
+            "y": 168
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Large Chest 4",
+        "sections": [
+          {
+            "name": "Toy Box - Large Chest 4",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_2nd_vents",
+            "x": 507,
+            "y": 172
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Large Chest 5",
+        "sections": [
+          {
+            "name": "Toy Box - Large Chest 5",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 83,
+            "y": 271
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Large Chest 6",
+        "sections": [
+          {
+            "name": "Toy Box - Large Chest 6",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_1st_top",
+            "x": 640,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 1",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 1",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_doubleflight",
+              "ability_superjump,aero:1,unlock_magic",
+              "ability_superjump,ability_wall_kick,ability_air_slide"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_andys_house",
+            "x": 682,
+            "y": 626
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 2",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_andys_house",
+            "x": 481,
+            "y": 875
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 3",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 3",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_2nd_vents",
+            "x": 195,
+            "y": 398
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 4",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 4",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_1st_top",
+            "x": 560,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 5",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 5",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_2nd_vents",
+            "x": 316,
+            "y": 80
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 6",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 6",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "$has_any|ability_doubleflight|ability_high_jump",
+              "ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_2nd_vents",
+            "x": 266,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 7",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 7",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_2nd_vents",
+            "x": 317,
+            "y": 143
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 8",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 8",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_2nd_vents",
+            "x": 643,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 9",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 9",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_2nd_vents",
+            "x": 506,
+            "y": 174
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 11",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 11",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 608,
+            "y": 183
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 12",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 12",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 715,
+            "y": 257
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 13",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 13",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 664,
+            "y": 263
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 14",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 14",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 679,
+            "y": 354
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 15",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 15",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_air_slide",
+              "ability_superjump,ability_wall_kick,ability_air_slide",
+              "ability_superjump,aero:1,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 162,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 16",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 16",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 198,
+            "y": 528
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 17",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 17",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 501,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 18",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 18",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 127,
+            "y": 98
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 19",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 19",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 157,
+            "y": 96
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 20",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 20",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 187,
+            "y": 281
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 22",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 22",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 130,
+            "y": 263
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 23",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 23",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_doubleflight",
+              "ability_superjump,ability_wall_kick,ability_doubleflight"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_2nd_vents",
+            "x": 75,
+            "y": 240
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 24",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 24",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_1st_top",
+            "x": 331,
+            "y": 279
+          }
+        ]
+      },
+      {
+        "name": "Toy Box - Small Chest 25",
+        "sections": [
+          {
+            "name": "Toy Box - Small Chest 25",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 308,
+            "y": 531
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "name": "San Fransokyo - Events",
+    "access_rules": [
+      "kb_nano_gear"
+    ],
+    "children": [
+      {
+        "name": "San Fransokyo - EVENT_009 - RandomizedItem",
+        "sections": [
+          {
+            "name": "San Fransokyo - EVENT_009 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem",
+        "sections": [
+          {
+            "name": "San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem",
+        "sections": [
+          {
+            "name": "San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem",
+        "sections": [
+          {
+            "name": "San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Metal Troll in San Fransokyo: The Bridge",
+        "sections": [
+          {
+            "name": "Defeat Metal Troll in San Fransokyo: The Bridge",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage",
+        "sections": [
+          {
+            "name": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)",
+        "sections": [
+          {
+            "name": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Catastrochorus in San Fransokyo - The City (Day)",
+        "sections": [
+          {
+            "name": "Defeat Catastrochorus in San Fransokyo - The City (Day)",
+            "item_count": 1
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)",
+        "sections": [
+          {
+            "name": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Darkubes in San Fransokyo - The City (Night)",
+        "sections": [
+          {
+            "name": "Defeat Darkubes in San Fransokyo - The City (Night)",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      },
+      {
+        "name": "Defeat Dark Baymax in San Fransokyo - The City (Day)",
+        "sections": [
+          {
+            "name": "Defeat Dark Baymax in San Fransokyo - The City (Day)",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
+            ]
+          }
+        ],
+        "map_locations": []
+      }
+    ]
+  }
+]
