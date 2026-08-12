@@ -495,7 +495,7 @@
       {
         "type": "group",
         "dock": "top",
-        "header": "Proofs",
+        "header": "Goal",
         "content": {
           "type": "itemgrid",
           "item_margin": "3,3",
@@ -504,7 +504,8 @@
             [
               "proof_of_fantasy",
               "proof_of_promises",
-              "proof_of_times_past"
+              "proof_of_times_past",
+              "heart_piece"
             ]
           ]
         }
@@ -650,7 +651,6 @@
           "rows": [
             [
               "gummiphone",
-              "heart_piece",
               "secret_report"
             ]
           ]

@@ -649,6 +649,11 @@ function autoFill(slot_data)
     setToggle("active_keyblade_graveyard", (slot_data["include_keyblade_graveyard"] or 1) == 1)
     setToggle("active_radiant_garden",     (slot_data["include_data_battles"]       or 0) == 1)
 
+    -- Goal (0 = collect the 3 Proofs, 1 = collect 7 Heart Pieces)
+    local goal = slot_data["goal"] or 0
+    setToggle("goal_is_proofs",       goal == 0)
+    setToggle("goal_is_heart_pieces", goal == 1)
+
     -- Lucky Emblem milestone limit
     local le_limit = 90  -- default show all
     if slot_data["kh3_randomizer"] and slot_data["kh3_randomizer"]["limiters"] then

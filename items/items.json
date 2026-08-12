@@ -670,6 +670,18 @@
     "img": "images/items/slot.png"
   },
   {
+    "name": "Goal: Proofs",
+    "type": "toggle",
+    "codes": "goal_is_proofs",
+    "img": "images/items/slot.png"
+  },
+  {
+    "name": "Goal: Heart Pieces",
+    "type": "toggle",
+    "codes": "goal_is_heart_pieces",
+    "img": "images/items/slot.png"
+  },
+  {
     "name": "Classic Tone",
     "type": "toggle",
     "codes": "kb_classic_tone",
