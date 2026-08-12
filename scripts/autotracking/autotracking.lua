@@ -621,7 +621,7 @@ end
 local LE_MILESTONES = {55, 60, 65, 70, 80, 90}
 -- All level up levels tracked
 local LU_LEVELS = {}
-for i = 2, 35 do LU_LEVELS[#LU_LEVELS+1] = i end
+for i = 2, 50 do LU_LEVELS[#LU_LEVELS+1] = i end
 
 function autoFill(slot_data)
     if not slot_data then return end
