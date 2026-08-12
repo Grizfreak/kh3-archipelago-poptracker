@@ -466,37 +466,6 @@
     }
   },
   "item_grid": {
-    "type": "tabbed",
-    "tabs": [
-      {
-        "title": "Progression",
-        "content": {
-          "type": "dock",
-          "content": [
-            {
-              "type": "layout",
-              "dock": "top",
-              "key": "item_grid_progression"
-            }
-          ]
-        }
-      },
-      {
-        "title": "Abilities",
-        "content": {
-          "type": "dock",
-          "content": [
-            {
-              "type": "layout",
-              "dock": "top",
-              "key": "item_grid_abilities"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "item_grid_progression": {
     "type": "dock",
     "content": [
       {
@@ -513,38 +482,20 @@
         "dock": "top",
         "header": "Magic",
         "content": {
-          "type": "dock",
-          "content": [
-            {
-              "type": "itemgrid",
-              "dock": "left",
-              "item_margin": "3,3",
-              "item_size": "48,48",
-              "rows": [
-                [
-                  "fire",
-                  "blizzard",
-                  "thunder"
-                ],
-                [
-                  "water",
-                  "aero",
-                  "cure"
-                ]
-              ]
-            },
-            {
-              "type": "itemgrid",
-              "dock": "right",
-              "v_alignment": "center",
-              "item_margin": "3,3",
-              "item_size": "48,48",
-              "rows": [
-                [
-                  "unlock_magic"
-                ]
-              ]
-            }
+          "type": "itemgrid",
+          "item_margin": "3,3",
+          "item_size": "48,48",
+          "rows": [
+            [
+              "fire",
+              "blizzard",
+              "thunder"
+            ],
+            [
+              "water",
+              "aero",
+              "cure"
+            ]
           ]
         }
       },
@@ -583,26 +534,22 @@
       {
         "type": "group",
         "dock": "top",
-        "header": "World Unlocks",
+        "header": "Gimmick Unlocks",
         "content": {
           "type": "itemgrid",
           "item_margin": "3,3",
           "item_size": "48,48",
           "rows": [
             [
-              "unlock_wall_run",
+              "unlock_style_change",
+              "unlock_magic",
               "unlock_attraction_flow",
-              "unlock_airstep",
-              "unlock_style_change"
+              "unlock_wall_run",
+              "unlock_airstep"
             ]
           ]
         }
-      }
-    ]
-  },
-  "item_grid_abilities": {
-    "type": "dock",
-    "content": [
+      },
       {
         "type": "group",
         "dock": "top",

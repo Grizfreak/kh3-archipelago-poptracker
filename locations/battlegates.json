@@ -1,6 +1,9 @@
 [
   {
     "name": "Battlegates",
+    "visibility_rules": [
+      "active_battlegates"
+    ],
     "access_rules": [
       "active_battlegates"
     ],

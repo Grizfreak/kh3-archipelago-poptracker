@@ -26,14 +26,14 @@
     "loop": true,
     "stages": [
       {
-        "img": "images/map_battlegate_reports.png",
+        "img": "images/items/Battlegates.png",
         "img_mods": "saturation|0",
         "codes": "battlegates_setting",
         "inherit_codes": false,
         "name": "Battlegates Off"
       },
       {
-        "img": "images/map_battlegate_reports.png",
+        "img": "images/items/Battlegates.png",
         "codes": "battlegates_setting, active_battlegates",
         "inherit_codes": false,
         "name": "Battlegates On"
@@ -47,14 +47,14 @@
     "loop": true,
     "stages": [
       {
-        "img": "images/map_re_mind.png",
+        "img": "images/items/ReMind.png",
         "img_mods": "saturation|0",
         "codes": "remind_setting",
         "inherit_codes": false,
         "name": "Re:Mind Off"
       },
       {
-        "img": "images/map_re_mind.png",
+        "img": "images/items/ReMind.png",
         "codes": "remind_setting, active_remind",
         "inherit_codes": false,
         "name": "Re:Mind On"
@@ -68,14 +68,14 @@
     "loop": true,
     "stages": [
       {
-        "img": "images/map_lucky_emblems.png",
+        "img": "images/items/Lucky Emblems.png",
         "img_mods": "saturation|0",
         "codes": "lucky_emblems_setting",
         "inherit_codes": false,
         "name": "Lucky Emblems Off"
       },
       {
-        "img": "images/map_lucky_emblems.png",
+        "img": "images/items/Lucky Emblems.png",
         "codes": "lucky_emblems_setting, active_lucky_emblems",
         "inherit_codes": false,
         "name": "Lucky Emblems On"
@@ -89,14 +89,14 @@
     "loop": true,
     "stages": [
       {
-        "img": "images/map_keyblade_graveyard.png",
+        "img": "images/items/Keyblade Graveyard.png",
         "img_mods": "saturation|0",
         "codes": "keyblade_graveyard_setting",
         "inherit_codes": false,
         "name": "Keyblade Graveyard Off"
       },
       {
-        "img": "images/map_keyblade_graveyard.png",
+        "img": "images/items/Keyblade Graveyard.png",
         "codes": "keyblade_graveyard_setting, active_keyblade_graveyard",
         "inherit_codes": false,
         "name": "Keyblade Graveyard On"
@@ -110,14 +110,14 @@
     "loop": true,
     "stages": [
       {
-        "img": "images/map_data_battles.png",
+        "img": "images/items/Radiant Garden.png",
         "img_mods": "saturation|0",
         "codes": "radiant_garden_setting",
         "inherit_codes": false,
         "name": "Radiant Garden Off"
       },
       {
-        "img": "images/map_data_battles.png",
+        "img": "images/items/Radiant Garden.png",
         "codes": "radiant_garden_setting, active_radiant_garden",
         "inherit_codes": false,
         "name": "Radiant Garden On"
@@ -126,7 +126,7 @@
   },
   {
     "name": "Level Up Limit",
-    "img": "images/items/slot.png",
+    "img": "images/items/Sora's Level.png",
     "overlay_font_size": 21,
     "codes": "lu_limit",
     "type": "consumable",
@@ -136,7 +136,7 @@
   },
   {
     "name": "Lucky Emblem Limit",
-    "img": "images/map_lucky_emblems.png",
+    "img": "images/items/Lucky Emblems.png",
     "overlay_font_size": 21,
     "codes": "le_limit",
     "type": "consumable",

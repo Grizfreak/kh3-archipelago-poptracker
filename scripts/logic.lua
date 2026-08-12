@@ -312,3 +312,26 @@ function can_reach_emblem_milestone(required)
     if count_reachable_lucky_emblems() >= required then return 1 end
     return 0
 end
+
+-- Ordered milestone thresholds as they appear in locations/lucky_emblems.json
+EMBLEM_MILESTONES = {1, 3, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 90}
+
+-- Access rule helper: $can_reach_emblem_milestone_gate|N
+-- Required half of the milestone access rule. Mirrors can_reach_level_gate: a milestone
+-- is only fully out of logic (red) while the previous milestone is itself unreachable.
+-- Once the previous milestone is reachable, this milestone stays enabled and is marked
+-- yellow (via the optional/bracketed can_reach_emblem_milestone|N rule) until we've
+-- actually explored enough of the currently-reachable worlds to hit its own count.
+function can_reach_emblem_milestone_gate(target)
+    target = tonumber(target) or 0
+    local prev = nil
+    for _, m in ipairs(EMBLEM_MILESTONES) do
+        if m < target then
+            prev = m
+        end
+    end
+    if prev == nil then
+        return can_reach_emblem_milestone(target)
+    end
+    return can_reach_emblem_milestone(prev)
+end

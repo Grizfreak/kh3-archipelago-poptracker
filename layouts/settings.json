@@ -3,8 +3,8 @@
     "type": "itemgrid",
     "background": "#000000",
     "h_alignment": "left",
-    "item_margin": "16,2",
-    "item_size": "300,32",
+    "item_margin": "4,4",
+    "item_size": "40,40",
     "rows": [
       ["goal"],
       ["battlegates_setting"],
