@@ -185,6 +185,19 @@ function can_reach_level(level)
     return 0
 end
 
+-- Access rule helper: $can_reach_level_gate|N
+-- Required half of the level-up access rule. Leveling is grinding-bound, not hard-gated,
+-- so a level should only be fully out of logic (red) while the previous level is itself
+-- unreachable. Once the previous level is reachable, this level stays enabled and is
+-- marked yellow (via the optional/bracketed can_reach_level|N rule) until its own,
+-- stricter XP-source requirement is actually met.
+function can_reach_level_gate(level)
+    level = tonumber(level) or 0
+    local prev = level - 1
+    if prev < 2 then prev = 2 end
+    return can_reach_level(prev)
+end
+
 -- ============================================================
 -- Lucky Emblems
 -- ============================================================
