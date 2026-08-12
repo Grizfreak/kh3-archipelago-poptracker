@@ -1,0 +1,19 @@
+{
+  "setting_grid": {
+    "type": "itemgrid",
+    "background": "#000000",
+    "h_alignment": "left",
+    "item_margin": "16,2",
+    "item_size": "300,32",
+    "rows": [
+      ["goal"],
+      ["battlegates_setting"],
+      ["remind_setting"],
+      ["lucky_emblems_setting"],
+      ["keyblade_graveyard_setting"],
+      ["radiant_garden_setting"],
+      ["lu_limit"],
+      ["le_limit"]
+    ]
+  }
+}

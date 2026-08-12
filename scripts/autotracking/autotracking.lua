@@ -617,12 +617,6 @@ function onLocation(location_id, location_name)
     end
 end
 
--- Lucky Emblem milestones above base 50, in order
-local LE_MILESTONES = {55, 60, 65, 70, 80, 90}
--- All level up levels tracked
-local LU_LEVELS = {}
-for i = 2, 50 do LU_LEVELS[#LU_LEVELS+1] = i end
-
 function autoFill(slot_data)
     if not slot_data then return end
 
@@ -630,6 +624,18 @@ function autoFill(slot_data)
     local function setToggle(code, active)
         local obj = Tracker:FindObjectForCode(code)
         if obj then obj.Active = active end
+    end
+
+    -- Helper: set a progressive settings item's stage (0-based)
+    local function setStage(code, stage)
+        local obj = Tracker:FindObjectForCode(code)
+        if obj then obj.CurrentStage = stage end
+    end
+
+    -- Helper: set a consumable settings item's current amount
+    local function setAmount(code, amount)
+        local obj = Tracker:FindObjectForCode(code)
+        if obj then obj.AcquiredCount = amount end
     end
 
     -- Controller unlock items (from slot_data.controller_unlocks)
@@ -642,35 +648,30 @@ function autoFill(slot_data)
     -- Activate unlock_airstep; ability_air_slide tracks the actual item
     setToggle("unlock_airstep",         cu["airstep"]         == true)
 
-    -- include_* world flags (1 = enabled, 0 = disabled)
-    setToggle("active_battlegates",        (slot_data["include_battlegates"]        or 0) == 1)
-    setToggle("active_remind",             (slot_data["include_remind"]             or 0) == 1)
-    setToggle("active_lucky_emblems",      (slot_data["include_lucky_emblems"]      or 0) == 1)
-    setToggle("active_keyblade_graveyard", (slot_data["include_keyblade_graveyard"] or 1) == 1)
-    setToggle("active_radiant_garden",     (slot_data["include_data_battles"]       or 0) == 1)
+    -- include_* world flags (1 = enabled, 0 = disabled) -> Settings menu stage
+    setStage("battlegates_setting",        ((slot_data["include_battlegates"]        or 0) == 1) and 1 or 0)
+    setStage("remind_setting",             ((slot_data["include_remind"]             or 0) == 1) and 1 or 0)
+    setStage("lucky_emblems_setting",      ((slot_data["include_lucky_emblems"]      or 0) == 1) and 1 or 0)
+    setStage("keyblade_graveyard_setting", ((slot_data["include_keyblade_graveyard"] or 1) == 1) and 1 or 0)
+    setStage("radiant_garden_setting",     ((slot_data["include_data_battles"]       or 0) == 1) and 1 or 0)
 
-    -- Goal (0 = collect the 3 Proofs, 1 = collect 7 Heart Pieces)
+    -- Goal (0 = collect the 3 Proofs, 1 = collect 7 Heart Pieces) -> Settings menu stage
     local goal = slot_data["goal"] or 0
-    setToggle("goal_is_proofs",       goal == 0)
-    setToggle("goal_is_heart_pieces", goal == 1)
+    setStage("goal", goal)
 
     -- Lucky Emblem milestone limit
     local le_limit = 90  -- default show all
     if slot_data["kh3_randomizer"] and slot_data["kh3_randomizer"]["limiters"] then
-        le_limit = slot_data["kh3_randomizer"]["limiters"]["lucky_emblem_limit"] or 90
+        le_limit = slot_data["kh3_randomizer"]["limiters"]["Lucky Emblem Limit"] or 90
     end
-    for _, ms in ipairs(LE_MILESTONES) do
-        setToggle("le_milestone_" .. ms, ms <= le_limit)
-    end
+    setAmount("le_limit", le_limit)
 
     -- Level up limit
     local lu_limit = 35  -- default
     if slot_data["kh3_randomizer"] and slot_data["kh3_randomizer"]["limiters"] then
-        lu_limit = slot_data["kh3_randomizer"]["limiters"]["level_up_limit"] or 35
+        lu_limit = slot_data["kh3_randomizer"]["limiters"]["Level Up Limit"] or 35
     end
-    for _, lv in ipairs(LU_LEVELS) do
-        setToggle("lu_level_" .. lv, lv <= lu_limit)
-    end
+    setAmount("lu_limit", lu_limit)
 
     print(string.format("autoFill: battlegates=%s remind=%s lucky_emblems=%s kg=%s rg=%s le_limit=%d lu_limit=%d",
         tostring((slot_data["include_battlegates"] or 0) == 1),

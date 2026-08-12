@@ -1,4 +1,11 @@
 {
+  "settings_popup": {
+    "type": "container",
+    "content": {
+      "type": "layout",
+      "key": "setting_grid"
+    }
+  },
   "tracker_default": {
     "type": "container",
     "content": {
@@ -497,17 +504,8 @@
         "dock": "top",
         "header": "Goal",
         "content": {
-          "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
-          "rows": [
-            [
-              "proof_of_fantasy",
-              "proof_of_promises",
-              "proof_of_times_past",
-              "heart_piece"
-            ]
-          ]
+          "type": "layout",
+          "key": "goal_content"
         }
       },
       {
@@ -592,16 +590,7 @@
           "item_size": "48,48",
           "rows": [
             [
-              "active_battlegates",
-              "active_remind",
-              "active_lucky_emblems"
-            ],
-            [
-              "active_keyblade_graveyard",
-              "active_radiant_garden",
-              "unlock_wall_run"
-            ],
-            [
+              "unlock_wall_run",
               "unlock_attraction_flow",
               "unlock_airstep",
               "unlock_style_change"

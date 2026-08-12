@@ -2,6 +2,19 @@
 -- Referenced from access_rules as $function_name
 
 -- ============================================================
+-- Goal display (Proofs vs Heart Pieces)
+-- ============================================================
+
+function update_goal_layout()
+    local goal_obj = Tracker:FindObjectForCode("goal")
+    if goal_obj and goal_obj.CurrentStage == 1 then
+        Tracker:AddLayouts("layouts/goal_heart_pieces.json")
+    else
+        Tracker:AddLayouts("layouts/goal_proofs.json")
+    end
+end
+
+-- ============================================================
 -- Portal keyblades / world tiers
 -- ============================================================
 

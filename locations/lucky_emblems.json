@@ -171,7 +171,7 @@
                 "name": "Lucky Emblems - Milestone 55",
                 "item_count": 1,
                 "visibility_rules": [
-                  "le_milestone_55"
+                  "le_limit:55"
                 ],
                 "access_rules": [
                   "$can_reach_emblem_milestone|55"
@@ -187,7 +187,7 @@
                 "name": "Lucky Emblems - Milestone 60",
                 "item_count": 1,
                 "visibility_rules": [
-                  "le_milestone_60"
+                  "le_limit:60"
                 ],
                 "access_rules": [
                   "$can_reach_emblem_milestone|60"
@@ -203,7 +203,7 @@
                 "name": "Lucky Emblems - Milestone 65",
                 "item_count": 1,
                 "visibility_rules": [
-                  "le_milestone_65"
+                  "le_limit:65"
                 ],
                 "access_rules": [
                   "$can_reach_emblem_milestone|65"
@@ -219,7 +219,7 @@
                 "name": "Lucky Emblems - Milestone 70",
                 "item_count": 1,
                 "visibility_rules": [
-                  "le_milestone_70"
+                  "le_limit:70"
                 ],
                 "access_rules": [
                   "$can_reach_emblem_milestone|70"
@@ -235,7 +235,7 @@
                 "name": "Lucky Emblems - Milestone 80",
                 "item_count": 1,
                 "visibility_rules": [
-                  "le_milestone_80"
+                  "le_limit:80"
                 ],
                 "access_rules": [
                   "$can_reach_emblem_milestone|80"
@@ -251,7 +251,7 @@
                 "name": "Lucky Emblems - Milestone 90",
                 "item_count": 1,
                 "visibility_rules": [
-                  "le_milestone_90"
+                  "le_limit:90"
                 ],
                 "access_rules": [
                   "$can_reach_emblem_milestone|90"

@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Goal",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/items/proof_of_fantasy.png",
+        "codes": "goal, goal_is_proofs",
+        "inherit_codes": false,
+        "name": "Goal - Collect 3 Proofs"
+      },
+      {
+        "img": "images/items/heart_piece.png",
+        "codes": "goal, goal_is_heart_pieces",
+        "inherit_codes": false,
+        "name": "Goal - Collect 7 Heart Pieces"
+      }
+    ]
+  },
+  {
+    "name": "Battlegates",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/map_battlegate_reports.png",
+        "img_mods": "saturation|0",
+        "codes": "battlegates_setting",
+        "inherit_codes": false,
+        "name": "Battlegates Off"
+      },
+      {
+        "img": "images/map_battlegate_reports.png",
+        "codes": "battlegates_setting, active_battlegates",
+        "inherit_codes": false,
+        "name": "Battlegates On"
+      }
+    ]
+  },
+  {
+    "name": "Re:Mind",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/map_re_mind.png",
+        "img_mods": "saturation|0",
+        "codes": "remind_setting",
+        "inherit_codes": false,
+        "name": "Re:Mind Off"
+      },
+      {
+        "img": "images/map_re_mind.png",
+        "codes": "remind_setting, active_remind",
+        "inherit_codes": false,
+        "name": "Re:Mind On"
+      }
+    ]
+  },
+  {
+    "name": "Lucky Emblems",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/map_lucky_emblems.png",
+        "img_mods": "saturation|0",
+        "codes": "lucky_emblems_setting",
+        "inherit_codes": false,
+        "name": "Lucky Emblems Off"
+      },
+      {
+        "img": "images/map_lucky_emblems.png",
+        "codes": "lucky_emblems_setting, active_lucky_emblems",
+        "inherit_codes": false,
+        "name": "Lucky Emblems On"
+      }
+    ]
+  },
+  {
+    "name": "Keyblade Graveyard",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/map_keyblade_graveyard.png",
+        "img_mods": "saturation|0",
+        "codes": "keyblade_graveyard_setting",
+        "inherit_codes": false,
+        "name": "Keyblade Graveyard Off"
+      },
+      {
+        "img": "images/map_keyblade_graveyard.png",
+        "codes": "keyblade_graveyard_setting, active_keyblade_graveyard",
+        "inherit_codes": false,
+        "name": "Keyblade Graveyard On"
+      }
+    ]
+  },
+  {
+    "name": "Radiant Garden",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/map_data_battles.png",
+        "img_mods": "saturation|0",
+        "codes": "radiant_garden_setting",
+        "inherit_codes": false,
+        "name": "Radiant Garden Off"
+      },
+      {
+        "img": "images/map_data_battles.png",
+        "codes": "radiant_garden_setting, active_radiant_garden",
+        "inherit_codes": false,
+        "name": "Radiant Garden On"
+      }
+    ]
+  },
+  {
+    "name": "Level Up Limit",
+    "img": "images/items/slot.png",
+    "overlay_font_size": 21,
+    "codes": "lu_limit",
+    "type": "consumable",
+    "min_quantity": 2,
+    "max_quantity": 50,
+    "initial_quantity": 35
+  },
+  {
+    "name": "Lucky Emblem Limit",
+    "img": "images/map_lucky_emblems.png",
+    "overlay_font_size": 21,
+    "codes": "le_limit",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 90,
+    "increment": 5,
+    "initial_quantity": 90
+  }
+]
