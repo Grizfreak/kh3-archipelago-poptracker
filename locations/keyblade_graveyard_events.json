@@ -14,22 +14,44 @@
             "access_rules": [
               "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)",
-        "sections": [
+          },
           {
             "name": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)",
             "item_count": 1,
             "access_rules": [
               "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
+          },
+          {
+            "name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
+            "item_count": 1,
+            "access_rules": [
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
+            ]
+          },
+          {
+            "name": "After collecting 222 Soras in The Final World",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_attraction_flow"
+            ]
+          },
+          {
+            "name": "After collecting 333 Soras in The Final World",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_attraction_flow"
+            ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_keyblade_graveyard",
+            "x": 96,
+            "y": 72,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a",
@@ -40,22 +62,23 @@
             "access_rules": [
               "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
-        "sections": [
+          },
           {
-            "name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
+            "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
             "item_count": 1,
             "access_rules": [
               "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_keyblade_graveyard",
+            "x": 62,
+            "y": 477,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
@@ -68,7 +91,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_keyblade_graveyard",
+            "x": 330,
+            "y": 376,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
@@ -81,7 +111,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_keyblade_graveyard",
+            "x": 427,
+            "y": 496,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
@@ -94,20 +131,34 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_keyblade_graveyard",
+            "x": 312,
+            "y": 248,
+            "shape": "diamond"
+          }
+        ]
       },
       {
-        "name": "Defeat Saïx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
+        "name": "Defeat Sa\u00efx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
         "sections": [
           {
-            "name": "Defeat Saïx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
+            "name": "Defeat Sa\u00efx in The Keyblade Graveyard - The Skein of Severance: Twist of Isolation",
             "item_count": 1,
             "access_rules": [
               "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_keyblade_graveyard",
+            "x": 491,
+            "y": 106,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard: The Skein of Severance - Tower of Endings",
@@ -120,46 +171,14 @@
             ]
           }
         ],
-        "map_locations": []
-      },
-      {
-        "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
-        "sections": [
+        "map_locations": [
           {
-            "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
-            "item_count": 1,
-            "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_attraction_flow,unlock_magic"
-            ]
+            "map": "map_keyblade_graveyard",
+            "x": 362,
+            "y": 30,
+            "shape": "diamond"
           }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "After collecting 222 Soras in The Final World",
-        "sections": [
-          {
-            "name": "After collecting 222 Soras in The Final World",
-            "item_count": 1,
-            "access_rules": [
-              "unlock_attraction_flow"
-            ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "After collecting 333 Soras in The Final World",
-        "sections": [
-          {
-            "name": "After collecting 333 Soras in The Final World",
-            "item_count": 1,
-            "access_rules": [
-              "unlock_attraction_flow"
-            ]
-          }
-        ],
-        "map_locations": []
+        ]
       }
     ]
   }

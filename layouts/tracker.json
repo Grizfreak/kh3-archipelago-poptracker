@@ -25,6 +25,15 @@
               }
             },
             {
+              "title": "100 Acre Woods",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "map_100AcreWoods_rabbitHouse"
+                ]
+              }
+            },
+            {
               "title": "Olympus",
               "content": {
                 "type": "tabbed",
@@ -322,6 +331,15 @@
                 "type": "tabbed",
                 "tabs": [
                   {
+                    "title": "Sea Map",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "map_caribbean_full_sea"
+                      ]
+                    }
+                  },
+                  {
                     "title": "Port Royal",
                     "content": {
                       "type": "map",
@@ -410,6 +428,15 @@
                         "map_caribbean_gateway"
                       ]
                     }
+                  },
+                  {
+                    "title": "Isle of Luck",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "map_caribbean_isle_of_luck"
+                      ]
+                    }
                   }
                 ]
               }
@@ -483,8 +510,8 @@
         "header": "Magic",
         "content": {
           "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
+          "item_margin": "2,2",
+          "item_size": "36,36",
           "rows": [
             [
               "fire",
@@ -505,8 +532,8 @@
         "header": "Keyblades",
         "content": {
           "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
+          "item_margin": "2,2",
+          "item_size": "36,36",
           "rows": [
             [
               "kingdom_key",
@@ -537,8 +564,8 @@
         "header": "Gimmick Unlocks",
         "content": {
           "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
+          "item_margin": "2,2",
+          "item_size": "36,36",
           "rows": [
             [
               "unlock_style_change",
@@ -556,8 +583,8 @@
         "header": "Abilities",
         "content": {
           "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
+          "item_margin": "2,2",
+          "item_size": "36,36",
           "rows": [
             [
               "ability_superjump",
@@ -582,8 +609,8 @@
         "header": "Key Items",
         "content": {
           "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
+          "item_margin": "2,2",
+          "item_size": "36,36",
           "rows": [
             [
               "gummiphone",
@@ -598,8 +625,8 @@
         "header": "Heartbinders",
         "content": {
           "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
+          "item_margin": "2,2",
+          "item_size": "36,36",
           "rows": [
             [
               "dream_heartbinder",
@@ -617,8 +644,8 @@
         "header": "Movement",
         "content": {
           "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
+          "item_margin": "2,2",
+          "item_size": "36,36",
           "rows": [
             [
               "ability_air_slide",
@@ -635,8 +662,8 @@
         "header": "Survival & Bonuses",
         "content": {
           "type": "itemgrid",
-          "item_margin": "3,3",
-          "item_size": "48,48",
+          "item_margin": "2,2",
+          "item_size": "36,36",
           "rows": [
             [
               "ability_second_chance",

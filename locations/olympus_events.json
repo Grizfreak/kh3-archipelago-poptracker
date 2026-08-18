@@ -16,7 +16,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 157,
+            "y": 300,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Find Golden Herc Figure in Thebes: Alleyway, In Building",
@@ -24,25 +31,21 @@
           {
             "name": "Find Golden Herc Figure in Thebes: Alleyway, In Building",
             "item_count": 1,
+            "chest_unopened_img": "images/items/Golden_Herc_Figure_None.png",
+            "chest_opened_img": "images/items/Golden_Herc_Figure.png",
             "access_rules": [
               "unlock_wall_run"
             ]
           }
         ],
-        "map_locations": []
-      },
-      {
-        "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
-        "sections": [
+        "map_locations": [
           {
-            "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
-            "item_count": 1,
-            "access_rules": [
-              "unlock_wall_run"
-            ]
+            "map": "map_olympus_thebes",
+            "x": 200,
+            "y": 20,
+            "shape": "diamond"
           }
-        ],
-        "map_locations": []
+        ]
       },
       {
         "name": "Find Golden Herc Figure in Thebes: Garden, In Building",
@@ -50,12 +53,21 @@
           {
             "name": "Find Golden Herc Figure in Thebes: Garden, In Building",
             "item_count": 1,
+            "chest_unopened_img": "images/items/Golden_Herc_Figure_None.png",
+            "chest_opened_img": "images/items/Golden_Herc_Figure.png",
             "access_rules": [
               "unlock_wall_run"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 335,
+            "y": 535,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield",
@@ -63,12 +75,21 @@
           {
             "name": "Find Golden Herc Figure in Thebes: Overlook, On Statue's Shield",
             "item_count": 1,
+            "chest_unopened_img": "images/items/Golden_Herc_Figure_None.png",
+            "chest_opened_img": "images/items/Golden_Herc_Figure.png",
             "access_rules": [
               "unlock_wall_run"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 500,
+            "y": 540,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Find Golden Herc Figure in Thebes: Agora, Near Save Point",
@@ -76,12 +97,21 @@
           {
             "name": "Find Golden Herc Figure in Thebes: Agora, Near Save Point",
             "item_count": 1,
+            "chest_unopened_img": "images/items/Golden_Herc_Figure_None.png",
+            "chest_opened_img": "images/items/Golden_Herc_Figure.png",
             "access_rules": [
               "unlock_wall_run"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 630,
+            "y": 610,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Return All Golden Herc Figures",
@@ -89,25 +119,21 @@
           {
             "name": "Return All Golden Herc Figures",
             "item_count": 1,
+            "chest_unopened_img": "images/items/Golden_Herc_Figure_None.png",
+            "chest_opened_img": "images/items/Golden_Herc_Figure.png",
             "access_rules": [
               "unlock_wall_run"
             ]
           }
         ],
-        "map_locations": []
-      },
-      {
-        "name": "Olympus - EVENT_KEYBLADE_001 - RandomizedItem",
-        "sections": [
+        "map_locations": [
           {
-            "name": "Olympus - EVENT_KEYBLADE_001 - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "unlock_wall_run"
-            ]
+            "map": "map_olympus_thebes",
+            "x": 150,
+            "y": 260,
+            "shape": "diamond"
           }
-        ],
-        "map_locations": []
+        ]
       },
       {
         "name": "Olympus - Mount Olympus: Cliff Ascent Heartless",
@@ -117,7 +143,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 200,
+            "y": 450,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Olympus - Thebes: Agora Flame Cores",
@@ -132,17 +165,14 @@
             ]
           }
         ],
-        "map_locations": []
-      },
-      {
-        "name": "Olympus - Victory Bonus 004",
-        "sections": [
+        "map_locations": [
           {
-            "name": "Olympus - Victory Bonus 004",
-            "item_count": 1
+            "map": "map_olympus_thebes",
+            "x": 100,
+            "y": 220,
+            "shape": "diamond"
           }
-        ],
-        "map_locations": []
+        ]
       },
       {
         "name": "Olympus - Thebes: Overlook Flame Cores",
@@ -157,7 +187,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 720,
+            "y": 570,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Olympus - Thebes: Gardens Flame Cores",
@@ -170,9 +207,25 @@
               "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight",
               "ability_superjump,$has_any|ability_doubleflight|ability_high_jump,ability_wall_kick,ability_air_slide"
             ]
+          },
+          {
+            "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
+            "item_count": 1,
+            "chest_unopened_img": "images/items/Golden_Herc_Figure_None.png",
+            "chest_opened_img": "images/items/Golden_Herc_Figure.png",
+            "access_rules": [
+              "unlock_wall_run"
+            ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 260,
+            "y": 520,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Olympus - Thebes: Alleyway Heartless",
@@ -187,7 +240,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 200,
+            "y": 70,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Rock Troll in Olympus - Thebes: Agora",
@@ -202,7 +262,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_thebes",
+            "x": 130,
+            "y": 185,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Rock Titan in Olympus: Mount Olympus - Summit",
@@ -215,7 +282,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 200,
+            "y": 170,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Olympus - Realm of the Gods: Courtyard Satyrs",
@@ -228,7 +302,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 523,
+            "y": 580,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Tornado Titan in Olympus: Realm of the Gods",
@@ -239,9 +320,23 @@
             "access_rules": [
               "unlock_wall_run"
             ]
+          },
+          {
+            "name": "Olympus - EVENT_KEYBLADE_001 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 670,
+            "y": 143,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Olympus - Defeat Darkside (Final World)",
@@ -251,7 +346,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_mount_olympus_p1",
+            "x": 200,
+            "y": 650,
+            "shape": "diamond"
+          }
+        ]
       }
     ]
   }

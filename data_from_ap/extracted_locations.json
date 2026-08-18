@@ -9160,6 +9160,906 @@
         "TypeB": "Ability: Air Combo Boost",
         "TypeC": "Ability: Magic Galvanizer"
       }
+    },
+    {
+      "name": "Lucky Emblems - Milestone 2",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "2",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 4",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "4",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 6",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "6",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 7",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "7",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 8",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "8",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 9",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "9",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 11",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "11",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 12",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "12",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 13",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "13",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 14",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "14",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 16",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "16",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 17",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "17",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 18",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "18",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 19",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "19",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 21",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "21",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 22",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "22",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 23",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "23",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 24",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "24",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 26",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "26",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 27",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "27",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 28",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "28",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 29",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "29",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 31",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "31",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 32",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "32",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 33",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "33",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 34",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "34",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 36",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "36",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 37",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "37",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 38",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "38",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 39",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "39",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 41",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "41",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 42",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "42",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 43",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "43",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 44",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "44",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 46",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "46",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 47",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "47",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 48",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "48",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 49",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "49",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 51",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "51",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 52",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "52",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 53",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "53",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 54",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "54",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 56",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "56",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 57",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "57",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 58",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "58",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 59",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "59",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 61",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "61",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 62",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "62",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 63",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "63",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 64",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "64",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 66",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "66",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 67",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "67",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 68",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "68",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 69",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "69",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 71",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "71",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 72",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "72",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 73",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "73",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 74",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "74",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 75",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "75",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 76",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "76",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 77",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "77",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 78",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "78",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 79",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "79",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 81",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "81",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 82",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "82",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 83",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "83",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 84",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "84",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 85",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "85",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 86",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "86",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 87",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "87",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 88",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "88",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Lucky Emblems - Milestone 89",
+      "type": "lucky_emblem",
+      "world": "Lucky Emblems",
+      "source_table": "LuckyMark",
+      "source_id": "89",
+      "vanilla_item": "ITEM_POTION",
+      "vanilla_item_name": "Potion",
+      "synthetic_milestone": true
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 1",
+      "location_description": "Moogle Shop - Archipelago Purchase 1",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_01",
+      "shop_index": 1
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 2",
+      "location_description": "Moogle Shop - Archipelago Purchase 2",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_02",
+      "shop_index": 2
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 3",
+      "location_description": "Moogle Shop - Archipelago Purchase 3",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_03",
+      "shop_index": 3
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 4",
+      "location_description": "Moogle Shop - Archipelago Purchase 4",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_04",
+      "shop_index": 4
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 5",
+      "location_description": "Moogle Shop - Archipelago Purchase 5",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_05",
+      "shop_index": 5
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 6",
+      "location_description": "Moogle Shop - Archipelago Purchase 6",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_06",
+      "shop_index": 6
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 7",
+      "location_description": "Moogle Shop - Archipelago Purchase 7",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_07",
+      "shop_index": 7
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 8",
+      "location_description": "Moogle Shop - Archipelago Purchase 8",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_08",
+      "shop_index": 8
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 9",
+      "location_description": "Moogle Shop - Archipelago Purchase 9",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_09",
+      "shop_index": 9
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 10",
+      "location_description": "Moogle Shop - Archipelago Purchase 10",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_10",
+      "shop_index": 10
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 11",
+      "location_description": "Moogle Shop - Archipelago Purchase 11",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_11",
+      "shop_index": 11
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 12",
+      "location_description": "Moogle Shop - Archipelago Purchase 12",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_12",
+      "shop_index": 12
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 13",
+      "location_description": "Moogle Shop - Archipelago Purchase 13",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_13",
+      "shop_index": 13
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 14",
+      "location_description": "Moogle Shop - Archipelago Purchase 14",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_14",
+      "shop_index": 14
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 15",
+      "location_description": "Moogle Shop - Archipelago Purchase 15",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_15",
+      "shop_index": 15
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 16",
+      "location_description": "Moogle Shop - Archipelago Purchase 16",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_16",
+      "shop_index": 16
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 17",
+      "location_description": "Moogle Shop - Archipelago Purchase 17",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_17",
+      "shop_index": 17
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 18",
+      "location_description": "Moogle Shop - Archipelago Purchase 18",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_18",
+      "shop_index": 18
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 19",
+      "location_description": "Moogle Shop - Archipelago Purchase 19",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_19",
+      "shop_index": 19
+    },
+    {
+      "name": "Moogle Shop - Archipelago Item 20",
+      "location_description": "Moogle Shop - Archipelago Purchase 20",
+      "type": "shop",
+      "world": "Moogle Shop",
+      "source_table": "MoogleShop",
+      "source_id": "AP_ITEM_20",
+      "shop_index": 20
     }
   ]
 }

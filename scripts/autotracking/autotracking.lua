@@ -45,7 +45,6 @@ OVERWORLD_SECTION_MAP = {
     ["Olympus - EVENT_KEYBLADE_001 - RandomizedItem"] = "@Olympus - All Checks/Olympus - EVENT_KEYBLADE_001 - RandomizedItem",
     ["Olympus - Mount Olympus: Cliff Ascent Heartless"] = "@Olympus - All Checks/Olympus - Mount Olympus: Cliff Ascent Heartless",
     ["Olympus - Thebes: Agora Flame Cores"] = "@Olympus - All Checks/Olympus - Thebes: Agora Flame Cores",
-    ["Olympus - Victory Bonus 004"] = "@Olympus - All Checks/Olympus - Victory Bonus 004",
     ["Olympus - Thebes: Overlook Flame Cores"] = "@Olympus - All Checks/Olympus - Thebes: Overlook Flame Cores",
     ["Olympus - Thebes: Gardens Flame Cores"] = "@Olympus - All Checks/Olympus - Thebes: Gardens Flame Cores",
     ["Olympus - Thebes: Alleyway Heartless"] = "@Olympus - All Checks/Olympus - Thebes: Alleyway Heartless",
@@ -65,7 +64,6 @@ OVERWORLD_SECTION_MAP = {
     ["Twilight Town - Small Chest 8"] = "@Twilight Town - All Checks/Twilight Town - Small Chest 8",
     ["Twilight Town - Small Chest 9"] = "@Twilight Town - All Checks/Twilight Town - Small Chest 9",
     ["Twilight Town - EVENT_KEYBLADE_002 - RandomizedItem"] = "@Twilight Town - All Checks/Twilight Town - EVENT_KEYBLADE_002 - RandomizedItem",
-    ["Twilight Town - EVENT_KEYBLADE_010 - RandomizedItem"] = "@Twilight Town - All Checks/Twilight Town - EVENT_KEYBLADE_010 - RandomizedItem",
     ["Twilight Town - EVENT_CKGAME_001 - RandomizedItem"] = "@Twilight Town - All Checks/Twilight Town - EVENT_CKGAME_001 - RandomizedItem",
     ["Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common"] = "@Twilight Town - All Checks/Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
     ["Twilight Town - The Woods Powerwilds"] = "@Twilight Town - All Checks/Twilight Town - The Woods Powerwilds",
@@ -443,22 +441,94 @@ OVERWORLD_SECTION_MAP = {
     ["Battlegate Rewards - EVENT_REPORT_013b - RandomizedItem"] = "@Battlegates - All Checks/Battlegate Rewards - EVENT_REPORT_013b - RandomizedItem",
     ["Battlegate Rewards - EVENT_REPORT_014 - RandomizedItem"] = "@Battlegates - All Checks/Battlegate Rewards - EVENT_REPORT_014 - RandomizedItem",
     ["Lucky Emblems - Milestone 1"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 1",
+    ["Lucky Emblems - Milestone 2"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 2",
     ["Lucky Emblems - Milestone 3"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 3",
+    ["Lucky Emblems - Milestone 4"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 4",
     ["Lucky Emblems - Milestone 5"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 5",
+    ["Lucky Emblems - Milestone 6"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 6",
+    ["Lucky Emblems - Milestone 7"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 7",
+    ["Lucky Emblems - Milestone 8"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 8",
+    ["Lucky Emblems - Milestone 9"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 9",
     ["Lucky Emblems - Milestone 10"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 10",
+    ["Lucky Emblems - Milestone 11"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 11",
+    ["Lucky Emblems - Milestone 12"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 12",
+    ["Lucky Emblems - Milestone 13"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 13",
+    ["Lucky Emblems - Milestone 14"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 14",
     ["Lucky Emblems - Milestone 15"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 15",
+    ["Lucky Emblems - Milestone 16"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 16",
+    ["Lucky Emblems - Milestone 17"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 17",
+    ["Lucky Emblems - Milestone 18"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 18",
+    ["Lucky Emblems - Milestone 19"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 19",
     ["Lucky Emblems - Milestone 20"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 20",
+    ["Lucky Emblems - Milestone 21"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 21",
+    ["Lucky Emblems - Milestone 22"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 22",
+    ["Lucky Emblems - Milestone 23"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 23",
+    ["Lucky Emblems - Milestone 24"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 24",
     ["Lucky Emblems - Milestone 25"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 25",
+    ["Lucky Emblems - Milestone 26"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 26",
+    ["Lucky Emblems - Milestone 27"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 27",
+    ["Lucky Emblems - Milestone 28"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 28",
+    ["Lucky Emblems - Milestone 29"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 29",
     ["Lucky Emblems - Milestone 30"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 30",
+    ["Lucky Emblems - Milestone 31"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 31",
+    ["Lucky Emblems - Milestone 32"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 32",
+    ["Lucky Emblems - Milestone 33"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 33",
+    ["Lucky Emblems - Milestone 34"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 34",
     ["Lucky Emblems - Milestone 35"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 35",
+    ["Lucky Emblems - Milestone 36"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 36",
+    ["Lucky Emblems - Milestone 37"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 37",
+    ["Lucky Emblems - Milestone 38"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 38",
+    ["Lucky Emblems - Milestone 39"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 39",
     ["Lucky Emblems - Milestone 40"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 40",
+    ["Lucky Emblems - Milestone 41"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 41",
+    ["Lucky Emblems - Milestone 42"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 42",
+    ["Lucky Emblems - Milestone 43"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 43",
+    ["Lucky Emblems - Milestone 44"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 44",
     ["Lucky Emblems - Milestone 45"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 45",
+    ["Lucky Emblems - Milestone 46"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 46",
+    ["Lucky Emblems - Milestone 47"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 47",
+    ["Lucky Emblems - Milestone 48"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 48",
+    ["Lucky Emblems - Milestone 49"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 49",
     ["Lucky Emblems - Milestone 50"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 50",
+    ["Lucky Emblems - Milestone 51"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 51",
+    ["Lucky Emblems - Milestone 52"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 52",
+    ["Lucky Emblems - Milestone 53"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 53",
+    ["Lucky Emblems - Milestone 54"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 54",
     ["Lucky Emblems - Milestone 55"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 55",
+    ["Lucky Emblems - Milestone 56"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 56",
+    ["Lucky Emblems - Milestone 57"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 57",
+    ["Lucky Emblems - Milestone 58"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 58",
+    ["Lucky Emblems - Milestone 59"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 59",
     ["Lucky Emblems - Milestone 60"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 60",
+    ["Lucky Emblems - Milestone 61"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 61",
+    ["Lucky Emblems - Milestone 62"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 62",
+    ["Lucky Emblems - Milestone 63"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 63",
+    ["Lucky Emblems - Milestone 64"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 64",
     ["Lucky Emblems - Milestone 65"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 65",
+    ["Lucky Emblems - Milestone 66"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 66",
+    ["Lucky Emblems - Milestone 67"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 67",
+    ["Lucky Emblems - Milestone 68"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 68",
+    ["Lucky Emblems - Milestone 69"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 69",
     ["Lucky Emblems - Milestone 70"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 70",
+    ["Lucky Emblems - Milestone 71"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 71",
+    ["Lucky Emblems - Milestone 72"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 72",
+    ["Lucky Emblems - Milestone 73"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 73",
+    ["Lucky Emblems - Milestone 74"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 74",
+    ["Lucky Emblems - Milestone 75"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 75",
+    ["Lucky Emblems - Milestone 76"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 76",
+    ["Lucky Emblems - Milestone 77"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 77",
+    ["Lucky Emblems - Milestone 78"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 78",
+    ["Lucky Emblems - Milestone 79"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 79",
     ["Lucky Emblems - Milestone 80"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 80",
+    ["Lucky Emblems - Milestone 81"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 81",
+    ["Lucky Emblems - Milestone 82"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 82",
+    ["Lucky Emblems - Milestone 83"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 83",
+    ["Lucky Emblems - Milestone 84"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 84",
+    ["Lucky Emblems - Milestone 85"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 85",
+    ["Lucky Emblems - Milestone 86"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 86",
+    ["Lucky Emblems - Milestone 87"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 87",
+    ["Lucky Emblems - Milestone 88"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 88",
+    ["Lucky Emblems - Milestone 89"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 89",
     ["Lucky Emblems - Milestone 90"] = "@Lucky Emblems - All Checks/Lucky Emblems - Milestone 90",
 }
 
@@ -638,8 +708,8 @@ function autoFill(slot_data)
         if obj then obj.AcquiredCount = amount end
     end
 
-    -- Controller unlock items (from slot_data.controller_unlocks)
-    local cu = slot_data["controller_unlocks"] or {}
+    -- Controller unlock items (from slot_data.kh3_randomizer.controller_unlocks)
+    local cu = (slot_data["kh3_randomizer"] and slot_data["kh3_randomizer"]["controller_unlocks"]) or {}
     setToggle("unlock_wall_run",        cu["wall_run"]        == true)
     setToggle("unlock_magic",           cu["magic"]           == true)
     setToggle("unlock_attraction_flow", cu["attraction_flow"] == true)
@@ -648,12 +718,24 @@ function autoFill(slot_data)
     -- Activate unlock_airstep; ability_air_slide tracks the actual item
     setToggle("unlock_airstep",         cu["airstep"]         == true)
 
-    -- include_* world flags (1 = enabled, 0 = disabled) -> Settings menu stage
-    setStage("battlegates_setting",        ((slot_data["include_battlegates"]        or 0) == 1) and 1 or 0)
-    setStage("remind_setting",             ((slot_data["include_remind"]             or 0) == 1) and 1 or 0)
-    setStage("lucky_emblems_setting",      ((slot_data["include_lucky_emblems"]      or 0) == 1) and 1 or 0)
-    setStage("keyblade_graveyard_setting", ((slot_data["include_keyblade_graveyard"] or 1) == 1) and 1 or 0)
-    setStage("radiant_garden_setting",     ((slot_data["include_data_battles"]       or 0) == 1) and 1 or 0)
+    -- World on/off flags -> Settings menu stage. The apworld dropped the old
+    -- boolean "include_*" slot_data keys; each world's checks now live behind
+    -- a 3-way pool mode (KH3LocationPoolMode: 1=vanilla/no checks, 2=randomize,
+    -- 3=junk, both of the latter keep checks active) under
+    -- slot_data.kh3_randomizer.pools, keyed by the pool's display name.
+    local VANILLA_POOL_MODE = 1
+    local pools = (slot_data["kh3_randomizer"] and slot_data["kh3_randomizer"]["pools"]) or {}
+    local function poolHasChecks(pool_name)
+        -- Default to "randomize" (2) when absent, matching the option's own default.
+        local mode = pools[pool_name] or 2
+        return mode ~= VANILLA_POOL_MODE
+    end
+
+    setStage("battlegates_setting",        poolHasChecks("Battlegates") and 1 or 0)
+    setStage("remind_setting",             poolHasChecks("Re+Mind") and 1 or 0)
+    setStage("lucky_emblems_setting",      poolHasChecks("Lucky Emblems") and 1 or 0)
+    setStage("keyblade_graveyard_setting", poolHasChecks("Keyblade Graveyard") and 1 or 0)
+    setStage("radiant_garden_setting",     poolHasChecks("Data Battle Rewards") and 1 or 0)
 
     -- Goal (0 = collect the 3 Proofs, 1 = collect 7 Heart Pieces) -> Settings menu stage
     local goal = slot_data["goal"] or 0
@@ -666,6 +748,11 @@ function autoFill(slot_data)
     end
     setAmount("le_limit", le_limit)
 
+    -- Lucky Emblems Per Check (0 = vanilla irregular milestones, N = every Nth
+    -- emblem is a check). Top-level slot_data key, not under kh3_randomizer/limiters.
+    local lep_check = slot_data["lucky_emblems_per_check"] or 0
+    setAmount("lep_check", lep_check)
+
     -- Level up limit
     local lu_limit = 35  -- default
     if slot_data["kh3_randomizer"] and slot_data["kh3_randomizer"]["limiters"] then
@@ -673,13 +760,17 @@ function autoFill(slot_data)
     end
     setAmount("lu_limit", lu_limit)
 
-    print(string.format("autoFill: battlegates=%s remind=%s lucky_emblems=%s kg=%s rg=%s le_limit=%d lu_limit=%d",
-        tostring((slot_data["include_battlegates"] or 0) == 1),
-        tostring((slot_data["include_remind"] or 0) == 1),
-        tostring((slot_data["include_lucky_emblems"] or 0) == 1),
-        tostring((slot_data["include_keyblade_graveyard"] or 1) == 1),
-        tostring((slot_data["include_data_battles"] or 0) == 1),
-        le_limit, lu_limit))
+    -- Moogle Shop Checks (top-level slot_data key, same pattern as lucky_emblems_per_check)
+    local ms_limit = slot_data["moogle_shop_checks"] or 0
+    setAmount("ms_limit", ms_limit)
+
+    print(string.format("autoFill: battlegates=%s remind=%s lucky_emblems=%s kg=%s rg=%s le_limit=%d lep_check=%d lu_limit=%d ms_limit=%d",
+        tostring(poolHasChecks("Battlegates")),
+        tostring(poolHasChecks("Re+Mind")),
+        tostring(poolHasChecks("Lucky Emblems")),
+        tostring(poolHasChecks("Keyblade Graveyard")),
+        tostring(poolHasChecks("Data Battle Rewards")),
+        le_limit, lep_check, lu_limit, ms_limit))
 end
 
 function onClear(slot_data)
@@ -710,8 +801,101 @@ function onClear(slot_data)
     end
 end
 
+-- Auto-follow: the KH3 client (Client.py's handle_poptracker_runtime_context_bounce)
+-- polls the running game once a second and, on every map change, sends a
+-- {"cmd": "Bounce", "slots": [slot], "data": {...}} packet whose "data" carries
+-- "kh3_world_code" -- the lowercase folder segment from the game's Unreal level
+-- path (e.g. "/Game/Levels/he/he_01/he_01" -> "he" for Olympus). This table maps
+-- those codes to this pack's top-level tracker.json tab titles so we can call
+-- Tracker:UiHint("ActivateTab", ...) and follow the player around automatically.
+--
+-- Source: confirmed against data_from_ap/runtime_map_ap_grant_classification.json
+-- (which enumerates every level path the apworld knows about) cross-referenced
+-- with extract_data.py's WORLD_TREASURE_TABLES (same two-letter world codes).
+-- Only codes with a confident, unambiguous world match are listed; codes for
+-- worlds with no dedicated tab (Dark World "dw", The Final World "ew",
+-- Unreality, 100 Acre Wood) or whose meaning wasn't confirmed ("ex", "gm",
+-- "po", "sf", "sp", "ss", "wm", "yt", "di", "dp") are intentionally omitted --
+-- an unmapped code just leaves the current tab alone instead of guessing wrong.
+-- The "_DLC" suffixed codes are Re:Mind's revisits of earlier worlds' assets
+-- (their checks belong to the separate "Re Mind" AP location table), so they
+-- route to the Re:Mind tab rather than the original world's tab.
+KH3_WORLD_CODE_TO_TAB = {
+    ["he"]     = "Olympus",
+    ["he_DLC"] = "Re:Mind",
+    ["tt"]     = "TT",
+    ["ts"]     = "Toy Box",
+    ["ra"]     = "Corona",
+    ["mi"]     = "Monstropolis",
+    ["fz"]     = "Arendelle",
+    ["ca"]     = "Caribbean",
+    ["bx"]     = "SanFran",
+    ["kg"]     = "KG",
+    ["kg_DLC"] = "Re:Mind",
+    ["bt"]     = "Re:Mind",
+    ["bt_DLC"] = "Re:Mind",
+    ["rg"]     = "Radiant Garden",
+    ["rg_DLC"] = "Radiant Garden",
+    ["GardenOfAssemblage"] = "Overworld",
+}
+
+-- Second-level auto-follow: within a world's top-level tab, some worlds split
+-- into several nested map tabs (see layouts/tracker.json). "kh3_room_id" (falls
+-- back to "kh3_level_id") is the finest-grained location the game currently
+-- sends us -- confirmed by the apworld dev to equal the Unreal level id (e.g.
+-- "fz_03"), NOT a sub-area within a level. So this table only lists room/level
+-- ids that map to exactly ONE nested tab; ids that cover several of this pack's
+-- nested tabs are intentionally left out (an unmapped id just leaves whichever
+-- nested tab is already selected alone, same as an unmapped world_code above).
+--
+-- Left out for that reason, pending finer-grained data from the apworld:
+--   he_02 (Mt. Olympus P1 vs P2), ts_02 (all 3 Galaxy Toys tabs),
+--   ra_01 (Corona's Forest: Hills A+Tower/Hills B+C/Marsh/Campsite),
+--   fz_* (none of Arendelle's 9 tabs map to a single fz_XX id),
+--   ca_02+ (every Caribbean island besides Port Royal is one open "High Seas"
+--   level with no per-island id -- this is the big one, see kh3_room_id).
+-- Source: same data_from_ap/runtime_map_ap_grant_classification.json notes
+-- used for KH3_WORLD_CODE_TO_TAB above.
+KH3_ROOM_ID_TO_SUBTAB = {
+    ["he_01"] = "Realm Of The Gods",
+    ["he_03"] = "Thebes",
+    ["he_04"] = "Thebes",
+    ["ts_01"] = "Andy's House",
+    ["ra_02"] = "The Kingdom",
+    ["mi_01"] = "Monsters Inc.",
+    ["mi_02"] = "The Factory",
+    ["mi_03"] = "Power Plant",
+    ["mi_04"] = "Door Vault",
+    ["ca_01"] = "Port Royal",
+}
+
+function onKH3MapChanged(message)
+    local data = message and message.data
+    if type(data) ~= "table" then return end
+    if data["kh3_tracker_event"] ~= "map_changed" then return end
+
+    local world_code = data["kh3_world_code"]
+    local tab = world_code and KH3_WORLD_CODE_TO_TAB[world_code]
+    if not tab then
+        print(string.format("onKH3MapChanged: no tab mapping for world_code=%s (level_path=%s)",
+            tostring(world_code), tostring(data["kh3_level_path"])))
+        return
+    end
+
+    print(string.format("onKH3MapChanged: world_code=%s -> ActivateTab '%s'", world_code, tab))
+    Tracker:UiHint("ActivateTab", tab)
+
+    local room_id = data["kh3_room_id"] or data["kh3_level_id"]
+    local subtab = room_id and KH3_ROOM_ID_TO_SUBTAB[room_id]
+    if subtab then
+        print(string.format("onKH3MapChanged: room_id=%s -> ActivateTab '%s'", room_id, subtab))
+        Tracker:UiHint("ActivateTab", subtab)
+    end
+end
+
 Archipelago:AddClearHandler("clear handler", onClear)
 Archipelago:AddItemHandler("item handler", onItem)
 Archipelago:AddLocationHandler("location handler", onLocation)
 Archipelago:AddSetReplyHandler("notify handler", OnNotify)
 Archipelago:AddRetrievedHandler("notify launch handler", OnNotifyLaunch)
+Archipelago:AddBouncedHandler("kh3 poptracker context bounce handler", onKH3MapChanged)

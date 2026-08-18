@@ -1,5 +1,11 @@
 [
   {
+    "name": "map_100AcreWoods_rabbitHouse",
+    "location_size": 20,
+    "location_boder_thickness": 1,
+    "img": "images/100AcreMap.png"
+  },
+  {
     "name": "map_olympus_thebes",
     "location_size": 10,
     "location_border_thickness": 1,
@@ -144,6 +150,12 @@
     "img": "images/map_arendelle_foothills.png"
   },
   {
+    "name": "map_caribbean_full_sea",
+    "location_size": 14,
+    "location_border_thickness": 2,
+    "img": "images/map_caribbean_full_sea.png"
+  },
+  {
     "name": "map_caribbean_huddled_isles",
     "location_size": 14,
     "location_border_thickness": 2,
@@ -196,6 +208,12 @@
     "location_size": 14,
     "location_border_thickness": 2,
     "img": "images/map_caribbean_gateway.png"
+  },
+  {
+    "name": "map_caribbean_isle_of_luck",
+    "location_size": 14,
+    "location_border_thickness": 2,
+    "img": "images/map_caribbean_isle_of_luck.png"
   },
   {
     "name": "map_caribbean_port_royal",

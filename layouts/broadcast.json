@@ -12,6 +12,9 @@
             "proof_of_times_past"
           ],
           [
+            "heart_piece"
+          ],
+          [
             "fire",
             "blizzard",
             "thunder"
@@ -20,6 +23,26 @@
             "water",
             "aero",
             "cure"
+          ],
+          [
+            "kingdom_key",
+            "kb_heros_origin",
+            "kb_favorite_deputy"
+          ],
+          [
+            "kb_happy_gear",
+            "kb_ever_after",
+            "kb_wheel_of_fate"
+          ],
+          [
+            "kb_crystal_snow",
+            "kb_nano_gear",
+            "kb_shooting_star"
+          ],
+          [
+            "kb_classic_tone",
+            "kb_oblivion",
+            "kb_oathkeeper"
           ]
         ]
       }
