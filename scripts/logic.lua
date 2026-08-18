@@ -313,8 +313,41 @@ function can_reach_emblem_milestone(required)
     return 0
 end
 
--- Ordered milestone thresholds as they appear in locations/lucky_emblems.json
-EMBLEM_MILESTONES = {1, 3, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 80, 90}
+-- Ordered milestone thresholds as they appear in locations/lucky_emblems.json.
+-- The apworld defines a check for every emblem count from 1 up to the total
+-- spot count in data_from_ap/lucky_emblem_spots.json ("total": 90); which of
+-- these are actually in logic for a given seed is a separate question, see
+-- is_active_emblem_milestone below.
+EMBLEM_MILESTONES = {}
+for i = 1, 90 do
+    EMBLEM_MILESTONES[i] = i
+end
+
+-- The KH3 apworld's fixed set of milestones with real (non-filler) vanilla
+-- rewards, used when the seed's "Lucky Emblems Per Check" option is 0
+-- (vanilla). Mirrors Data.py's VANILLA_LUCKY_EMBLEM_MILESTONES.
+VANILLA_LUCKY_EMBLEM_MILESTONES = {
+    [1] = true, [3] = true, [5] = true, [10] = true, [15] = true, [20] = true,
+    [25] = true, [30] = true, [35] = true, [40] = true, [45] = true, [50] = true,
+    [55] = true, [60] = true, [65] = true, [70] = true, [80] = true, [90] = true,
+}
+
+-- Access rule helper: $is_active_emblem_milestone|N
+-- Whether milestone N is actually a check for the connected seed: with
+-- "Lucky Emblems Per Check" (lep_check) set to a positive N, every Nth emblem
+-- is a check; at 0 (vanilla), only VANILLA_LUCKY_EMBLEM_MILESTONES are.
+-- Mirrors Data.py's filter_locations_for_options Lucky Emblems branch.
+function is_active_emblem_milestone(target)
+    target = tonumber(target) or 0
+    local lep_check_obj = Tracker:FindObjectForCode("lep_check")
+    local lep_check = lep_check_obj and lep_check_obj.AcquiredCount or 0
+    if lep_check > 0 then
+        if target <= 0 or target % lep_check ~= 0 then return 0 end
+        return 1
+    end
+    if VANILLA_LUCKY_EMBLEM_MILESTONES[target] then return 1 end
+    return 0
+end
 
 -- Access rule helper: $can_reach_emblem_milestone_gate|N
 -- Required half of the milestone access rule. Mirrors can_reach_level_gate: a milestone

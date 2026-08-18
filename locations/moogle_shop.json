@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Moogle Shop",
+    "children": [
+      {
+        "name": "Purchases",
+        "children": [
+          {
+            "name": "Moogle Shop - Archipelago Purchase 1",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 1",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:1"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 2",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 2",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:2"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 3",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 3",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:3"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 4",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 4",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:4"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 5",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 5",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:5"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 6",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 6",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:6"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 7",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 7",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:7"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 8",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 8",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:8"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 9",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 9",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:9"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 10",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 10",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:10"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 11",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 11",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:11"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 12",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 12",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:12"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 13",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 13",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:13"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 14",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 14",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:14"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 15",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 15",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:15"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 16",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 16",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:16"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 17",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 17",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:17"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 18",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 18",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:18"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 19",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 19",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:19"
+                ]
+              }
+            ],
+            "map_locations": []
+          },
+          {
+            "name": "Moogle Shop - Archipelago Purchase 20",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 20",
+                "item_count": 1,
+                "visibility_rules": [
+                  "ms_limit:20"
+                ]
+              }
+            ],
+            "map_locations": []
+          }
+        ]
+      }
+    ]
+  }
+]

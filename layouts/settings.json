@@ -13,7 +13,9 @@
       ["keyblade_graveyard_setting"],
       ["radiant_garden_setting"],
       ["lu_limit"],
-      ["le_limit"]
+      ["le_limit"],
+      ["lep_check"],
+      ["ms_limit"]
     ]
   }
 }

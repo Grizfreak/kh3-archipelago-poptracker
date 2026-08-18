@@ -147,7 +147,7 @@
               },
               {
                 "name": "Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit",
-                "ref": "Olympus - Events/Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit/Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit"
+                "ref": "Olympus - Events/Olympus - Thebes: Gardens Flame Cores/Find Golden Herc Figure in Thebes: Garden, Digged-Up Pit"
               },
               {
                 "name": "Find Golden Herc Figure in Thebes: Garden, In Building",
@@ -167,7 +167,7 @@
               },
               {
                 "name": "Olympus - EVENT_KEYBLADE_001 - RandomizedItem",
-                "ref": "Olympus - Events/Olympus - EVENT_KEYBLADE_001 - RandomizedItem/Olympus - EVENT_KEYBLADE_001 - RandomizedItem"
+                "ref": "Olympus - Events/Defeat Tornado Titan in Olympus: Realm of the Gods/Olympus - EVENT_KEYBLADE_001 - RandomizedItem"
               },
               {
                 "name": "Olympus - Mount Olympus: Cliff Ascent Heartless",
@@ -270,7 +270,7 @@
               },
               {
                 "name": "Twilight Town - EVENT_CKGAME_001 - RandomizedItem",
-                "ref": "Twilight Town - Events/Twilight Town - EVENT_CKGAME_001 - RandomizedItem/Twilight Town - EVENT_CKGAME_001 - RandomizedItem"
+                "ref": "Twilight Town - Events/Twilight Town - EVENT_KEYBLADE_002 - RandomizedItem/Twilight Town - EVENT_CKGAME_001 - RandomizedItem"
               },
               {
                 "name": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
@@ -417,11 +417,11 @@
               },
               {
                 "name": "Toy Box - EVENT_KEYBLADE_003 - RandomizedItem",
-                "ref": "Toy Box - Events/Toy Box - EVENT_KEYBLADE_003 - RandomizedItem/Toy Box - EVENT_KEYBLADE_003 - RandomizedItem"
+                "ref": "Toy Box - Events/Defeat King of Toys in Toy Box: Galaxy Toys/Toy Box - EVENT_KEYBLADE_003 - RandomizedItem"
               },
               {
                 "name": "Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem",
-                "ref": "Toy Box - Events/Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem/Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem"
+                "ref": "Toy Box - Events/Complete Verum Rex: Beat of Lead during the Story/Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem"
               },
               {
                 "name": "Toy Box - Andy's House Heartless",
@@ -580,7 +580,7 @@
               },
               {
                 "name": "Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem",
-                "ref": "Kingdom of Corona - Events/Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem/Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem"
+                "ref": "Kingdom of Corona - Events/Kingdom of Corona - The Forest: Tower Heartless/Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem"
               },
               {
                 "name": "Kingdom of Corona - The Forest: Hills Heartless",
@@ -608,7 +608,7 @@
               },
               {
                 "name": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower",
-                "ref": "Kingdom of Corona - Events/Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower/Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower"
+                "ref": "Kingdom of Corona - Events/Kingdom of Corona - The Forest: Tower Heartless/Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower"
               }
             ],
             "map_locations": [
@@ -715,15 +715,15 @@
               },
               {
                 "name": "Monstropolis - EVENT_008 - RandomizedItem",
-                "ref": "Monstropolis - Events/Monstropolis - EVENT_008 - RandomizedItem/Monstropolis - EVENT_008 - RandomizedItem"
+                "ref": "Monstropolis - Events/Monstropolis - The Factory: Second Floor Unversed/Monstropolis - EVENT_008 - RandomizedItem"
               },
               {
                 "name": "Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem",
-                "ref": "Monstropolis - Events/Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem/Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem"
+                "ref": "Monstropolis - Events/Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area/Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem"
               },
               {
                 "name": "Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem",
-                "ref": "Monstropolis - Events/Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem/Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem"
+                "ref": "Monstropolis - Events/Monstropolis  - The Power Plant: Tank Yard Heartless/Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem"
               },
               {
                 "name": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed",
@@ -878,7 +878,7 @@
               },
               {
                 "name": "Arendelle - EVENT_KEYBLADE_007 - RandomizedItem",
-                "ref": "Arendelle - Events/Arendelle - EVENT_KEYBLADE_007 - RandomizedItem/Arendelle - EVENT_KEYBLADE_007 - RandomizedItem"
+                "ref": "Arendelle - Events/Defeat Skoll in Arendelle/Arendelle - EVENT_KEYBLADE_007 - RandomizedItem"
               },
               {
                 "name": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge",
@@ -1157,19 +1157,19 @@
               },
               {
                 "name": "The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem",
-                "ref": "The Caribbean - Events/The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem/The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem"
+                "ref": "The Caribbean - Events/The Caribbean - Shipwreck Cove/The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem"
               },
               {
                 "name": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker",
-                "ref": "The Caribbean - Events/Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker/Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker"
+                "ref": "The Caribbean - Events/The Caribbean - Davy Jones' Locker/Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker"
               },
               {
                 "name": "1st Ship Battle in The Caribbean - Over the Edge",
-                "ref": "The Caribbean - Events/1st Ship Battle in The Caribbean - Over the Edge/1st Ship Battle in The Caribbean - Over the Edge"
+                "ref": "The Caribbean - Events/The Caribbean - Davy Jones' Locker/1st Ship Battle in The Caribbean - Over the Edge"
               },
               {
                 "name": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters",
-                "ref": "The Caribbean - Events/Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters/Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters"
+                "ref": "The Caribbean - Events/The Caribbean - Davy Jones' Locker/Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters"
               },
               {
                 "name": "Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern",
@@ -1177,23 +1177,23 @@
               },
               {
                 "name": "Race Luxord to Port Royal in The Caribbean",
-                "ref": "The Caribbean - Events/Race Luxord to Port Royal in The Caribbean/Race Luxord to Port Royal in The Caribbean"
+                "ref": "The Caribbean - Events/The Caribbean - Davy Jones' Locker/Race Luxord to Port Royal in The Caribbean"
               },
               {
                 "name": "2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters",
-                "ref": "The Caribbean - Events/2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters/2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters"
+                "ref": "The Caribbean - Events/The Caribbean - Davy Jones' Locker/2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters"
               },
               {
                 "name": "3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle",
-                "ref": "The Caribbean - Events/3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle/3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle"
+                "ref": "The Caribbean - Events/The Caribbean - Shipwreck Cove/3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle"
               },
               {
                 "name": "Defeat Kraken in The Caribbean - Shipwreck Cove",
-                "ref": "The Caribbean - Events/Defeat Kraken in The Caribbean - Shipwreck Cove/Defeat Kraken in The Caribbean - Shipwreck Cove"
+                "ref": "The Caribbean - Events/The Caribbean - Shipwreck Cove/Defeat Kraken in The Caribbean - Shipwreck Cove"
               },
               {
                 "name": "Defeat Davy Jones in The Caribbean - Shipwreck Cove",
-                "ref": "The Caribbean - Events/Defeat Davy Jones in The Caribbean - Shipwreck Cove/Defeat Davy Jones in The Caribbean - Shipwreck Cove"
+                "ref": "The Caribbean - Events/The Caribbean - Shipwreck Cove/Defeat Davy Jones in The Caribbean - Shipwreck Cove"
               }
             ],
             "map_locations": [
@@ -1360,23 +1360,23 @@
               },
               {
                 "name": "San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem/San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem"
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem"
               },
               {
                 "name": "San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem/San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem"
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem"
               },
               {
                 "name": "San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem/San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem"
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem"
               },
               {
                 "name": "Defeat Metal Troll in San Fransokyo: The Bridge",
-                "ref": "San Fransokyo - Events/Defeat Metal Troll in San Fransokyo: The Bridge/Defeat Metal Troll in San Fransokyo: The Bridge"
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/Defeat Metal Troll in San Fransokyo: The Bridge"
               },
               {
                 "name": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage",
-                "ref": "San Fransokyo - Events/Meet Big Hero 6 in San Fransokyo - Hiro's Garage/Meet Big Hero 6 in San Fransokyo - Hiro's Garage"
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/Meet Big Hero 6 in San Fransokyo - Hiro's Garage"
               },
               {
                 "name": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)",
@@ -1388,7 +1388,7 @@
               },
               {
                 "name": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)",
-                "ref": "San Fransokyo - Events/Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)/Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)"
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)"
               },
               {
                 "name": "Defeat Darkubes in San Fransokyo - The City (Night)",
@@ -1396,7 +1396,7 @@
               },
               {
                 "name": "Defeat Dark Baymax in San Fransokyo - The City (Day)",
-                "ref": "San Fransokyo - Events/Defeat Dark Baymax in San Fransokyo - The City (Day)/Defeat Dark Baymax in San Fransokyo - The City (Day)"
+                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/Defeat Dark Baymax in San Fransokyo - The City (Day)"
               }
             ],
             "map_locations": [
@@ -1447,7 +1447,7 @@
               },
               {
                 "name": "Defeat Lich in The Final World (San Fransokyo - The City: Central District)",
-                "ref": "Keyblade Graveyard - Events/Defeat Lich in The Final World (San Fransokyo - The City: Central District)/Defeat Lich in The Final World (San Fransokyo - The City: Central District)"
+                "ref": "Keyblade Graveyard - Events/Keyblade Graveyard - EVENT_KEYBLADE_011 - RandomizedItem/Defeat Lich in The Final World (San Fransokyo - The City: Central District)"
               },
               {
                 "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a",
@@ -1455,7 +1455,7 @@
               },
               {
                 "name": "Defeat Demon Tide in The Keyblade Graveyard: The Badlands",
-                "ref": "Keyblade Graveyard - Events/Defeat Demon Tide in The Keyblade Graveyard: The Badlands/Defeat Demon Tide in The Keyblade Graveyard: The Badlands"
+                "ref": "Keyblade Graveyard - Events/Keyblade Graveyard - EVENT_KEYBLADE_011 - RandomizedItem/Defeat Demon Tide in The Keyblade Graveyard: The Badlands"
               },
               {
                 "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard - The Skein of Severance: Trail of Valediction",
@@ -1479,15 +1479,15 @@
               },
               {
                 "name": "10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b",
-                "ref": "Keyblade Graveyard - Events/10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b/10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b"
+                "ref": "Keyblade Graveyard - Events/10,000 Enemy Fight in The Keyblade Graveyard: The Badlands a/10,000 Enemy Fight in The Keyblade Graveyard: The Badlands b"
               },
               {
                 "name": "After collecting 222 Soras in The Final World",
-                "ref": "Keyblade Graveyard - Events/After collecting 222 Soras in The Final World/After collecting 222 Soras in The Final World"
+                "ref": "Keyblade Graveyard - Events/Keyblade Graveyard - EVENT_KEYBLADE_011 - RandomizedItem/After collecting 222 Soras in The Final World"
               },
               {
                 "name": "After collecting 333 Soras in The Final World",
-                "ref": "Keyblade Graveyard - Events/After collecting 333 Soras in The Final World/After collecting 333 Soras in The Final World"
+                "ref": "Keyblade Graveyard - Events/Keyblade Graveyard - EVENT_KEYBLADE_011 - RandomizedItem/After collecting 333 Soras in The Final World"
               }
             ],
             "map_locations": [
@@ -1525,43 +1525,43 @@
             "sections": [
               {
                 "name": "Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)",
-                "ref": "Re Mind/Checks/Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)/Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/Defeat Dark Inferno χ in The Keyblade Graveyard (Re:Mind)"
               },
               {
                 "name": "Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)",
-                "ref": "Re Mind/Checks/Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)/Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/Defeat Anti-Aqua in The Keyblade Graveyard (Re:Mind)"
               },
               {
                 "name": "Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)",
-                "ref": "Re Mind/Checks/Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)/Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/Defeat Terra-Xehanort in The Keyblade Graveyard (Re:Mind)"
               },
               {
                 "name": "Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
-                "ref": "Re Mind/Checks/Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction/Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/Defeat Xigbar & Dark Riku in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction"
               },
               {
                 "name": "Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction",
-                "ref": "Re Mind/Checks/Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction/Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/Defeat Luxord, Marluxia, & Larxene in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Trail of Valediction"
               },
               {
                 "name": "Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
-                "ref": "Re Mind/Checks/Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation/Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/Defeat Vanitas & Terra-Xehanort in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation"
               },
               {
                 "name": "After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation",
-                "ref": "Re Mind/Checks/After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation/After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/After the Saïx boss battle in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Twist of Isolation"
               },
               {
                 "name": "Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings",
-                "ref": "Re Mind/Checks/Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings/Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/Defeat Young Xehanort, Ansem, & Xemnas in The Keyblade Graveyard (Re:Mind) - The Skein of Severance: Tower of Endings"
               },
               {
                 "name": "Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter",
-                "ref": "Re Mind/Checks/Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter/Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/Defeat Darkside in Scala ad Caelum (Re:Mind) - Breezy Quarter"
               },
               {
                 "name": "Defeat Armored Xehanort in Re:Mind",
-                "ref": "Re Mind/Checks/Defeat Armored Xehanort in Re:Mind/Defeat Armored Xehanort in Re:Mind"
+                "ref": "Re Mind/Checks/Re Mind - Story Battles/Defeat Armored Xehanort in Re:Mind"
               },
               {
                 "name": "Re Mind - Large Chest 1",
@@ -1990,15 +1990,15 @@
               },
               {
                 "name": "Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem",
-                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem"
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_003a - RandomizedItem/Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem"
               },
               {
                 "name": "Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem",
-                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem"
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_004a - RandomizedItem/Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem"
               },
               {
                 "name": "Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem",
-                "ref": "Battlegates/Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem/Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem"
+                "ref": "Battlegates/Battlegate Reports - EVENT_REPORT_005a - RandomizedItem/Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem"
               },
               {
                 "name": "Battlegate Rewards - EVENT_REPORT_006b - RandomizedItem",
@@ -2059,68 +2059,356 @@
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 1/Lucky Emblems - Milestone 1"
               },
               {
+                "name": "Lucky Emblems - Milestone 2",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 2/Lucky Emblems - Milestone 2"
+              },
+              {
                 "name": "Lucky Emblems - Milestone 3",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 3/Lucky Emblems - Milestone 3"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 4",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 4/Lucky Emblems - Milestone 4"
               },
               {
                 "name": "Lucky Emblems - Milestone 5",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 5/Lucky Emblems - Milestone 5"
               },
               {
+                "name": "Lucky Emblems - Milestone 6",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 6/Lucky Emblems - Milestone 6"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 7",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 7/Lucky Emblems - Milestone 7"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 8",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 8/Lucky Emblems - Milestone 8"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 9",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 9/Lucky Emblems - Milestone 9"
+              },
+              {
                 "name": "Lucky Emblems - Milestone 10",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 10/Lucky Emblems - Milestone 10"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 11",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 11/Lucky Emblems - Milestone 11"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 12",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 12/Lucky Emblems - Milestone 12"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 13",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 13/Lucky Emblems - Milestone 13"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 14",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 14/Lucky Emblems - Milestone 14"
               },
               {
                 "name": "Lucky Emblems - Milestone 15",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 15/Lucky Emblems - Milestone 15"
               },
               {
+                "name": "Lucky Emblems - Milestone 16",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 16/Lucky Emblems - Milestone 16"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 17",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 17/Lucky Emblems - Milestone 17"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 18",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 18/Lucky Emblems - Milestone 18"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 19",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 19/Lucky Emblems - Milestone 19"
+              },
+              {
                 "name": "Lucky Emblems - Milestone 20",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 20/Lucky Emblems - Milestone 20"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 21",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 21/Lucky Emblems - Milestone 21"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 22",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 22/Lucky Emblems - Milestone 22"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 23",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 23/Lucky Emblems - Milestone 23"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 24",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 24/Lucky Emblems - Milestone 24"
               },
               {
                 "name": "Lucky Emblems - Milestone 25",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 25/Lucky Emblems - Milestone 25"
               },
               {
+                "name": "Lucky Emblems - Milestone 26",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 26/Lucky Emblems - Milestone 26"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 27",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 27/Lucky Emblems - Milestone 27"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 28",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 28/Lucky Emblems - Milestone 28"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 29",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 29/Lucky Emblems - Milestone 29"
+              },
+              {
                 "name": "Lucky Emblems - Milestone 30",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 30/Lucky Emblems - Milestone 30"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 31",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 31/Lucky Emblems - Milestone 31"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 32",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 32/Lucky Emblems - Milestone 32"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 33",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 33/Lucky Emblems - Milestone 33"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 34",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 34/Lucky Emblems - Milestone 34"
               },
               {
                 "name": "Lucky Emblems - Milestone 35",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 35/Lucky Emblems - Milestone 35"
               },
               {
+                "name": "Lucky Emblems - Milestone 36",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 36/Lucky Emblems - Milestone 36"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 37",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 37/Lucky Emblems - Milestone 37"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 38",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 38/Lucky Emblems - Milestone 38"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 39",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 39/Lucky Emblems - Milestone 39"
+              },
+              {
                 "name": "Lucky Emblems - Milestone 40",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 40/Lucky Emblems - Milestone 40"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 41",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 41/Lucky Emblems - Milestone 41"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 42",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 42/Lucky Emblems - Milestone 42"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 43",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 43/Lucky Emblems - Milestone 43"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 44",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 44/Lucky Emblems - Milestone 44"
               },
               {
                 "name": "Lucky Emblems - Milestone 45",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 45/Lucky Emblems - Milestone 45"
               },
               {
+                "name": "Lucky Emblems - Milestone 46",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 46/Lucky Emblems - Milestone 46"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 47",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 47/Lucky Emblems - Milestone 47"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 48",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 48/Lucky Emblems - Milestone 48"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 49",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 49/Lucky Emblems - Milestone 49"
+              },
+              {
                 "name": "Lucky Emblems - Milestone 50",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 50/Lucky Emblems - Milestone 50"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 51",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 51/Lucky Emblems - Milestone 51"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 52",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 52/Lucky Emblems - Milestone 52"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 53",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 53/Lucky Emblems - Milestone 53"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 54",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 54/Lucky Emblems - Milestone 54"
               },
               {
                 "name": "Lucky Emblems - Milestone 55",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 55/Lucky Emblems - Milestone 55"
               },
               {
+                "name": "Lucky Emblems - Milestone 56",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 56/Lucky Emblems - Milestone 56"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 57",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 57/Lucky Emblems - Milestone 57"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 58",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 58/Lucky Emblems - Milestone 58"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 59",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 59/Lucky Emblems - Milestone 59"
+              },
+              {
                 "name": "Lucky Emblems - Milestone 60",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 60/Lucky Emblems - Milestone 60"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 61",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 61/Lucky Emblems - Milestone 61"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 62",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 62/Lucky Emblems - Milestone 62"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 63",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 63/Lucky Emblems - Milestone 63"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 64",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 64/Lucky Emblems - Milestone 64"
               },
               {
                 "name": "Lucky Emblems - Milestone 65",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 65/Lucky Emblems - Milestone 65"
               },
               {
+                "name": "Lucky Emblems - Milestone 66",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 66/Lucky Emblems - Milestone 66"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 67",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 67/Lucky Emblems - Milestone 67"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 68",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 68/Lucky Emblems - Milestone 68"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 69",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 69/Lucky Emblems - Milestone 69"
+              },
+              {
                 "name": "Lucky Emblems - Milestone 70",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 70/Lucky Emblems - Milestone 70"
               },
               {
+                "name": "Lucky Emblems - Milestone 71",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 71/Lucky Emblems - Milestone 71"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 72",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 72/Lucky Emblems - Milestone 72"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 73",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 73/Lucky Emblems - Milestone 73"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 74",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 74/Lucky Emblems - Milestone 74"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 75",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 75/Lucky Emblems - Milestone 75"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 76",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 76/Lucky Emblems - Milestone 76"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 77",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 77/Lucky Emblems - Milestone 77"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 78",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 78/Lucky Emblems - Milestone 78"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 79",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 79/Lucky Emblems - Milestone 79"
+              },
+              {
                 "name": "Lucky Emblems - Milestone 80",
                 "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 80/Lucky Emblems - Milestone 80"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 81",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 81/Lucky Emblems - Milestone 81"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 82",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 82/Lucky Emblems - Milestone 82"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 83",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 83/Lucky Emblems - Milestone 83"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 84",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 84/Lucky Emblems - Milestone 84"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 85",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 85/Lucky Emblems - Milestone 85"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 86",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 86/Lucky Emblems - Milestone 86"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 87",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 87/Lucky Emblems - Milestone 87"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 88",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 88/Lucky Emblems - Milestone 88"
+              },
+              {
+                "name": "Lucky Emblems - Milestone 89",
+                "ref": "Lucky Emblems/Milestones/Lucky Emblems - Milestone 89/Lucky Emblems - Milestone 89"
               },
               {
                 "name": "Lucky Emblems - Milestone 90",
@@ -2139,6 +2427,98 @@
             ],
             "access_rules": [
               "active_lucky_emblems"
+            ]
+          },
+          {
+            "name": "Moogle Shop - All Checks",
+            "sections": [
+              {
+                "name": "Moogle Shop - Archipelago Purchase 1",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 1/Moogle Shop - Archipelago Purchase 1"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 2",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 2/Moogle Shop - Archipelago Purchase 2"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 3",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 3/Moogle Shop - Archipelago Purchase 3"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 4",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 4/Moogle Shop - Archipelago Purchase 4"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 5",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 5/Moogle Shop - Archipelago Purchase 5"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 6",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 6/Moogle Shop - Archipelago Purchase 6"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 7",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 7/Moogle Shop - Archipelago Purchase 7"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 8",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 8/Moogle Shop - Archipelago Purchase 8"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 9",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 9/Moogle Shop - Archipelago Purchase 9"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 10",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 10/Moogle Shop - Archipelago Purchase 10"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 11",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 11/Moogle Shop - Archipelago Purchase 11"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 12",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 12/Moogle Shop - Archipelago Purchase 12"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 13",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 13/Moogle Shop - Archipelago Purchase 13"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 14",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 14/Moogle Shop - Archipelago Purchase 14"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 15",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 15/Moogle Shop - Archipelago Purchase 15"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 16",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 16/Moogle Shop - Archipelago Purchase 16"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 17",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 17/Moogle Shop - Archipelago Purchase 17"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 18",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 18/Moogle Shop - Archipelago Purchase 18"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 19",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 19/Moogle Shop - Archipelago Purchase 19"
+              },
+              {
+                "name": "Moogle Shop - Archipelago Purchase 20",
+                "ref": "Moogle Shop/Purchases/Moogle Shop - Archipelago Purchase 20/Moogle Shop - Archipelago Purchase 20"
+              }
+            ],
+            "map_locations": [
+              {
+                "map": "map_overworld",
+                "x": 144,
+                "y": 545
+              }
             ]
           }
         ]

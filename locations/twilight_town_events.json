@@ -16,23 +16,7 @@
               "ability_doubleflight",
               "$has_any|ability_doubleflight|ability_high_jump"
             ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Twilight Town - EVENT_KEYBLADE_010 - RandomizedItem",
-        "sections": [
-          {
-            "name": "Twilight Town - EVENT_KEYBLADE_010 - RandomizedItem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Twilight Town - EVENT_CKGAME_001 - RandomizedItem",
-        "sections": [
+          },
           {
             "name": "Twilight Town - EVENT_CKGAME_001 - RandomizedItem",
             "item_count": 1,
@@ -43,7 +27,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 210,
+            "y": 470,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Demon Tide in Twilight Town - The Neighborhood: Tram Common",
@@ -53,7 +44,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 60,
+            "y": 390,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Twilight Town - The Woods Powerwilds",
@@ -63,7 +61,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 489,
+            "y": 475,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Twilight Town - The Old Mansion Heartless & Nobodies",
@@ -73,7 +78,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 650,
+            "y": 150,
+            "shape": "diamond"
+          }
+        ]
       }
     ]
   }

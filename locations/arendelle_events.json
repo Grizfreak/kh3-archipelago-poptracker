@@ -6,19 +6,6 @@
     ],
     "children": [
       {
-        "name": "Arendelle - EVENT_KEYBLADE_007 - RandomizedItem",
-        "sections": [
-          {
-            "name": "Arendelle - EVENT_KEYBLADE_007 - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "ability_pole_spin,ability_air_slide,unlock_wall_run"
-            ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
         "name": "Defeat Rock Troll & Winterhorns in Arendelle - The North Mountain: Gorge",
         "sections": [
           {
@@ -29,7 +16,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_gorge",
+            "x": 420,
+            "y": 674,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "The Labyrinth of Ice: Middle Tier Ninjas I",
@@ -42,7 +36,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_middle",
+            "x": 247,
+            "y": 102,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "The Labyrinth of Ice: Lower Tier Ninjas II",
@@ -55,7 +56,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_mid_lower",
+            "x": 162,
+            "y": 291,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "The Labyrinth of Ice: Middle Tier Ninjas III",
@@ -68,7 +76,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_mid_lower",
+            "x": 640,
+            "y": 239,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "The Labyrinth of Ice: Middle Tier Ninjas IV",
@@ -81,7 +96,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_upper",
+            "x": 322,
+            "y": 231,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Marshmallow in Arendelle - The North Mountain: Mountain Ridge",
@@ -94,7 +116,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_frozen_wall",
+            "x": 19,
+            "y": 251,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Frozen Slider Frost Serpents",
@@ -107,7 +136,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_valley_of_ice",
+            "x": 543,
+            "y": 344,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Arendelle - The North Mountain: The Valley of Ice Heartless",
@@ -120,7 +156,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_valley_of_ice",
+            "x": 405,
+            "y": 124,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Skoll in Arendelle",
@@ -131,9 +174,23 @@
             "access_rules": [
               "ability_pole_spin,ability_air_slide,unlock_wall_run"
             ]
+          },
+          {
+            "name": "Arendelle - EVENT_KEYBLADE_007 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "ability_pole_spin,ability_air_slide,unlock_wall_run"
+            ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_foothills",
+            "x": 379,
+            "y": 533,
+            "shape": "diamond"
+          }
+        ]
       }
     ]
   }
