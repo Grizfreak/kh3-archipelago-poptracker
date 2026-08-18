@@ -6,33 +6,6 @@
     ],
     "children": [
       {
-        "name": "Toy Box - EVENT_KEYBLADE_003 - RandomizedItem",
-        "sections": [
-          {
-            "name": "Toy Box - EVENT_KEYBLADE_003 - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "unlock_wall_run"
-            ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem",
-        "sections": [
-          {
-            "name": "Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "unlock_wall_run",
-              "ability_high_jump,ability_doubleflight"
-            ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
         "name": "Toy Box - Andy's House Heartless",
         "sections": [
           {
@@ -40,7 +13,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_toybox_andys_house",
+            "x": 559,
+            "y": 679,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Toy Box - Galaxy Toys: Main Floor: 1F Gigas",
@@ -50,7 +30,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_1st_top",
+            "x": 181,
+            "y": 344,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Toy Box - Galaxy Toys: Action Figures Supreme Smashers",
@@ -60,7 +47,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_2nd_vents",
+            "x": 262,
+            "y": 85,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Angelic Amber in Toy Box - Babies & Toddlers: Dolls",
@@ -74,7 +68,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 630,
+            "y": 372,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "After the UFO Mini-Boss in Toy Box - Babies & Toddlers: Outdoors",
@@ -88,7 +89,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 212,
+            "y": 469,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Complete Verum Rex: Beat of Lead during the Story",
@@ -100,9 +108,24 @@
               "unlock_wall_run",
               "ability_high_jump,ability_doubleflight"
             ]
+          },
+          {
+            "name": "Toy Box - EVENT_HEARTBINDER_002 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_high_jump,ability_doubleflight"
+            ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 452,
+            "y": 18,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat King of Toys in Toy Box: Galaxy Toys",
@@ -113,9 +136,23 @@
             "access_rules": [
               "unlock_wall_run"
             ]
+          },
+          {
+            "name": "Toy Box - EVENT_KEYBLADE_003 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 209,
+            "y": 344,
+            "shape": "diamond"
+          }
+        ]
       }
     ]
   }

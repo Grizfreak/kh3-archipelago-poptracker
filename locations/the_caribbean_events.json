@@ -6,46 +6,6 @@
     ],
     "children": [
       {
-        "name": "The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem",
-        "sections": [
-          {
-            "name": "The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker",
-        "sections": [
-          {
-            "name": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker",
-            "item_count": 1
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "1st Ship Battle in The Caribbean - Over the Edge",
-        "sections": [
-          {
-            "name": "1st Ship Battle in The Caribbean - Over the Edge",
-            "item_count": 1
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters",
-        "sections": [
-          {
-            "name": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters",
-            "item_count": 1
-          }
-        ],
-        "map_locations": []
-      },
-      {
         "name": "Defeat Lightning Angler in The Caribbean - The High Seas: Undersea Cavern",
         "sections": [
           {
@@ -53,57 +13,76 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_caribbean_huddled_isles",
+            "x": 591,
+            "y": 524,
+            "shape": "diamond"
+          }
+        ]
       },
       {
-        "name": "Race Luxord to Port Royal in The Caribbean",
+        "name": "The Caribbean - Davy Jones' Locker",
         "sections": [
+          {
+            "name": "Defeat Anchor Raiders in The Caribbean - Davy Jones' Locker",
+            "item_count": 1
+          },
+          {
+            "name": "1st Ship Battle in The Caribbean - Over the Edge",
+            "item_count": 1
+          },
+          {
+            "name": "Defeat Raging Vulture in The Caribbean - The High Seas: Southern Waters",
+            "item_count": 1
+          },
           {
             "name": "Race Luxord to Port Royal in The Caribbean",
             "item_count": 1
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters",
-        "sections": [
+          },
           {
             "name": "2nd Ship Battle in The Caribbean: The High Seas - Port Royal Waters",
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_caribbean_full_sea",
+            "x": 360,
+            "y": 793,
+            "shape": "diamond"
+          }
+        ]
       },
       {
-        "name": "3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle",
+        "name": "The Caribbean - Shipwreck Cove",
         "sections": [
+          {
+            "name": "The Caribbean - EVENT_KEYBLADE_008 - RandomizedItem",
+            "item_count": 1
+          },
+          {
+            "name": "Defeat Kraken in The Caribbean - Shipwreck Cove",
+            "item_count": 1
+          },
+          {
+            "name": "Defeat Davy Jones in The Caribbean - Shipwreck Cove",
+            "item_count": 1
+          },
           {
             "name": "3rd Ship Battle in The Caribbean: The High Seas - Forsaken Isle",
             "item_count": 1
           }
         ],
-        "map_locations": []
-      },
-      {
-        "name": "Defeat Kraken in The Caribbean - Shipwreck Cove",
-        "sections": [
+        "map_locations": [
           {
-            "name": "Defeat Kraken in The Caribbean - Shipwreck Cove",
-            "item_count": 1
+            "map": "map_caribbean_full_sea",
+            "x": 635,
+            "y": 53,
+            "shape": "diamond"
           }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Defeat Davy Jones in The Caribbean - Shipwreck Cove",
-        "sections": [
-          {
-            "name": "Defeat Davy Jones in The Caribbean - Shipwreck Cove",
-            "item_count": 1
-          }
-        ],
-        "map_locations": []
+        ]
       }
     ]
   }

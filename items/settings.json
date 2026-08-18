@@ -142,7 +142,29 @@
     "type": "consumable",
     "min_quantity": 0,
     "max_quantity": 90,
-    "increment": 5,
+    "increment": 1,
     "initial_quantity": 90
+  },
+  {
+    "name": "Lucky Emblems Per Check",
+    "img": "images/items/Lucky Emblems.png",
+    "overlay_font_size": 21,
+    "codes": "lep_check",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 90,
+    "increment": 1,
+    "initial_quantity": 0
+  },
+  {
+    "name": "Moogle Shop Checks",
+    "img": "images/items/Item.png",
+    "overlay_font_size": 21,
+    "codes": "ms_limit",
+    "type": "consumable",
+    "min_quantity": 0,
+    "max_quantity": 20,
+    "increment": 1,
+    "initial_quantity": 0
   }
 ]

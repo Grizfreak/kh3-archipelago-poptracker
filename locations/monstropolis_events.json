@@ -6,44 +6,6 @@
     ],
     "children": [
       {
-        "name": "Monstropolis - EVENT_008 - RandomizedItem",
-        "sections": [
-          {
-            "name": "Monstropolis - EVENT_008 - RandomizedItem",
-            "item_count": 1
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem",
-        "sections": [
-          {
-            "name": "Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "unlock_wall_run",
-              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
-            ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem",
-        "sections": [
-          {
-            "name": "Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "unlock_wall_run",
-              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
-            ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
         "name": "Monstropolis - Monsters Inc.: Lobby & Offices Unversed",
         "sections": [
           {
@@ -51,7 +13,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_monsters_inc",
+            "x": 413,
+            "y": 599,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Monstropolis - Monsters Inc.: Laugh Floor Unversed",
@@ -61,7 +30,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_monsters_inc",
+            "x": 560,
+            "y": 150,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Monstropolis - The Door Vault: Upper Level Heartless",
@@ -71,7 +47,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_monsters_inc",
+            "x": 385,
+            "y": 42,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Monstropolis - The Factory: Second Floor Heartless & Unversed",
@@ -81,7 +64,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_factory",
+            "x": 234,
+            "y": 357,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Monstropolis - The Factory: Second Floor Unversed",
@@ -89,9 +79,20 @@
           {
             "name": "Monstropolis - The Factory: Second Floor Unversed",
             "item_count": 1
+          },
+          {
+            "name": "Monstropolis - EVENT_008 - RandomizedItem",
+            "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_factory",
+            "x": 79,
+            "y": 149,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Monstropolis - The Power Plant: Accessway Heartless & Unversed",
@@ -101,7 +102,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_power_plant",
+            "x": 107,
+            "y": 282,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Monstropolis  - The Power Plant: Tank Yard Heartless",
@@ -113,9 +121,24 @@
               "unlock_wall_run",
               "ability_superjump,ability_wall_kick,ability_air_slide"
             ]
+          },
+          {
+            "name": "Monstropolis - EVENT_HEARTBINDER_003 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_door_vault",
+            "x": 450,
+            "y": 170,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Monstropolis - The Power Plant: Tank Yard Unversed",
@@ -129,7 +152,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_door_vault",
+            "x": 575,
+            "y": 373,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Lump of Horror in Monstropolis - The Door Vault: Service Area",
@@ -141,9 +171,24 @@
               "unlock_wall_run,ability_air_slide,ability_block,unlock_magic,$has_any|dream_heartbinder|ocean_heartbinder|ohana_heartbinder|pixel_heartbinder|pride_heartbinder",
               "ability_superjump,ability_wall_kick,ability_air_slide,ability_air_slide,ability_block,unlock_magic,$has_any|dream_heartbinder|ocean_heartbinder|ohana_heartbinder|pixel_heartbinder|pride_heartbinder"
             ]
+          },
+          {
+            "name": "Monstropolis - EVENT_KEYBLADE_005 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run",
+              "ability_superjump,ability_wall_kick,ability_air_slide,ability_doubleflight"
+            ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_door_vault",
+            "x": 69,
+            "y": 176,
+            "shape": "diamond"
+          }
+        ]
       }
     ]
   }

@@ -6,19 +6,6 @@
     ],
     "children": [
       {
-        "name": "Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem",
-        "sections": [
-          {
-            "name": "Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "unlock_wall_run"
-            ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
         "name": "Kingdom of Corona - The Forest: Hills Heartless",
         "sections": [
           {
@@ -26,7 +13,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_hills_a",
+            "x": 291,
+            "y": 97,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Kingdom of Corona - The Forest: Hills Chief Puffs & Puffballs",
@@ -36,7 +30,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_hills_a",
+            "x": 55,
+            "y": 125,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Kingdom of Corona - The Forest: Hills Reapers",
@@ -46,7 +47,14 @@
             "item_count": 1
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_hills_bc",
+            "x": 87,
+            "y": 463,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Defeat Chaos Carriage in Kingdom of Corona",
@@ -59,7 +67,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_campsite",
+            "x": 66,
+            "y": 141,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Kingdom of Corona - The Kingdom: Wharf Nobodies",
@@ -72,7 +87,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_kingdom",
+            "x": 162,
+            "y": 178,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Kingdom of Corona - The Forest: Tower Heartless",
@@ -83,13 +105,14 @@
             "access_rules": [
               "unlock_wall_run"
             ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower",
-        "sections": [
+          },
+          {
+            "name": "Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "unlock_wall_run"
+            ]
+          },
           {
             "name": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower",
             "item_count": 1,
@@ -98,7 +121,14 @@
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_hills_a",
+            "x": 636,
+            "y": 216,
+            "shape": "diamond"
+          }
+        ]
       }
     ]
   }

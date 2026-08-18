@@ -14,12 +14,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_001a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 420,
+            "y": 400,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_002a - RandomizedItem",
@@ -27,12 +37,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_002a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 550,
+            "y": 140,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_003a - RandomizedItem",
@@ -41,11 +61,25 @@
             "name": "Battlegate Reports - EVENT_REPORT_003a - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+            ]
+          },
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_twilight_town",
+            "x": 670,
+            "y": 170,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_004a - RandomizedItem",
@@ -54,11 +88,25 @@
             "name": "Battlegate Reports - EVENT_REPORT_004a - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+            ]
+          },
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_3rd",
+            "x": 199,
+            "y": 354,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_005a - RandomizedItem",
@@ -67,11 +115,25 @@
             "name": "Battlegate Reports - EVENT_REPORT_005a - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+            ]
+          },
+          {
+            "name": "Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem",
+            "item_count": 1,
+            "access_rules": [
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_toybox_galaxy_1st_top",
+            "x": 174,
+            "y": 471,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_006a - RandomizedItem",
@@ -79,12 +141,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_006a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_marsh",
+            "x": 400,
+            "y": 150,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_007a - RandomizedItem",
@@ -92,12 +164,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_007a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_hills_a",
+            "x": 260,
+            "y": 110,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_008a - RandomizedItem",
@@ -105,12 +187,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_008a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_power_plant",
+            "x": 480,
+            "y": 560,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_009a - RandomizedItem",
@@ -118,12 +210,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_009a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_middle",
+            "x": 140,
+            "y": 100,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_010a - RandomizedItem",
@@ -131,12 +233,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_010a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_caribbean_huddled_isles",
+            "x": 580,
+            "y": 600,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_011a - RandomizedItem",
@@ -144,12 +256,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_011a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 150,
+            "y": 200,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_012a - RandomizedItem",
@@ -157,12 +279,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_012a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 545,
+            "y": 110,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Reports - EVENT_REPORT_013a - RandomizedItem",
@@ -170,12 +302,22 @@
           {
             "name": "Battlegate Reports - EVENT_REPORT_013a - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_keyblade_graveyard",
+            "x": 120,
+            "y": 430,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_001b - RandomizedItem",
@@ -183,12 +325,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_001b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 420,
+            "y": 400,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_002b - RandomizedItem",
@@ -196,51 +348,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_002b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
-      },
-      {
-        "name": "Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem",
-        "sections": [
+        "map_locations": [
           {
-            "name": "Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
-            ]
+            "map": "map_olympus_realm_of_the_gods",
+            "x": 550,
+            "y": 140,
+            "shape": "diamond"
           }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem",
-        "sections": [
-          {
-            "name": "Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
-            ]
-          }
-        ],
-        "map_locations": []
-      },
-      {
-        "name": "Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem",
-        "sections": [
-          {
-            "name": "Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem",
-            "item_count": 1,
-            "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
-            ]
-          }
-        ],
-        "map_locations": []
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_006b - RandomizedItem",
@@ -248,12 +371,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_006b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_marsh",
+            "x": 400,
+            "y": 150,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_007b - RandomizedItem",
@@ -261,12 +394,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_007b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_corona_hills_a",
+            "x": 260,
+            "y": 110,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_008b - RandomizedItem",
@@ -274,12 +417,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_008b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_monstropolis_power_plant",
+            "x": 480,
+            "y": 560,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_009b - RandomizedItem",
@@ -287,12 +440,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_009b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_arendelle_lab_middle",
+            "x": 140,
+            "y": 100,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_010b - RandomizedItem",
@@ -300,12 +463,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_010b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_caribbean_huddled_isles",
+            "x": 580,
+            "y": 600,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_011b - RandomizedItem",
@@ -313,12 +486,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_011b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 150,
+            "y": 200,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_012b - RandomizedItem",
@@ -326,12 +509,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_012b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_sanfransokyo",
+            "x": 545,
+            "y": 110,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_013b - RandomizedItem",
@@ -339,12 +532,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_013b - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_keyblade_graveyard",
+            "x": 120,
+            "y": 430,
+            "shape": "diamond"
+          }
+        ]
       },
       {
         "name": "Battlegate Rewards - EVENT_REPORT_014 - RandomizedItem",
@@ -352,12 +555,22 @@
           {
             "name": "Battlegate Rewards - EVENT_REPORT_014 - RandomizedItem",
             "item_count": 1,
+            "visibility_rules": [
+              "battlegate_currently_unavailable"
+            ],
             "access_rules": [
-              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
+              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
             ]
           }
         ],
-        "map_locations": []
+        "map_locations": [
+          {
+            "map": "map_keyblade_graveyard",
+            "x": 40,
+            "y": 480,
+            "shape": "diamond"
+          }
+        ]
       }
     ]
   }

@@ -14,7 +14,14 @@
                 "item_count": 1
               }
             ],
-            "map_locations": []
+            "map_locations": [
+              {
+                "map": "map_100AcreWoods_rabbitHouse",
+                "x": 850,
+                "y": 432,
+                "shape": "diamond"
+              }
+            ]
           }
         ]
       }
