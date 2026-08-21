@@ -1,5 +1,28 @@
 [
 {
+    "package_version": "0.3.2",
+    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.3.2/kh3-archipelago-poptracker-v0.3.2.zip",
+    "sha256": "",
+    "changelog": [
+      "Fixed the San Fransokyo 'Chests 1+30' map pin (Small Chest 1 and 29) not auto-checking due to a group name mismatch between the location file and the autotracking code.",
+      "Fixed roughly 30 event/bonus locations across Olympus, Twilight Town, Toy Box, Kingdom of Corona, Monstropolis, Arendelle, San Fransokyo, The Caribbean, Keyblade Graveyard and Re Mind not auto-checking, caused by autotracking codes pointing at the wrong parent location."
+    ]
+  },
+{
+    "package_version": "0.3.1",
+    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.3.1/kh3-archipelago-poptracker-v0.3.1.zip",
+    "sha256": "",
+    "changelog": [
+      "Added Moogle Shop tracking.",
+      "Added the 100 Acre Wood map.",
+      "Fixed controller-unlocks autotracking.",
+      "Cleaned up the item dock UI and location layout.",
+      "Added the Caribbean Sea Map with grouped island chest/event listings.",
+      "Merged several locations across worlds.",
+      "Added second-level auto-tab-switching for autotracking."
+    ]
+  },
+{
     "package_version": "0.3.0",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.3.0/kh3-archipelago-poptracker-v0.3.0.zip",
     "sha256": "",
