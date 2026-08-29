@@ -18,7 +18,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -41,7 +41,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -61,14 +61,14 @@
             "name": "Battlegate Reports - EVENT_REPORT_003a - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           },
           {
             "name": "Battlegate Rewards - EVENT_REPORT_003b - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -88,14 +88,14 @@
             "name": "Battlegate Reports - EVENT_REPORT_004a - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           },
           {
             "name": "Battlegate Rewards - EVENT_REPORT_004b - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -115,14 +115,14 @@
             "name": "Battlegate Reports - EVENT_REPORT_005a - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           },
           {
             "name": "Battlegate Rewards - EVENT_REPORT_005b - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -145,7 +145,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -168,7 +168,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -191,7 +191,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -214,7 +214,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -237,7 +237,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -260,7 +260,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -283,7 +283,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -306,7 +306,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -329,7 +329,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -352,7 +352,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -375,7 +375,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -398,7 +398,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -421,7 +421,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -444,7 +444,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -467,7 +467,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -490,7 +490,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -513,7 +513,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -536,7 +536,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],
@@ -559,7 +559,7 @@
               "battlegate_currently_unavailable"
             ],
             "access_rules": [
-              "[ability_block],[ability_air_slide],[cure:1],[ability_dodge_roll],[unlock_magic]"
+              "ability_block,ability_air_slide,cure:1,ability_dodge_roll,unlock_magic"
             ]
           }
         ],

@@ -110,14 +110,14 @@
             "name": "Kingdom of Corona - EVENT_KEYBLADE_004 - RandomizedItem",
             "item_count": 1,
             "access_rules": [
-              "unlock_wall_run"
+              "unlock_wall_run,$has_at_least|2|ability_air_slide|ability_block|ability_dodge_roll"
             ]
           },
           {
             "name": "Defeat Grim Guardianess in Kingdom of Corona - The Forest: Tower",
             "item_count": 1,
             "access_rules": [
-              "unlock_wall_run,ability_air_slide,ability_block"
+              "unlock_wall_run,$has_at_least|2|ability_air_slide|ability_block|ability_dodge_roll"
             ]
           }
         ],
