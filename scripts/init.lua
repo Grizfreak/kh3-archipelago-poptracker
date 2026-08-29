@@ -8,14 +8,25 @@ Tracker:AddItems("items/settings.json")
 -- Logic functions (must load before locations reference them)
 ScriptHost:LoadScript("scripts/logic.lua")
 
--- Maps
-Tracker:AddMaps("maps/maps.json")
+-- Maps (dark variants swap in dark-themed map backgrounds; marker positions are identical)
+local dark_variant = (Tracker.ActiveVariantUID == "dark_vertical" or Tracker.ActiveVariantUID == "dark_horizontal")
+if dark_variant then
+    Tracker:AddMaps("maps/maps_dark.json")
+else
+    Tracker:AddMaps("maps/maps.json")
+end
 
 -- Locations
 ScriptHost:LoadScript("scripts/locations.lua")
 
--- Layouts
-Tracker:AddLayouts("layouts/tracker.json")
+-- Layouts (shared pieces, then the orientation-specific tracker_default)
+Tracker:AddLayouts("layouts/common.json")
+local horizontal_variant = (Tracker.ActiveVariantUID == "horizontal" or Tracker.ActiveVariantUID == "dark_horizontal")
+if horizontal_variant then
+    Tracker:AddLayouts("layouts/tracker_horizontal.json")
+else
+    Tracker:AddLayouts("layouts/tracker.json")
+end
 Tracker:AddLayouts("layouts/broadcast.json")
 Tracker:AddLayouts("layouts/settings.json")
 

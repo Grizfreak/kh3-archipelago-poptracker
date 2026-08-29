@@ -32,7 +32,7 @@
         "map_locations": [
           {
             "map": "map_caribbean_isla_mastiles",
-            "x": 527,
+            "x": 477,
             "y": 415
           }
         ]
@@ -131,7 +131,7 @@
         "map_locations": [
           {
             "map": "map_caribbean_isla_verdemontana",
-            "x": 296,
+            "x": 246,
             "y": 173
           }
         ]
@@ -184,7 +184,7 @@
         "map_locations": [
           {
             "map": "map_caribbean_isla_mastiles",
-            "x": 425,
+            "x": 375,
             "y": 228
           }
         ]
@@ -380,7 +380,7 @@
         "map_locations": [
           {
             "map": "map_caribbean_isla_verdemontana",
-            "x": 610,
+            "x": 560,
             "y": 71
           }
         ]
@@ -469,7 +469,7 @@
         "map_locations": [
           {
             "map": "map_caribbean_isla_verdemontana",
-            "x": 465,
+            "x": 415,
             "y": 331
           }
         ]
@@ -758,7 +758,7 @@
         "map_locations": [
           {
             "map": "map_caribbean_isla_mastiles",
-            "x": 630,
+            "x": 580,
             "y": 490
           }
         ]
