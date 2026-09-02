@@ -3,7 +3,7 @@
     "type": "container",
     "content": {
       "type": "dock",
-      "dock": "right",
+      "dock": "bottom",
       "content": [
         {
           "type": "layout",
@@ -11,23 +11,23 @@
         },
         {
           "type": "dock",
-          "dock": "left",
+          "dock": "bottom",
           "content": [
             {
               "type": "layout",
-              "key": "item_grid"
+              "key": "item_grid_horizontal"
             }
           ]
         }
       ]
     }
   },
-  "item_grid": {
+  "item_grid_horizontal": {
     "type": "dock",
     "content": [
       {
         "type": "group",
-        "dock": "top",
+        "dock": "left",
         "header": "Goal",
         "content": {
           "type": "layout",
@@ -36,7 +36,7 @@
       },
       {
         "type": "group",
-        "dock": "top",
+        "dock": "left",
         "header": "Magic",
         "content": {
           "type": "itemgrid",
@@ -58,7 +58,7 @@
       },
       {
         "type": "group",
-        "dock": "top",
+        "dock": "left",
         "header": "Keyblades",
         "content": {
           "type": "itemgrid",
@@ -90,7 +90,7 @@
       },
       {
         "type": "group",
-        "dock": "top",
+        "dock": "left",
         "header": "Gimmick Unlocks",
         "content": {
           "type": "itemgrid",
@@ -109,7 +109,7 @@
       },
       {
         "type": "group",
-        "dock": "top",
+        "dock": "left",
         "header": "Abilities",
         "content": {
           "type": "itemgrid",
@@ -135,7 +135,7 @@
       },
       {
         "type": "group",
-        "dock": "top",
+        "dock": "left",
         "header": "Key Items",
         "content": {
           "type": "itemgrid",
@@ -151,7 +151,7 @@
       },
       {
         "type": "group",
-        "dock": "top",
+        "dock": "left",
         "header": "Heartbinders",
         "content": {
           "type": "itemgrid",
@@ -170,7 +170,7 @@
       },
       {
         "type": "group",
-        "dock": "top",
+        "dock": "left",
         "header": "Movement",
         "content": {
           "type": "itemgrid",
@@ -188,7 +188,7 @@
       },
       {
         "type": "group",
-        "dock": "top",
+        "dock": "left",
         "header": "Survival & Bonuses",
         "content": {
           "type": "itemgrid",

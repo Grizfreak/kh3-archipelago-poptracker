@@ -1355,28 +1355,28 @@
                 "ref": "San Fransokyo - Chests/SF - Chests 1+30/San Fransokyo - Small Chest 29"
               },
               {
-                "name": "San Fransokyo - EVENT_009 - RandomizedItem",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/San Fransokyo - EVENT_009 - RandomizedItem"
+                "name": "San fransokyo events",
+                "ref": "San Fransokyo - Events/San fransokyo events/San fransokyo events"
               },
               {
                 "name": "San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem"
+                "ref": "San Fransokyo - Events/San fransokyo events/San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem"
               },
               {
                 "name": "San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem"
+                "ref": "San Fransokyo - Events/San fransokyo events/San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem"
               },
               {
                 "name": "San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem"
+                "ref": "San Fransokyo - Events/San fransokyo events/San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem"
               },
               {
                 "name": "Defeat Metal Troll in San Fransokyo: The Bridge",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/Defeat Metal Troll in San Fransokyo: The Bridge"
+                "ref": "San Fransokyo - Events/San fransokyo events/Defeat Metal Troll in San Fransokyo: The Bridge"
               },
               {
                 "name": "Meet Big Hero 6 in San Fransokyo - Hiro's Garage",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/Meet Big Hero 6 in San Fransokyo - Hiro's Garage"
+                "ref": "San Fransokyo - Events/San fransokyo events/Meet Big Hero 6 in San Fransokyo - Hiro's Garage"
               },
               {
                 "name": "The City Heartless at Hiro's indicator in San Fransokyo - The City (Day)",
@@ -1388,7 +1388,7 @@
               },
               {
                 "name": "Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)"
+                "ref": "San Fransokyo - Events/San fransokyo events/Rescue Big Hero 6 from Darkubes in San Fransokyo - The City (Night)"
               },
               {
                 "name": "Defeat Darkubes in San Fransokyo - The City (Night)",
@@ -1396,7 +1396,7 @@
               },
               {
                 "name": "Defeat Dark Baymax in San Fransokyo - The City (Day)",
-                "ref": "San Fransokyo - Events/San Fransokyo - EVENT_009 - RandomizedItem/Defeat Dark Baymax in San Fransokyo - The City (Day)"
+                "ref": "San Fransokyo - Events/San fransokyo events/Defeat Dark Baymax in San Fransokyo - The City (Day)"
               }
             ],
             "map_locations": [

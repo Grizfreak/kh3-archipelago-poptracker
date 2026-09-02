@@ -313,7 +313,7 @@ OVERWORLD_SECTION_MAP = {
     ["San Fransokyo - Small Chest 30"] = "@San Fransokyo - All Checks/San Fransokyo - Small Chest 30",
     ["San Fransokyo - Small Chest 31"] = "@San Fransokyo - All Checks/San Fransokyo - Small Chest 31",
     ["San Fransokyo - Small Chest 32"] = "@San Fransokyo - All Checks/San Fransokyo - Small Chest 32",
-    ["San Fransokyo - EVENT_009 - RandomizedItem"] = "@San Fransokyo - All Checks/San Fransokyo - EVENT_009 - RandomizedItem",
+    ["San fransokyo events"] = "@San Fransokyo - All Checks/San fransokyo events",
     ["San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem"] = "@San Fransokyo - All Checks/San Fransokyo - EVENT_KEYBLADE_009 - RandomizedItem",
     ["San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem"] = "@San Fransokyo - All Checks/San Fransokyo - EVENT_HEARTBINDER_004 - RandomizedItem",
     ["San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem"] = "@San Fransokyo - All Checks/San Fransokyo - EVENT_KEYITEM_002 - RandomizedItem",
@@ -651,6 +651,8 @@ function onItem(index, item_id, item_name, player_id)
         end
     elseif mapping.type == "consumable" then
         obj.AcquiredCount = (obj.AcquiredCount or 0) + 1
+    elseif mapping.type == "consumable_max" then
+        obj.AcquiredCount = mapping.max or obj.AcquiredCount
     end
     print(string.format("onItem: tracked '%s' -> %s", item_name, mapping.code))
 
@@ -783,7 +785,7 @@ function onClear(slot_data)
                 obj.Active = false
             elseif mapping.type == "progressive" then
                 obj.CurrentStage = 0
-            elseif mapping.type == "consumable" then
+            elseif mapping.type == "consumable" or mapping.type == "consumable_max" then
                 obj.AcquiredCount = 0
             end
         end

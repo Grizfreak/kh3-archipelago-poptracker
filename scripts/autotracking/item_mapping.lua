@@ -186,6 +186,13 @@ ITEM_MAPPING_BY_NAME = {
     ["Secret Report 11"] = { code = "secret_report", type = "consumable" },
     ["Secret Report 12"] = { code = "secret_report", type = "consumable" },
     ["Secret Report 13"] = { code = "secret_report", type = "consumable" },
+    -- Sent once per shard; a single AP item name repeated up to the seed's
+    -- Ultima Weapon Shard Count (2-13), not 13 distinct numbered items.
+    ["Ultima Weapon Shard"] = { code = "ultima_weapon_shard", type = "consumable" },
+    -- Other Ultima Weapon unlock modes (shop/yozora/randomized pool) send the
+    -- keyblade itself instead of shards; fill the same counter to max so one
+    -- widget reflects "Ultima obtained" regardless of the seed's unlock mode.
+    ["Ultima Weapon"] = { code = "ultima_weapon_shard", type = "consumable_max", max = 13 },
 
     -- Logic items (portal keyblades, unlocks, movement abilities)
     ["Hero's Origin"] = { code = "kb_heros_origin", type = "toggle" },

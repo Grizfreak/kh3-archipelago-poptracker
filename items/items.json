@@ -94,6 +94,14 @@
     "overlay_font_size": 24
   },
   {
+    "name": "Ultima Weapon Shard",
+    "type": "consumable",
+    "codes": "ultima_weapon_shard",
+    "max_quantity": 13,
+    "img": "images/items/keyblades/Ultima.png",
+    "overlay_font_size": 24
+  },
+  {
     "name": "Dream Heartbinder",
     "type": "toggle",
     "codes": "dream_heartbinder",

@@ -68,8 +68,8 @@
         "map_locations": [
           {
             "map": "map_toybox_galaxy_2nd_vents",
-            "x": 594,
-            "y": 168
+            "x": 506,
+            "y": 174
           }
         ]
       },
@@ -271,8 +271,8 @@
         "map_locations": [
           {
             "map": "map_toybox_galaxy_2nd_vents",
-            "x": 506,
-            "y": 174
+            "x": 594,
+            "y": 168
           }
         ]
       },

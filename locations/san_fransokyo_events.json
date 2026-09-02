@@ -6,10 +6,10 @@
     ],
     "children": [
       {
-        "name": "San Fransokyo - EVENT_009 - RandomizedItem",
+        "name": "San fransokyo events",
         "sections": [
           {
-            "name": "San Fransokyo - EVENT_009 - RandomizedItem",
+            "name": "San fransokyo events",
             "item_count": 1,
             "access_rules": [
               "ability_pole_spin,$has_any|fire|thunder,$has_any|blizzard|water,$has_any|aero|thunder,unlock_magic"
@@ -58,6 +58,12 @@
             "map": "map_sanfransokyo",
             "x": 448,
             "y": 975,
+            "shape": "diamond"
+          },
+          {
+            "map": "map_sanfransokyo_dark",
+            "x": 354,
+            "y": 977,
             "shape": "diamond"
           }
         ]
