@@ -49,8 +49,7 @@
   },
   {
     "package_version": "0.2.2",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.2.1/kh3-archipelago-poptracker-v0.2.2.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Fixed misaligned chest due to shifted Ids."]
   },
   {
@@ -67,8 +66,7 @@
   },
   {
     "package_version": "0.1.9",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.9/kh3-archipelago-poptracker-v0.1.9.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Added Re-Mind DLC and fixed some chests."]
   },
   {
@@ -86,43 +84,37 @@
   {
     "package_version": "0.1.6",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.6/kh3-archipelago-poptracker-v0.1.6.zip",
-    "sha256": "sha256:2db2ea41ad8d2c186fc36f7b14e4cfa84dd6d05f66c1a3bd8c14993ab6d68c54",
+    "sha256": "2db2ea41ad8d2c186fc36f7b14e4cfa84dd6d05f66c1a3bd8c14993ab6d68c54",
     "changelog": ["Fixed Misaligned chests in olympus"]
   },
   {
     "package_version": "0.1.5",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.5/kh3-archipelago-poptracker-v0.1.5.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Added overworld view"]
   },
   {
     "package_version": "0.1.4",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.4/kh3-archipelago-poptracker-v0.1.4.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Removed unnecessary items and reworked some images"]
-  },  
+  },
   {
     "package_version": "0.1.3",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.3/kh3-archipelago-poptracker-v0.1.3.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Fixed caribbean and sanfran chests as well as all stacked chests"]
   },
   {
     "package_version": "0.1.2",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.2/kh3-archipelago-poptracker-v0.1.2.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Fixed Misaligned Toy box - Large Chest 4."]
   },
   {
     "package_version": "0.1.1",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.1/kh3-archipelago-poptracker-v0.1.1.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Fixed some caribbean chests."]
   },
   {
     "package_version": "0.1.0",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.0/kh3-archipelago-poptracker-v0.1.0.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Initial release with chest tracking for all worlds"]
   }
   ]
