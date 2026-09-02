@@ -1,26 +1,27 @@
-[
+{
+  "versions": [
   {
     "package_version": "0.3.3",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.3.3/kh3-archipelago-poptracker-v0.3.3.zip",
-    "sha256": "",
+    "sha256": "3319fc2465b3df34d61c1ea06a579b76b1eff2ed738c7209cc9195d8238336c2",
     "changelog": [
       "Fixed some locations and check access (previously based on UT",
       "Added various variants (horizontal and dark maps)"
     ]
   },
-{
+  {
     "package_version": "0.3.2",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.3.2/kh3-archipelago-poptracker-v0.3.2.zip",
-    "sha256": "",
+    "sha256": "416e823b2d08faf34f4a2bf9147c400209b24c4cedf887fbc11a8a4a28fa19d7",
     "changelog": [
       "Fixed the San Fransokyo 'Chests 1+30' map pin (Small Chest 1 and 29) not auto-checking due to a group name mismatch between the location file and the autotracking code.",
       "Fixed roughly 30 event/bonus locations across Olympus, Twilight Town, Toy Box, Kingdom of Corona, Monstropolis, Arendelle, San Fransokyo, The Caribbean, Keyblade Graveyard and Re Mind not auto-checking, caused by autotracking codes pointing at the wrong parent location."
     ]
   },
-{
+  {
     "package_version": "0.3.1",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.3.1/kh3-archipelago-poptracker-v0.3.1.zip",
-    "sha256": "",
+    "sha256": "84c9055826e0a9557eb57d8f8e31f1ef53d701535b3e55a5e6a408b4350fff8f",
     "changelog": [
       "Added Moogle Shop tracking.",
       "Added the 100 Acre Wood map.",
@@ -31,10 +32,10 @@
       "Added second-level auto-tab-switching for autotracking."
     ]
   },
-{
+  {
     "package_version": "0.3.0",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.3.0/kh3-archipelago-poptracker-v0.3.0.zip",
-    "sha256": "",
+    "sha256": "37b6c939455d85e5c7de1c89d90e1e9b5dba274d2ab3ce5859868410e4abe643",
     "changelog": [
       "Added a manual Settings menu to toggle Battlegates, Re:Mind, Lucky Emblems, Keyblade Graveyard and Radiant Garden, and to set the Level and Lucky Emblem limits.",
       "Added support for Heart Pieces as an alternate victory goal alongside the 3 Proofs goal.",
@@ -46,79 +47,75 @@
       "Added missing item icons for keyblades, abilities, world unlocks and settings toggles."
     ]
   },
-{
+  {
     "package_version": "0.2.2",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.2.1/kh3-archipelago-poptracker-v0.2.2.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Fixed misaligned chest due to shifted Ids."]
   },
-{
+  {
     "package_version": "0.2.1",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.2.1/kh3-archipelago-poptracker-v0.2.1.zip",
-    "sha256": "",
+    "sha256": "02081ad71f94b086bf002a0695335a4fce4646c813b506fa6449c9e5bc6a39bf",
     "changelog": ["Fixed some misaligned checks due to shifted Ids."]
   },
-{
+  {
     "package_version": "0.2.0",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.2.0/kh3-archipelago-poptracker-v0.2.0.zip",
-    "sha256": "",
+    "sha256": "fbe05c45af0f3f22c67857ae19aa02548a85239b0797c68d496792d9adbb7575",
     "changelog": ["Added Logic."]
   },
-{
+  {
     "package_version": "0.1.9",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.9/kh3-archipelago-poptracker-v0.1.9.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Added Re-Mind DLC and fixed some chests."]
   },
-{
+  {
     "package_version": "0.1.8",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.8/kh3-archipelago-poptracker-v0.1.8.zip",
-    "sha256": "",
+    "sha256": "1853e3a49f2041880c06bce4f9f1f7c569ea573d8d4d18bdba21e9fb1e7ba9c8",
     "changelog": ["Added auto slot detection and data fights"]
   },
   {
     "package_version": "0.1.7",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.7/kh3-archipelago-poptracker-v0.1.7.zip",
-    "sha256": "",
+    "sha256": "fb71144df44f028d3c09d487f043c04b4ef8007f9242474ba951bcde3d011af1",
     "changelog": ["Hint System established: Yellow: Useful items, Red: Trap items and Blue: Filler Items"]
   },
-{
+  {
     "package_version": "0.1.6",
     "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.6/kh3-archipelago-poptracker-v0.1.6.zip",
-    "sha256": "",
+    "sha256": "2db2ea41ad8d2c186fc36f7b14e4cfa84dd6d05f66c1a3bd8c14993ab6d68c54",
     "changelog": ["Fixed Misaligned chests in olympus"]
   },
   {
     "package_version": "0.1.5",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.5/kh3-archipelago-poptracker-v0.1.5.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Added overworld view"]
   },
-   {
+  {
     "package_version": "0.1.4",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.4/kh3-archipelago-poptracker-v0.1.4.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Removed unnecessary items and reworked some images"]
-  },  {
+  },
+  {
     "package_version": "0.1.3",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.3/kh3-archipelago-poptracker-v0.1.3.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Fixed caribbean and sanfran chests as well as all stacked chests"]
-  },{
+  },
+  {
     "package_version": "0.1.2",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.2/kh3-archipelago-poptracker-v0.1.2.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Fixed Misaligned Toy box - Large Chest 4."]
-  },{
+  },
+  {
     "package_version": "0.1.1",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.1/kh3-archipelago-poptracker-v0.1.1.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Fixed some caribbean chests."]
   },
   {
     "package_version": "0.1.0",
-    "download_url": "https://github.com/z3xox/kh3-archipelago-poptracker/releases/download/v0.1.0/kh3-archipelago-poptracker-v0.1.0.zip",
-    "sha256": "",
+    "download_url": null,
     "changelog": ["Initial release with chest tracking for all worlds"]
   }
-]
+  ]
+}
